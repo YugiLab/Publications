@@ -136,7 +136,7 @@ in each subdirectory dataFIXME to produce dataFIXME_TGs.txt.
 
 `$ bash generate_alldata_TFTGs_count.sh`
 
-`$ python alldata_TFTG_mergy.py`
+`$ python alldata_TFTG_merge.py`
 
 `$ python alldata_as_matrix_forR.py`
 
