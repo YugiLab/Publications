@@ -6,7 +6,7 @@ library(ggsci)
 x <- data.frame(
     data   = c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"),
     sample = c("Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Promoter","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer","Promoter.Enhancer" ),
-    number = c(0,17,57,4,7,1,3,7,16,31,21,3,0,20,8,9,42,97,26,28,13,16,27,52,75,38,19,0,57,28,9,42,98,26,28,13,17,28,52,75,38,19,0,57,28)
+    number = c(3,17,74,4,7,0,3,7,16,6,12,3,0,23,8,10,42,112,26,28,11,16,27,52,15,33,19,0,49,28,10,42,113,26,28,11,17,28,52,15,33,19,0,50,28)
     )
     x$sample <- factor(x$sample, levels = unique(x$sample))
 

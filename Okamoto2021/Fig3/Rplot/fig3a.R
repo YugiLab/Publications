@@ -4,7 +4,7 @@ library(ggplot2)
 library(reshape2)
 library(ggrepel)
 
-a <- read.table("fig3a_data_new.txt", header=T, sep="\t")
+a <- read.table("fig3a_data.txt", header=T, sep="\t")
 colnames(a) <- c("PublicData","1","2","3","4","5")
 data <- melt(a, id = "PublicData", measure = c("1", "2", "3", "4", "5"))
 colnames(data) <- c("PublicData","Layer","TFBSs")

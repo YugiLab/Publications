@@ -1,11 +1,11 @@
 Public Data15
-layer1のTFBSの種類
+The number of TFBSs on layer1
       28      28     169 data15_TFBS_DEGs.txt
-layer2のTFBSの種類
+The number of TFBSs on layer2
       28      28     169 data15_TFBS_DEGs2.txt
-layer3のTFBSの種類
+The number of TFBSs on layer3
       28      28     169 data15_TFBS_DEGs3.txt
-layer4のTFBSの種類
+The number of TFBSs on layer4
       28      28     169 data15_TFBS_DEGs4.txt
-layer5のTFBSの種類
+The number of TFBSs on layer5
       28      28     169 data15_TFBS_DEGs5.txt

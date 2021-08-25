@@ -41,6 +41,8 @@ in each subdirectory.
 TF_estimation contains subdirectories "Public_Data1~15". Each subdirectory contains the files below:
 
 * "TF_estimation.sh"
+* "Fig2a.sh"
+* "Fig3a.sh"
 * "dataFIXME_lipid_genes.txt" (FIXME is the number of the public data) is the input gene list of GeneALaCart Query
 * "dataFIXME_DEGs.txt" is used to identify and extract DEGs from the estimated TFBSs
 * xlsx files containing results of TF estimation via GeneALaCart Query
@@ -60,7 +62,9 @@ The script will process the list of TFs and output the list of corresponding TFB
 4. Enter genelist("dataFIXME_TFBS_DEGs.txt") in the Input field of GeneALaCart Query, with 'GeneHancer' selected as the Requested Data per Gene (Repeat the procedure from step 2.)
 5. When done, run
 
-`$ bash Fig2.sh FIXME > results_dataFIXME.txt`
+`$ bash Fig2a.sh FIXME > results_dataFIXME.txt`
+
+`$ bash Fig3a.sh FIXME > fig3a_results.txt`
 
 and obtain number of data.
 - When taking out the GeneHancer tab from the downloaded data (from Layer2 or more) and saving it, do not forget to save as "genehancer_dataFIXME_depth2.csv"
@@ -121,7 +125,7 @@ Rplot contains files for drawing Fig3a~c and consists of the files below:
 The scripts will generate barplot of the number of DEGs in each cluster and heatmap of TF-TG pairs.
 
 1. Make sure that all the files shown above are present in the working directory.
-2. Run "fig3a_new.R" to obtain the graph of Fig.3a.
+2. Run "fig3a.R" to obtain the graph of Fig.3a.
 3. Run
 
 `$ bash generate_TG_lis.sh FIXME`
