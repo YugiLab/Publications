@@ -1,0 +1,11 @@
+
+HUMAN|HGNC=29084|UniProtKB=O75123	ZNF623	Zinc finger protein 623;ZNF623;ortholog	ZINC FINGER PROTEIN 623 (PTHR24377:SF244)		Homo sapiens
+HUMAN|HGNC=9348|UniProtKB=Q9UKN5	PRDM4	PR domain zinc finger protein 4;PRDM4;ortholog	PR DOMAIN ZINC FINGER PROTEIN 4 (PTHR16515:SF2)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=1539|UniProtKB=Q13951	CBFB	Core-binding factor subunit beta;CBFB;ortholog	CORE-BINDING FACTOR SUBUNIT BETA (PTHR10276:SF3)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=3798|UniProtKB=P15408	FOSL2	Fos-related antigen 2;FOSL2;ortholog	FOS-RELATED ANTIGEN 2 (PTHR23351:SF25)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=9987|UniProtKB=O14593	RFXANK	DNA-binding protein RFXANK;RFXANK;ortholog	DNA-BINDING PROTEIN RFXANK (PTHR24124:SF4)	protein-binding activity modulator(PC00095)	Homo sapiens
+HUMAN|HGNC=6351|UniProtKB=O95600	KLF8	Krueppel-like factor 8;KLF8;ortholog	KRUEPPEL-LIKE FACTOR 8 (PTHR23235:SF46)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=12861|UniProtKB=Q96NJ6	ZFP3	Zinc finger protein 3 homolog;ZFP3;ortholog	ZINC FINGER PROTEIN 3 HOMOLOG (PTHR24381:SF272)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=14129|UniProtKB=Q96KQ7	EHMT2	Histone-lysine N-methyltransferase EHMT2;EHMT2;ortholog	HISTONE-LYSINE N-METHYLTRANSFERASE EHMT2 (PTHR46307:SF1)		Homo sapiens
+HUMAN|HGNC=3490|UniProtKB=P50549	ETV1	ETS translocation variant 1;ETV1;ortholog	ETS TRANSLOCATION VARIANT 1 (PTHR11849:SF196)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=2235|UniProtKB=Q99612	KLF6	Krueppel-like factor 6;KLF6;ortholog	KRUEPPEL-LIKE FACTOR 6 (PTHR23235:SF50)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens

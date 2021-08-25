@@ -1,0 +1,35 @@
+SREBF1	
+E2F4	general transcription factor(PC00259)
+ZNF623	
+PAF1	
+THRB	C4 zinc finger nuclear receptor(PC00169)
+ELF3	winged helix/forkhead transcription factor(PC00246)
+BRCA1	ubiquitin-protein ligase(PC00234)
+RXRB	C4 zinc finger nuclear receptor(PC00169)
+HOMEZ	homeodomain transcription factor(PC00119)
+PBX2	homeodomain transcription factor(PC00119)
+ZNF217	C2H2 zinc finger transcription factor(PC00248)
+ZNF687	
+ZNF680	DNA-binding transcription factor(PC00218)
+ELF4	winged helix/forkhead transcription factor(PC00246)
+GTF2F1	general transcription factor(PC00259)
+ZNF514	
+PAF1	
+DACH1	winged helix/forkhead transcription factor(PC00246)
+OSR2	zinc finger transcription factor(PC00244)
+ETV1	winged helix/forkhead transcription factor(PC00246)
+ZNF174	C2H2 zinc finger transcription factor(PC00248)
+RNF2	ubiquitin-protein ligase(PC00234)
+NR2F2	C4 zinc finger nuclear receptor(PC00169)
+TEAD1	DNA-binding transcription factor(PC00218)
+NR2F1	C4 zinc finger nuclear receptor(PC00169)
+XRCC3	DNA metabolism protein(PC00009)
+REST	C2H2 zinc finger transcription factor(PC00248)
+THRB	serine protease(PC00203)
+AFF1	DNA-binding transcription factor(PC00218)
+U2AF2	
+SREBF2	
+MTA1	homeodomain transcription factor(PC00119)
+TFAP4	DNA-binding transcription factor(PC00218)
+IKZF2	C2H2 zinc finger transcription factor(PC00248)
+TCF7L2	DNA-binding transcription factor(PC00218)

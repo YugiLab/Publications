@@ -1,0 +1,42 @@
+RCOR2	
+PRDM12	C2H2 zinc finger transcription factor(PC00248)
+AHR	basic helix-loop-helix transcription factor(PC00055)
+SCRT1	C2H2 zinc finger transcription factor(PC00248)
+KLF10	C2H2 zinc finger transcription factor(PC00248)
+MAFF	basic leucine zipper transcription factor(PC00056)
+CBX2	
+PBX2	homeodomain transcription factor(PC00119)
+ATF3	basic leucine zipper transcription factor(PC00056)
+KLF7	C2H2 zinc finger transcription factor(PC00248)
+EGR2	C2H2 zinc finger transcription factor(PC00248)
+RBFOX2	RNA splicing factor(PC00148)
+FOSL2	basic leucine zipper transcription factor(PC00056)
+NFIB	DNA-binding transcription factor(PC00218)
+SCRT2	C2H2 zinc finger transcription factor(PC00248)
+ELF4	winged helix/forkhead transcription factor(PC00246)
+CBFA2T3	transcription cofactor(PC00217)
+KAT7	histone modifying enzyme(PC00261)
+DNMT3B	DNA methyltransferase(PC00013)
+NR3C1	
+INSM2	
+ARID3A	DNA-binding transcription factor(PC00218)
+NR2F6	C4 zinc finger nuclear receptor(PC00169)
+DACH1	winged helix/forkhead transcription factor(PC00246)
+BCL11B	C2H2 zinc finger transcription factor(PC00248)
+NFIC	DNA-binding transcription factor(PC00218)
+ID3	DNA-binding transcription factor(PC00218)
+TEAD4	DNA-binding transcription factor(PC00218)
+ETV1	winged helix/forkhead transcription factor(PC00246)
+SOX6	
+NFIA	DNA-binding transcription factor(PC00218)
+HDAC2	
+KLF6	C2H2 zinc finger transcription factor(PC00248)
+ZIC2	C2H2 zinc finger transcription factor(PC00248)
+FOSL1	basic leucine zipper transcription factor(PC00056)
+KLF4	C2H2 zinc finger transcription factor(PC00248)
+ZHX2	homeodomain transcription factor(PC00119)
+TEAD3	DNA-binding transcription factor(PC00218)
+MYRF	
+SREBF2	
+TFAP4	DNA-binding transcription factor(PC00218)
+IKZF2	C2H2 zinc finger transcription factor(PC00248)

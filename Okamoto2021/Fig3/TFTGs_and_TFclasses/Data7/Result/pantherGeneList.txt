@@ -1,0 +1,18 @@
+
+HUMAN|HGNC=11810|UniProtKB=Q13118	KLF10	Krueppel-like factor 10;KLF10;ortholog	KRUEPPEL-LIKE FACTOR 10 (PTHR23235:SF64)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=16379|UniProtKB=Q8IYM9	TRIM22	E3 ubiquitin-protein ligase TRIM22;TRIM22;ortholog	E3 UBIQUITIN-PROTEIN LIGASE TRIM22 (PTHR24103:SF650)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=30075|UniProtKB=O15318	POLR3G	DNA-directed RNA polymerase III subunit RPC7;POLR3G;ortholog	DNA-DIRECTED RNA POLYMERASE III SUBUNIT RPC7 (PTHR15367:SF3)	DNA-directed RNA polymerase(PC00019)	Homo sapiens
+HUMAN|HGNC=23717|UniProtKB=Q96CX3	ZNF501	Zinc finger protein 501;ZNF501;ortholog	ZINC FINGER PROTEIN 501 (PTHR24404:SF79)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=7785|UniProtKB=O00712	NFIB	Nuclear factor 1 B-type;NFIB;ortholog	NUCLEAR FACTOR 1 B-TYPE (PTHR11492:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11366|UniProtKB=P42229	STAT5A	Signal transducer and activator of transcription 5A;STAT5A;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5A (PTHR11801:SF47)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=3031|UniProtKB=Q99856	ARID3A	AT-rich interactive domain-containing protein 3A;ARID3A;ortholog	AT-RICH INTERACTIVE DOMAIN-CONTAINING PROTEIN 3A (PTHR15348:SF1)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=3495|UniProtKB=P41212	ETV6	Transcription factor ETV6;ETV6;ortholog	TRANSCRIPTION FACTOR ETV6 (PTHR11849:SF19)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=5362|UniProtKB=Q02535	ID3	DNA-binding protein inhibitor ID-3;ID3;ortholog	DNA-BINDING PROTEIN INHIBITOR ID-3 (PTHR11723:SF16)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11796|UniProtKB=P10827	THRA	Thyroid hormone receptor alpha;THRA;ortholog	THYROID HORMONE RECEPTOR ALPHA (PTHR24082:SF42)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=16421|UniProtKB=P35712	SOX6	Transcription factor SOX-6;SOX6;ortholog	TRANSCRIPTION FACTOR SOX-6 (PTHR45789:SF1)		Homo sapiens
+HUMAN|HGNC=7784|UniProtKB=Q12857	NFIA	Nuclear factor 1 A-type;NFIA;ortholog	NUCLEAR FACTOR 1 A-TYPE (PTHR11492:SF6)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=10897|UniProtKB=P12757	SKIL	Ski-like protein;SKIL;ortholog	SKI-LIKE PROTEIN (PTHR10005:SF3)		Homo sapiens
+HUMAN|HGNC=4172|UniProtKB=P23771	GATA3	Trans-acting T-cell-specific transcription factor GATA-3;GATA3;ortholog	TRANS-ACTING T-CELL-SPECIFIC TRANSCRIPTION FACTOR GATA-3 (PTHR10071:SF106)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=8638|UniProtKB=Q92831	KAT2B	Histone acetyltransferase KAT2B;KAT2B;ortholog	HISTONE ACETYLTRANSFERASE KAT2B (PTHR45750:SF2)		Homo sapiens
+HUMAN|HGNC=32291|UniProtKB=Q6ZNC4	ZNF704	Zinc finger protein 704;ZNF704;ortholog	ZINC FINGER PROTEIN 704 (PTHR13006:SF7)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=11641|UniProtKB=Q9NQB0	TCF7L2	Transcription factor 7-like 2;TCF7L2;ortholog	TRANSCRIPTION FACTOR 7-LIKE 2 (PTHR10373:SF32)	DNA-binding transcription factor(PC00218)	Homo sapiens

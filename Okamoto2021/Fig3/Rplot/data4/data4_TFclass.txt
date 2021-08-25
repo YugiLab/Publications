@@ -1,0 +1,26 @@
+KDM1A	oxidase(PC00175)
+SMC3	
+CHD1	
+CSDE1	
+GTF3C2	
+ZNF114	DNA-binding transcription factor(PC00218)
+XRCC5	DNA helicase(PC00011)
+CBFB	DNA-binding transcription factor(PC00218)
+ZNF521	C2H2 zinc finger transcription factor(PC00248)
+NFATC3	Rel homology transcription factor(PC00252)
+CHD4	
+BCOR	
+SALL2	C2H2 zinc finger transcription factor(PC00248)
+ARID2	
+DNMT1	DNA methyltransferase(PC00013)
+TBL1XR1	
+MTA3	homeodomain transcription factor(PC00119)
+EP400	
+PRDM6	C2H2 zinc finger transcription factor(PC00248)
+HLTF	
+MYC	basic helix-loop-helix transcription factor(PC00055)
+KLF6	C2H2 zinc finger transcription factor(PC00248)
+CTCF	C2H2 zinc finger transcription factor(PC00248)
+SMARCA5	DNA helicase(PC00011)
+HNRNPL	
+NRF1	DNA-binding transcription factor(PC00218)

@@ -1,0 +1,23 @@
+
+HUMAN|HGNC=12947|UniProtKB=P17020	ZNF16	Zinc finger protein 16;ZNF16;ortholog	ZINC FINGER PROTEIN 16 (PTHR24377:SF879)		Homo sapiens
+HUMAN|HGNC=12998|UniProtKB=O43670	ZNF207	BUB3-interacting and GLEBS motif-containing protein ZNF207;ZNF207;ortholog	BUB3-INTERACTING AND GLEBS MOTIF-CONTAINING PROTEIN ZNF207 (PTHR23215:SF1)	DNA metabolism protein(PC00009)	Homo sapiens
+HUMAN|HGNC=3238|UniProtKB=P18146	EGR1	Early growth response protein 1;EGR1;ortholog	EARLY GROWTH RESPONSE PROTEIN 1 (PTHR23235:SF42)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=11810|UniProtKB=Q13118	KLF10	Krueppel-like factor 10;KLF10;ortholog	KRUEPPEL-LIKE FACTOR 10 (PTHR23235:SF64)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=11205|UniProtKB=P08047	SP1	Transcription factor Sp1;SP1;ortholog	TRANSCRIPTION FACTOR SP1 (PTHR23235:SF16)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=25406|UniProtKB=Q8N3J9	ZNF664	Zinc finger protein 664;ZNF664;ortholog	ZINC FINGER PROTEIN 664 (PTHR24384:SF30)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=7785|UniProtKB=O00712	NFIB	Nuclear factor 1 B-type;NFIB;ortholog	NUCLEAR FACTOR 1 B-TYPE (PTHR11492:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=12988|UniProtKB=O14709	ZNF197	Zinc finger protein 197;ZNF197;ortholog	ZINC FINGER PROTEIN 197 (PTHR24376:SF212)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=26780|UniProtKB=Q8N907	SP1	DAN domain family member 5;DAND5;ortholog	DAN DOMAIN FAMILY MEMBER 5 (PTHR15273:SF5)		Homo sapiens
+HUMAN|HGNC=29136|UniProtKB=O94953	KDM4B	Lysine-specific demethylase 4B;KDM4B;ortholog	LYSINE-SPECIFIC DEMETHYLASE 4B (PTHR10694:SF30)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=13139|UniProtKB=P17097	ZNF7	Zinc finger protein 7;ZNF7;ortholog	ZINC FINGER PROTEIN 7 (PTHR24377:SF189)		Homo sapiens
+HUMAN|HGNC=18864|UniProtKB=Q96L42	ELK1	Potassium voltage-gated channel subfamily H member 8;KCNH8;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY H MEMBER 8 (PTHR10217:SF380)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=6551|UniProtKB=Q9UJU2	LEF1	Lymphoid enhancer-binding factor 1;LEF1;ortholog	LYMPHOID ENHANCER-BINDING FACTOR 1 (PTHR10373:SF11)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=5724|UniProtKB=Q06330	RBPJ	Recombining binding protein suppressor of hairless;RBPJ;ortholog	RECOMBINING BINDING PROTEIN SUPPRESSOR OF HAIRLESS (PTHR10665:SF3)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=13101|UniProtKB=P17029	ZKSCAN1	Zinc finger protein with KRAB and SCAN domains 1;ZKSCAN1;ortholog	ZINC FINGER PROTEIN WITH KRAB AND SCAN DOMAINS 1 (PTHR23226:SF94)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=13089|UniProtKB=P17036	ZNF3	Zinc finger protein 3;ZNF3;ortholog	ZINC FINGER PROTEIN 3-RELATED (PTHR24381:SF366)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=3490|UniProtKB=P50549	ETV1	ETS translocation variant 1;ETV1;ortholog	ETS TRANSLOCATION VARIANT 1 (PTHR11849:SF196)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=31930|UniProtKB=Q6ZS27	ZNF662	Zinc finger protein 662;ZNF662;ortholog	ZINC FINGER PROTEIN 662 (PTHR24390:SF39)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=17101|UniProtKB=Q15022	SUZ12	Polycomb protein SUZ12;SUZ12;ortholog	POLYCOMB PROTEIN SUZ12 (PTHR22597:SF0)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Homo sapiens
+HUMAN|HGNC=11714|UniProtKB=P28347	TEAD1	Transcriptional enhancer factor TEF-1;TEAD1;ortholog	TRANSCRIPTIONAL ENHANCER FACTOR TEF-1 (PTHR11834:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=6253|UniProtKB=Q9UQ05	ELK1	Potassium voltage-gated channel subfamily H member 4;KCNH4;ortholog	POTASSIUM VOLTAGE-GATED CHANNEL SUBFAMILY H MEMBER 4 (PTHR10217:SF630)	ion channel(PC00133)	Homo sapiens
+HUMAN|HGNC=3321|UniProtKB=P19419	ELK1	ETS domain-containing protein Elk-1;ELK1;ortholog	ETS DOMAIN-CONTAINING PROTEIN ELK-1 (PTHR11849:SF178)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens

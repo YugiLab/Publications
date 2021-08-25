@@ -1,0 +1,11 @@
+Public Data6
+layer1のTFBSの種類
+      11      11      70 data6_TFBS_DEGs.txt
+layer2のTFBSの種類
+      11      11      70 data6_TFBS_DEGs2.txt
+layer3のTFBSの種類
+      11      11      70 data6_TFBS_DEGs3.txt
+layer4のTFBSの種類
+      11      11      70 data6_TFBS_DEGs4.txt
+layer5のTFBSの種類
+      11      11      70 data6_TFBS_DEGs5.txt

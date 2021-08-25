@@ -1,0 +1,11 @@
+Public Data7
+layer1のTFBSの種類
+      16      16      94 data7_TFBS_DEGs.txt
+layer2のTFBSの種類
+      17      17     101 data7_TFBS_DEGs2.txt
+layer3のTFBSの種類
+      17      17     101 data7_TFBS_DEGs3.txt
+layer4のTFBSの種類
+      17      17     101 data7_TFBS_DEGs4.txt
+layer5のTFBSの種類
+      17      17     101 data7_TFBS_DEGs5.txt

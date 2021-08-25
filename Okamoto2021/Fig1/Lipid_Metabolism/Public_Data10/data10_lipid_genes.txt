@@ -1,0 +1,11 @@
+hsa:220074 LRTOMT path:hsa00140
+hsa:34 ACADM path:hsa00071
+hsa:5050 PAFAH1B3 path:hsa00565
+hsa:6646 SOAT1 path:hsa00100
+hsa:6916 TBXAS1 path:hsa00590
+hsa:79071 ELOVL6 path:hsa00062
+hsa:79071 ELOVL6 path:hsa01040
+hsa:79644 SRD5A3 path:hsa00140
+hsa:8644 AKR1C3 path:hsa00140
+hsa:8644 AKR1C3 path:hsa00590
+hsa:9331 B4GALT6 path:hsa00600

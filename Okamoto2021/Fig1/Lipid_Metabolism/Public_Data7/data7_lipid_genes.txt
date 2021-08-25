@@ -1,0 +1,11 @@
+hsa:23205 ACSBG1 path:hsa00061
+hsa:23205 ACSBG1 path:hsa00071
+hsa:259230 SGMS1 path:hsa00600
+hsa:3157 HMGCS1 path:hsa00072
+hsa:54898 ELOVL2 path:hsa00062
+hsa:54898 ELOVL2 path:hsa01040
+hsa:6319 SCD path:hsa01040
+hsa:64900 LPIN3 path:hsa00561
+hsa:64900 LPIN3 path:hsa00564
+hsa:7108 TM7SF2 path:hsa00100
+hsa:79966 SCD5 path:hsa01040

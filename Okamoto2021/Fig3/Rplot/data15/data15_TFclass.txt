@@ -1,0 +1,29 @@
+ZNF610	
+AHR	basic helix-loop-helix transcription factor(PC00055)
+KLF16	C2H2 zinc finger transcription factor(PC00248)
+ZNF2	
+HLF	basic helix-loop-helix transcription factor(PC00055)
+KLF10	C2H2 zinc finger transcription factor(PC00248)
+ZNF626	DNA-binding transcription factor(PC00218)
+MAFG	basic leucine zipper transcription factor(PC00056)
+GTF3C2	
+SP2	C2H2 zinc finger transcription factor(PC00248)
+FOSL2	basic leucine zipper transcription factor(PC00056)
+ELF4	winged helix/forkhead transcription factor(PC00246)
+MEIS2	homeodomain transcription factor(PC00119)
+ZNF781	C2H2 zinc finger transcription factor(PC00248)
+ZNF514	
+KLF11	C2H2 zinc finger transcription factor(PC00248)
+RUNX1	Runt transcription factor(PC00254)
+PKNOX1	homeodomain transcription factor(PC00119)
+HLF	basic leucine zipper transcription factor(PC00056)
+ZNF423	C2H2 zinc finger transcription factor(PC00248)
+SOX13	
+ZBTB21	C2H2 zinc finger transcription factor(PC00248)
+ZNF311	
+POLR2A	DNA-directed RNA polymerase(PC00019)
+KLF6	C2H2 zinc finger transcription factor(PC00248)
+FOSL1	basic leucine zipper transcription factor(PC00056)
+ZNF416	
+FOXK2	
+MIER2	homeodomain transcription factor(PC00119)

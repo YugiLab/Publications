@@ -1,0 +1,11 @@
+THAP11	
+MLX	DNA-binding transcription factor(PC00218)
+ZC3H11A	RNA processing factor(PC00147)
+NFRKB	chromatin/chromatin-binding, or -regulatory protein(PC00077)
+ZFP41	C2H2 zinc finger transcription factor(PC00248)
+ZBTB44	C2H2 zinc finger transcription factor(PC00248)
+TBL1XR1	
+ZNF205	C2H2 zinc finger transcription factor(PC00248)
+KLF6	C2H2 zinc finger transcription factor(PC00248)
+ZHX2	homeodomain transcription factor(PC00119)
+ZNF248	C2H2 zinc finger transcription factor(PC00248)

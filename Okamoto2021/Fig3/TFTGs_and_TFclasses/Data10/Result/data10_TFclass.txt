@@ -1,0 +1,15 @@
+ZNF623	
+ZNF10	C2H2 zinc finger transcription factor(PC00248)
+ZBTB20	C2H2 zinc finger transcription factor(PC00248)
+ZBTB2	C2H2 zinc finger transcription factor(PC00248)
+ZNF768	C2H2 zinc finger transcription factor(PC00248)
+ZHX1	homeodomain transcription factor(PC00119)
+ZFP91	C2H2 zinc finger transcription factor(PC00248)
+TRIM25	
+SMARCA4	DNA helicase(PC00011)
+DRAP1	DNA-binding transcription factor(PC00218)
+PHF21A	
+NFIA	DNA-binding transcription factor(PC00218)
+NFE2L2	basic leucine zipper transcription factor(PC00056)
+SKIL	
+ZNF24	C2H2 zinc finger transcription factor(PC00248)

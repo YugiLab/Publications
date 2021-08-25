@@ -1,0 +1,17 @@
+Public Data7
+layer1でPromoterに結合するTFBS数
+       0       0       0 data7_promoter_TFBS_DEGs.txt
+layer1でEnhancerに結合するTFBS数
+      15      15      87 data7_enhancer_TFBS_DEGs.txt
+layer1でPromoter/Enhancerに結合するTFBS数
+      16      16      94 data7_promoterenhancer_TFBS_DEGs.txt
+layer2でPromoterに結合するTFBS数
+       3       3      14 data7_promoter_TFBS_DEGs2.txt
+layer2でEnhancerに結合するTFBS数
+      16      16      94 data7_enhancer_TFBS_DEGs2.txt
+layer2でPromoter/Enhancerに結合するTFBS数
+      17      17     101 data7_promoterenhancer_TFBS_DEGs2.txt
+layer1でPromoterまたはEnhancerに結合するTFBSの種類
+      16      16      94 data7_TFBS_DEGs.txt
+layer2でPromoterまたはEnhancerに結合するTFBSの種類
+      17      17     101 data7_TFBS_DEGs2.txt

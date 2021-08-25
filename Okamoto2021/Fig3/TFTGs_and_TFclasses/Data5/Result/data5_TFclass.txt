@@ -1,0 +1,28 @@
+NFYA	DNA-binding transcription factor(PC00218)
+EMSY	DNA-binding transcription factor(PC00218)
+ZNF350	C2H2 zinc finger transcription factor(PC00248)
+ZNF623	
+ZNF398	C2H2 zinc finger transcription factor(PC00248)
+ZNF221	C2H2 zinc finger transcription factor(PC00248)
+PRDM4	C2H2 zinc finger transcription factor(PC00248)
+ZNF701	
+CREB1	
+ATF7	basic leucine zipper transcription factor(PC00056)
+CHAMP1	
+ZBTB25	C2H2 zinc finger transcription factor(PC00248)
+FOSL2	basic leucine zipper transcription factor(PC00056)
+ZNF544	C2H2 zinc finger transcription factor(PC00248)
+SALL2	C2H2 zinc finger transcription factor(PC00248)
+ZNF781	C2H2 zinc finger transcription factor(PC00248)
+CBX5	
+RUNX1	Runt transcription factor(PC00254)
+ZNF433	C2H2 zinc finger transcription factor(PC00248)
+RERE	
+EHMT2	
+ZNF792	
+ZNF331	DNA-binding transcription factor(PC00218)
+AEBP2	
+ZSCAN29	C2H2 zinc finger transcription factor(PC00248)
+ZBTB21	C2H2 zinc finger transcription factor(PC00248)
+KLF6	C2H2 zinc finger transcription factor(PC00248)
+ZNF548	

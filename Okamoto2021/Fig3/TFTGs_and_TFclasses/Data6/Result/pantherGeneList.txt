@@ -1,0 +1,12 @@
+
+HUMAN|HGNC=23194|UniProtKB=Q96EK4	THAP11	THAP domain-containing protein 11;THAP11;ortholog	THAP DOMAIN-CONTAINING PROTEIN 11 (PTHR22794:SF2)		Homo sapiens
+HUMAN|HGNC=11645|UniProtKB=Q9UH92	MLX	Max-like protein X;MLX;ortholog	MAX-LIKE PROTEIN X (PTHR15741:SF25)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=29093|UniProtKB=O75152	ZC3H11A	Zinc finger CCCH domain-containing protein 11A;ZC3H11A;ortholog	ZINC FINGER CCCH DOMAIN-CONTAINING PROTEIN 11A (PTHR15725:SF2)	RNA processing factor(PC00147)	Homo sapiens
+HUMAN|HGNC=7802|UniProtKB=Q6P4R8	NFRKB	Nuclear factor related to kappa-B-binding protein;NFRKB;ortholog	NUCLEAR FACTOR RELATED TO KAPPA-B-BINDING PROTEIN (PTHR13052:SF3)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Homo sapiens
+HUMAN|HGNC=26786|UniProtKB=Q8N8Y5	ZFP41	Zinc finger protein 41 homolog;ZFP41;ortholog	ZINC FINGER PROTEIN 41 HOMOLOG (PTHR24381:SF381)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=25001|UniProtKB=Q8NCP5	ZBTB44	Zinc finger and BTB domain-containing protein 44;ZBTB44;ortholog	ZINC FINGER AND BTB DOMAIN-CONTAINING PROTEIN 44 (PTHR24383:SF10)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=29529|UniProtKB=Q9BZK7	TBL1XR1	F-box-like/WD repeat-containing protein TBL1XR1;TBL1XR1;ortholog	F-BOX-LIKE/WD REPEAT-CONTAINING PROTEIN TBL1XR1 (PTHR22846:SF40)		Homo sapiens
+HUMAN|HGNC=12996|UniProtKB=O95201	ZNF205	Zinc finger protein 205;ZNF205;ortholog	ZINC FINGER PROTEIN 205 (PTHR23226:SF77)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=2235|UniProtKB=Q99612	KLF6	Krueppel-like factor 6;KLF6;ortholog	KRUEPPEL-LIKE FACTOR 6 (PTHR23235:SF50)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=18513|UniProtKB=Q9Y6X8	ZHX2	Zinc fingers and homeoboxes protein 2;ZHX2;ortholog	ZINC FINGERS AND HOMEOBOXES PROTEIN 2 (PTHR15467:SF5)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=13041|UniProtKB=Q8NDW4	ZNF248	Zinc finger protein 248;ZNF248;ortholog	ZINC FINGER PROTEIN 248 (PTHR24381:SF68)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens

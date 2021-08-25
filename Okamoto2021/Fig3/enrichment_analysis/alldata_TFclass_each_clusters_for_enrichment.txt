@@ -1,0 +1,28 @@
+TF_class	#all_data	#cluster1	#cluster2	#cluster3	#cluster4	#cluster5	#cluster6
+C2H2 zinc finger transcription factor(PC00248)	89	20	7	10	5	8	39
+DNA-binding transcription factor(PC00218)	31	10	0	1	6	2	12
+homeodomain transcription factor(PC00119)	14	5	0	2	1	2	4
+winged helix/forkhead transcription factor(PC00246)	13	6	1	0	2	0	4
+basic leucine zipper transcription factor(PC00056)	10	3	2	0	2	0	3
+C4 zinc finger nuclear receptor(PC00169)	10	3	2	1	1	0	3
+"chromatin/chromatin-binding, or -regulatory protein(PC00077)"	7	1	2	1	0	0	3
+basic helix-loop-helix transcription factor(PC00055)	6	2	1	0	1	0	2
+zinc finger transcription factor(PC00244)	5	2	1	0	0	1	1
+general transcription factor(PC00259)	5	1	1	0	0	2	1
+histone modifying enzyme(PC00261)	5	0	0	0	1	2	2
+DNA metabolism protein(PC00009)	4	0	0	0	0	0	4
+RNA splicing factor(PC00148)	4	0	0	0	1	1	2
+ubiquitin-protein ligase(PC00234)	3	1	0	0	0	0	2
+transcription cofactor(PC00217)	3	1	0	0	1	0	1
+DNA helicase(PC00011)	3	0	0	0	0	0	3
+DNA-directed RNA polymerase(PC00019)	2	0	0	1	0	0	1
+DNA methyltransferase(PC00013)	2	0	0	1	0	0	1
+Rel homology transcription factor(PC00252)	2	2	0	0	0	0	0
+Runt transcription factor(PC00254)	1	0	0	0	0	0	1
+RNA processing factor(PC00147)	1	0	0	0	0	1	0
+ion channel(PC00133)	1	0	0	0	0	0	1
+membrane traffic protein(PC00150)	1	0	0	0	0	0	1
+protein-binding activity modulator(PC00095)	1	0	0	0	0	0	1
+nucleic acid metabolism protein(PC00171)	1	0	0	0	0	0	1
+oxidase(PC00175)	1	0	0	0	0	0	1
+Total	225	57	17	17	21	19	94

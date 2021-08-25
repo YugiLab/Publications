@@ -1,0 +1,10 @@
+ZNF623	
+PRDM4	C2H2 zinc finger transcription factor(PC00248)
+CBFB	DNA-binding transcription factor(PC00218)
+FOSL2	basic leucine zipper transcription factor(PC00056)
+RFXANK	protein-binding activity modulator(PC00095)
+KLF8	C2H2 zinc finger transcription factor(PC00248)
+ZFP3	C2H2 zinc finger transcription factor(PC00248)
+EHMT2	
+ETV1	winged helix/forkhead transcription factor(PC00246)
+KLF6	C2H2 zinc finger transcription factor(PC00248)
