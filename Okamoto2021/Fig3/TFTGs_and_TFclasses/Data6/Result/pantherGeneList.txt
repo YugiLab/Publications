@@ -1,12 +1,29 @@
 
-HUMAN|HGNC=23194|UniProtKB=Q96EK4	THAP11	THAP domain-containing protein 11;THAP11;ortholog	THAP DOMAIN-CONTAINING PROTEIN 11 (PTHR22794:SF2)		Homo sapiens
+HUMAN|HGNC=25955|UniProtKB=Q8ND82	ZNF280C	Zinc finger protein 280C;ZNF280C;ortholog	ZINC FINGER PROTEIN 280C (PTHR24388:SF62)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=23820|UniProtKB=Q96AV8	E2F7	Transcription factor E2F7;E2F7;ortholog	TRANSCRIPTION FACTOR E2F7 (PTHR12081:SF25)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=3039|UniProtKB=O60469	CHD2	Down syndrome cell adhesion molecule;DSCAM;ortholog	DOWN SYNDROME CELL ADHESION MOLECULE (PTHR10075:SF51)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=11535|UniProtKB=P21675	TAF1	Transcription initiation factor TFIID subunit 1;TAF1;ortholog	TRANSCRIPTION INITIATION FACTOR TFIID SUBUNIT 1 (PTHR13900:SF1)	general transcription factor(PC00259)	Homo sapiens
 HUMAN|HGNC=11645|UniProtKB=Q9UH92	MLX	Max-like protein X;MLX;ortholog	MAX-LIKE PROTEIN X (PTHR15741:SF25)	DNA-binding transcription factor(PC00218)	Homo sapiens
 HUMAN|HGNC=29093|UniProtKB=O75152	ZC3H11A	Zinc finger CCCH domain-containing protein 11A;ZC3H11A;ortholog	ZINC FINGER CCCH DOMAIN-CONTAINING PROTEIN 11A (PTHR15725:SF2)	RNA processing factor(PC00147)	Homo sapiens
+HUMAN|HGNC=3488|UniProtKB=P14921	ETS1	Protein C-ets-1;ETS1;ortholog	PROTEIN C-ETS-1 (PTHR11849:SF209)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=21193|UniProtKB=Q3MJ62	ZSCAN23	Zinc finger and SCAN domain-containing protein 23;ZSCAN23;ortholog	ZINC FINGER AND SCAN DOMAIN-CONTAINING PROTEIN 23 (PTHR23226:SF76)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=9886|UniProtKB=P29375	KDM5A	Lysine-specific demethylase 5A;KDM5A;ortholog	LYSINE-SPECIFIC DEMETHYLASE 5A (PTHR10694:SF17)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=785|UniProtKB=P18847	ATF3	Cyclic AMP-dependent transcription factor ATF-3;ATF3;ortholog	CYCLIC AMP-DEPENDENT TRANSCRIPTION FACTOR ATF-3 (PTHR23351:SF23)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
 HUMAN|HGNC=7802|UniProtKB=Q6P4R8	NFRKB	Nuclear factor related to kappa-B-binding protein;NFRKB;ortholog	NUCLEAR FACTOR RELATED TO KAPPA-B-BINDING PROTEIN (PTHR13052:SF3)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Homo sapiens
+HUMAN|HGNC=13068|UniProtKB=Q96GC6	ZNF274	Neurotrophin receptor-interacting factor homolog;ZNF274;ortholog	NEUROTROPHIN RECEPTOR-INTERACTING FACTOR HOMOLOG (PTHR23226:SF93)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=9987|UniProtKB=O14593	RFXANK	DNA-binding protein RFXANK;RFXANK;ortholog	DNA-BINDING PROTEIN RFXANK (PTHR24124:SF4)	protein-binding activity modulator(PC00095)	Homo sapiens
 HUMAN|HGNC=26786|UniProtKB=Q8N8Y5	ZFP41	Zinc finger protein 41 homolog;ZFP41;ortholog	ZINC FINGER PROTEIN 41 HOMOLOG (PTHR24381:SF381)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
-HUMAN|HGNC=25001|UniProtKB=Q8NCP5	ZBTB44	Zinc finger and BTB domain-containing protein 44;ZBTB44;ortholog	ZINC FINGER AND BTB DOMAIN-CONTAINING PROTEIN 44 (PTHR24383:SF10)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
-HUMAN|HGNC=29529|UniProtKB=Q9BZK7	TBL1XR1	F-box-like/WD repeat-containing protein TBL1XR1;TBL1XR1;ortholog	F-BOX-LIKE/WD REPEAT-CONTAINING PROTEIN TBL1XR1 (PTHR22846:SF40)		Homo sapiens
-HUMAN|HGNC=12996|UniProtKB=O95201	ZNF205	Zinc finger protein 205;ZNF205;ortholog	ZINC FINGER PROTEIN 205 (PTHR23226:SF77)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=6204|UniProtKB=P05412	JUN	Transcription factor AP-1;JUN;ortholog	TRANSCRIPTION FACTOR AP-1 (PTHR11462:SF8)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=6351|UniProtKB=O95600	KLF8	Krueppel-like factor 8;KLF8;ortholog	KRUEPPEL-LIKE FACTOR 8 (PTHR23235:SF46)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=30936|UniProtKB=P16415	ZFP36	Zinc finger protein 823;ZNF823;ortholog	ZINC FINGER PROTEIN 823 (PTHR24379:SF27)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=29941|UniProtKB=Q8WUU5	GATAD1	GATA zinc finger domain-containing protein 1;GATAD1;ortholog	GATA ZINC FINGER DOMAIN-CONTAINING PROTEIN 1 (PTHR13340:SF2)	zinc finger transcription factor(PC00244)	Homo sapiens
+HUMAN|HGNC=1917|UniProtKB=O14647	CHD2	Chromodomain-helicase-DNA-binding protein 2;CHD2;ortholog	CHROMODOMAIN-HELICASE-DNA-BINDING PROTEIN 2 (PTHR45623:SF19)		Homo sapiens
+HUMAN|HGNC=24727|UniProtKB=A0AVK6	E2F8	Transcription factor E2F8;E2F8;ortholog	TRANSCRIPTION FACTOR E2F8 (PTHR12081:SF40)	general transcription factor(PC00259)	Homo sapiens
 HUMAN|HGNC=2235|UniProtKB=Q99612	KLF6	Krueppel-like factor 6;KLF6;ortholog	KRUEPPEL-LIKE FACTOR 6 (PTHR23235:SF50)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=12862|UniProtKB=P26651	ZFP36	mRNA decay activator protein ZFP36;ZFP36;ortholog	MRNA DECAY ACTIVATOR PROTEIN ZFP36 (PTHR12547:SF58)	RNA metabolism protein(PC00031)	Homo sapiens
+HUMAN|HGNC=13723|UniProtKB=P49711	CTCF	Transcriptional repressor CTCF;CTCF;ortholog	TRANSCRIPTIONAL REPRESSOR CTCF (PTHR24404:SF43)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=26678|UniProtKB=Q7Z3K6	MIER3	Mesoderm induction early response protein 3;MIER3;ortholog	MESODERM INDUCTION EARLY RESPONSE PROTEIN 3 (PTHR10865:SF22)	homeodomain transcription factor(PC00119)	Homo sapiens
 HUMAN|HGNC=18513|UniProtKB=Q9Y6X8	ZHX2	Zinc fingers and homeoboxes protein 2;ZHX2;ortholog	ZINC FINGERS AND HOMEOBOXES PROTEIN 2 (PTHR15467:SF5)	homeodomain transcription factor(PC00119)	Homo sapiens
 HUMAN|HGNC=13041|UniProtKB=Q8NDW4	ZNF248	Zinc finger protein 248;ZNF248;ortholog	ZINC FINGER PROTEIN 248 (PTHR24381:SF68)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=4171|UniProtKB=P23769	GATA2	Endothelial transcription factor GATA-2;GATA2;ortholog	ENDOTHELIAL TRANSCRIPTION FACTOR GATA-2 (PTHR10071:SF149)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=13177|UniProtKB=Q9UKS7	IKZF2	Zinc finger protein Helios;IKZF2;ortholog	ZINC FINGER PROTEIN HELIOS (PTHR24404:SF33)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens

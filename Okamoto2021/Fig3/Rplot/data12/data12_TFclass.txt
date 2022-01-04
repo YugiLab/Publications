@@ -6,17 +6,14 @@ SP1	C2H2 zinc finger transcription factor(PC00248)
 ZNF664	DNA-binding transcription factor(PC00218)
 NFIB	DNA-binding transcription factor(PC00218)
 ZNF197	C2H2 zinc finger transcription factor(PC00248)
-SP1	
 KDM4B	histone modifying enzyme(PC00261)
 ZNF7	
-ELK1	ion channel(PC00133)
 LEF1	DNA-binding transcription factor(PC00218)
 RBPJ	DNA-binding transcription factor(PC00218)
 ZKSCAN1	C2H2 zinc finger transcription factor(PC00248)
 ZNF3	C2H2 zinc finger transcription factor(PC00248)
 ETV1	winged helix/forkhead transcription factor(PC00246)
 ZNF662	C2H2 zinc finger transcription factor(PC00248)
-SUZ12	chromatin/chromatin-binding, or -regulatory protein(PC00077)
+SUZ12	"chromatin/chromatin-binding, or -regulatory protein(PC00077)"
 TEAD1	DNA-binding transcription factor(PC00218)
-ELK1	ion channel(PC00133)
 ELK1	winged helix/forkhead transcription factor(PC00246)

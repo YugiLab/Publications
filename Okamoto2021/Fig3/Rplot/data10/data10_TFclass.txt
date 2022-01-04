@@ -1,15 +1,20 @@
-ZNF623	
-ZNF10	C2H2 zinc finger transcription factor(PC00248)
+KLF5	C2H2 zinc finger transcription factor(PC00248)
+TCF12	basic helix-loop-helix transcription factor(PC00055)
 ZBTB20	C2H2 zinc finger transcription factor(PC00248)
-ZBTB2	C2H2 zinc finger transcription factor(PC00248)
-ZNF768	C2H2 zinc finger transcription factor(PC00248)
-ZHX1	homeodomain transcription factor(PC00119)
-ZFP91	C2H2 zinc finger transcription factor(PC00248)
-TRIM25	
-SMARCA4	DNA helicase(PC00011)
-DRAP1	DNA-binding transcription factor(PC00218)
-PHF21A	
-NFIA	DNA-binding transcription factor(PC00218)
-NFE2L2	basic leucine zipper transcription factor(PC00056)
-SKIL	
-ZNF24	C2H2 zinc finger transcription factor(PC00248)
+MCM3	DNA metabolism protein(PC00009)
+RXRB	C4 zinc finger nuclear receptor(PC00169)
+PBX2	homeodomain transcription factor(PC00119)
+FOS	basic leucine zipper transcription factor(PC00056)
+TEAD2	DNA-binding transcription factor(PC00218)
+ETV4	winged helix/forkhead transcription factor(PC00246)
+SCRT2	C2H2 zinc finger transcription factor(PC00248)
+CBFA2T3	transcription cofactor(PC00217)
+MXD3	basic helix-loop-helix transcription factor(PC00055)
+LEF1	DNA-binding transcription factor(PC00218)
+FOXM1	
+EHMT2	
+GATAD2B	DNA-binding transcription factor(PC00218)
+GATA3	DNA-binding transcription factor(PC00218)
+DEK	"chromatin/chromatin-binding, or -regulatory protein(PC00077)"
+SP5	C2H2 zinc finger transcription factor(PC00248)
+TCF7L2	DNA-binding transcription factor(PC00218)

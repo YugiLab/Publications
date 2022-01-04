@@ -5,32 +5,35 @@ data<- read.csv("graph.csv", header = T)
 x <- data$X.Term.appeared.in.datasets.
 y <- data$X.Hits.by.MeSH.term.
 
-#attach package
-library(ggplot2)
-
 #main function to plot
-the_plot <- function()
-{
-  plot(x,y, log = "y",
-     xlab = "EFO term appeared in datasets", 
-     ylab = "Hits by MeSH term in PubMed",
-     col=ifelse(x<4, "black", ifelse(y<100, "red", "blue")),
-     cex.lab=1.5,
-     xlim = c(1, 6)
+png(
+  "Fig4c_EFO_MeSH.png", 
+  height = 8.5, 
+  width  = 8.5, 
+  units  = "in",
+  res    = 300)
+
+plot(x,y, log = "y",
+     xlab    = "EFO term appeared in datasets", 
+     ylab    = "Hits by MeSH term in PubMed",
+     col     = ifelse(x<3, "black", ifelse(y<100, "red", "blue")),
+     cex.lab = 1.5,
+     xlim    = c(1, 6)
      )
-  #label each dot
-  text(data[1:2,2], data[1:2,3], labels=data[1:2,1], cex= 1, pos=2)
-  text(data[3,2], data[3,3], labels=data[3,1], cex= 1, pos=3)
-  text(data[4:7,2], data[4:7,3], labels=data[4:7,1], cex= 1, pos=2)
-  text(data[8,2], data[8,3], labels=data[8,1], cex= 1, pos=3)
-  text(data[9:10,2], data[9:10,3], labels=data[9:10,1], cex= 1, pos=2)
-  text(data[11,2], data[11,3], labels=data[11,1], cex= 1, pos=4)
-}
-#increase resolution
-ggsave(
-  "Fig4c_EFO_MeSH.png",
-  the_plot(),
-  width = 7,
-  height = 7,
-  dpi = 300
-)
+
+#label each dot
+  text(data[1,2],     data[1,3],     labels=data[1,1],     cex= 1, pos=1)
+  text(data[3:4,2],   data[3:4,3],   labels=data[3:4,1],   cex= 1, pos=1)
+  text(data[5,2],     data[5,3],     labels=data[5,1],     cex= 1, pos=4)
+  text(data[6,2],     data[6,3],     labels=data[6,1],     cex= 1, pos=3)
+  text(data[7:8,2],   data[7:8,3],   labels=data[7:8,1],   cex= 1, pos=1)
+  text(data[10,2],    data[10,3],    labels=data[10,1],    cex= 1, pos=1)
+  text(data[11:12,2], data[11:12,3], labels=data[11:12,1], cex= 1, pos=3)
+  text(data[13,2],    data[13,3],    labels=data[13,1],    cex= 1, pos=4)
+  text(data[14,2],    data[14,3],    labels=data[14,1],    cex= 1, pos=3)
+  text(data[15:16,2], data[15:16,3], labels=data[15:16,1], cex= 1, pos=2)
+  text(data[17:18,2], data[17:18,3], labels=data[17:18,1], cex= 1, pos=1)
+  text(data[19:23,2], data[19:23,3], labels=data[19:23,1], cex= 1, pos=2)
+  text(data[24,2],    data[24,3],    labels=data[24,1],    cex= 1, pos=3)
+
+dev.off()

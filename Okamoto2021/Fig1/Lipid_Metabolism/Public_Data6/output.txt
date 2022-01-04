@@ -1,0 +1,4 @@
+     791    1582   12661 data6_KEGG_ID_all.txt
+     707    1414   11443 data6_KEGG_ID.txt
+      84     168    2226 data6_NO_KEGG_ID.txt
+      11      11      65

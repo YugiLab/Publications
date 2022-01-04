@@ -1,0 +1,26 @@
+	0	1	2	4	5	6	10	11	12
+hematological measurement		0	0	2	2	0	2	6	4
+nervous system disease		6	0	2	2	4	2	2	0
+immune system disease		2	2	5	3	0	4	2	0
+anthropometric measurement		2	0	4	4	0	4	4	0
+eye measurement		1	0	2	2	2	2	2	0
+abnormality of the immune system		3	0	3	3	0	3	3	0
+mental or behavioural disorder biomarker		2	0	0	0	2	0	0	0
+respiratory system disease		6	0	0	0	3	0	0	0
+lipid or lipoprotein measurement		0	0	1	0	0	0	3	0
+cardiovascular disease		0	0	2	2	0	2	1	0
+skin disease		2	0	0	0	2	0	0	0
+inflammatory biomarker measurement		0	0	2	2	0	1	2	0
+antibody measurement		0	0	1	0	0	1	0	0
+skeletal system disease		2	0	2	1	0	1	1	0
+temporal measurement		1	0	0	0	2	0	0	0
+head disease		0	0	1	1	0	1	0	0
+renal system measurement		0	0	0	0	0	0	2	0
+eye disease		1	0	2	2	0	3	1	0
+smoking behaviour measurement		2	0	2	0	0	2	1	0
+neoplasm		6	0	0	0	4	0	0	0
+thoracic disease		1	0	1	1	0	1	0	0
+disorder of development or morphogenesis		1	0	1	1	0	1	0	0
+genetic disorder		1	2	4	2	0	2	2	0
+digestive system disease		0	1	1	0	0	0	0	0
+Abnormality of blood and blood-forming tissues		2	0	2	2	0	2	2	0

@@ -4,17 +4,17 @@ DataNo=$1
 echo "Public Data${DataNo}"
 
 
-echo "The number of TFBSs on layer1"
+echo "layer1のTFBSの種類"
 wc data"${DataNo}"_TFBS_DEGs.txt
 
-echo "The number of TFBSs on layer2"
+echo "layer2のTFBSの種類"
 wc data"${DataNo}"_TFBS_DEGs2.txt
 
-echo "The number of TFBSs on layer3"
+echo "layer3のTFBSの種類"
 wc data"${DataNo}"_TFBS_DEGs3.txt
 
-echo "The number of TFBSs on layer4"
+echo "layer4のTFBSの種類"
 wc data"${DataNo}"_TFBS_DEGs4.txt
 
-echo "The number of TFBSs on layer5"
+echo "layer5のTFBSの種類"
 wc data"${DataNo}"_TFBS_DEGs5.txt

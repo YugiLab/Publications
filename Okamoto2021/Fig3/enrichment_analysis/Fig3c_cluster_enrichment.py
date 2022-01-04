@@ -10,7 +10,7 @@ else:
     print('Please input the numerical value as an argument.')
     sys.exit()
 
-filename = "alldata_TFclass_each_clusters_for_enrichment.txt" #Target gene version : "all_TGcluster_appearance_pathway.txt"
+filename = "all_TGcluster_appearance_pathway.txt" #TG version : "all_TGcluster_appearance_pathway.txt" #TF version : "alldata_TFclass_each_clusters_for_enrichment.txt"
 
 def readData(filename):
     with open(filename, encoding="utf-8", errors="ignore") as f:
@@ -35,6 +35,7 @@ def readData(filename):
         cluster.append(int(TokenList[5]))
         cluster.append(int(TokenList[6]))
         cluster.append(int(TokenList[7]))
+        cluster.append(int(TokenList[8]))  #for Target Genes only
 
         if TFclass != "Total":
             changed_freq = cluster[int(args[1])] # Num of target cluster's TFs which belong to specific TF class.
@@ -67,7 +68,9 @@ def readData(filename):
         #print("cluster1", PvalueDic)
         ContingencyTable.clear()
 
-    print('cluster' + str(args[1]), PvalueDic)
+    #print('cluster' + str(args[1]), PvalueDic)
+    for TFclassKey, pValue in PvalueDic.items():
+        print(TFclassKey, pValue)
     sortedPvalueDic = sorted(PvalueDic.items(), key=lambda x:x[1]) # sort the dictionary by value.
     sortedKEGGbriteCategoryList = [x[0] for x in sortedPvalueDic] # List of the key of sortedPvalueDic
     sortedPvalueList = [x[1] for x in sortedPvalueDic] # List of the value of sortedPvalueDic

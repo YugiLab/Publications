@@ -1,0 +1,4 @@
+     114     228    1727 data8_KEGG_ID_all.txt
+     101     202    1566 data8_KEGG_ID.txt
+      13      12     106 data8_NO_KEGG_ID.txt
+       0       0       0

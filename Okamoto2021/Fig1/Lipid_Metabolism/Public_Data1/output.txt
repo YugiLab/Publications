@@ -1,0 +1,4 @@
+    1236    2472   19891 data1_KEGG_ID_all.txt
+    1198    2396   19428 data1_KEGG_ID.txt
+      38      38     311 data1_NO_KEGG_ID.txt
+      25      25     146

@@ -21,7 +21,7 @@ frequency <- tdf[,3]
 cluster_label <- sub("cluster.", "cluster ", cluster)
 
 # Define the number of colors you want
-nb.cols <- 27
+nb.cols <- 23
 mycolors <- colorRampPalette(brewer.pal(6, "Set1"))(nb.cols)
 
 #plot data
@@ -31,8 +31,8 @@ g <- g + geom_bar(stat = "identity")
 g <- g + scale_fill_manual(values = mycolors)
 g <- g + xlab(NULL)
 g <- g + theme(legend.key.size = unit(1.3, 'cm'), legend.position = "bottom", 
-               text = element_text(color = "black", size = 40), 
-               axis.text = element_text(color = "black", size = 30),
+               text = element_text(color = "black", size = 50), 
+               axis.text = element_text(color = "black", size = 35),
                legend.title=element_blank(),
                legend.text = element_text(color = "black", size = 25))
 g <- g + guides(fill=guide_legend(ncol=2, reverse=FALSE))

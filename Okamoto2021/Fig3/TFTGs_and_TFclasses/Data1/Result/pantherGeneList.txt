@@ -1,11 +1,29 @@
 
-HUMAN|HGNC=29084|UniProtKB=O75123	ZNF623	Zinc finger protein 623;ZNF623;ortholog	ZINC FINGER PROTEIN 623 (PTHR24377:SF244)		Homo sapiens
+HUMAN|HGNC=29079|UniProtKB=O60341	KDM1A	Lysine-specific histone demethylase 1A;KDM1A;ortholog	LYSINE-SPECIFIC HISTONE DEMETHYLASE 1A (PTHR10742:SF373)	oxidase(PC00175)	Homo sapiens
+HUMAN|HGNC=8619|UniProtKB=Q02548	PAX5	Paired box protein Pax-5;PAX5;ortholog	PAIRED BOX PROTEIN PAX-5 (PTHR45636:SF20)		Homo sapiens
 HUMAN|HGNC=9348|UniProtKB=Q9UKN5	PRDM4	PR domain zinc finger protein 4;PRDM4;ortholog	PR DOMAIN ZINC FINGER PROTEIN 4 (PTHR16515:SF2)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
-HUMAN|HGNC=1539|UniProtKB=Q13951	CBFB	Core-binding factor subunit beta;CBFB;ortholog	CORE-BINDING FACTOR SUBUNIT BETA (PTHR10276:SF3)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=12894|UniProtKB=Q8NC26	ZNF114	Zinc finger protein 114;ZNF114;ortholog	ZINC FINGER PROTEIN 114 (PTHR24384:SF6)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=12917|UniProtKB=P52736	ZNF133	Zinc finger protein 133;ZNF133;ortholog	ZINC FINGER PROTEIN 133 (PTHR24381:SF119)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=29147|UniProtKB=Q9Y2D9	ZNF652	Zinc finger protein 652;ZNF652;ortholog	ZINC FINGER PROTEIN 652 (PTHR24394:SF21)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=785|UniProtKB=P18847	ATF3	Cyclic AMP-dependent transcription factor ATF-3;ATF3;ortholog	CYCLIC AMP-DEPENDENT TRANSCRIPTION FACTOR ATF-3 (PTHR23351:SF23)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=3796|UniProtKB=P01100	FOS	Proto-oncogene c-Fos;FOS;ortholog	PROTO-ONCOGENE C-FOS (PTHR23351:SF4)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
 HUMAN|HGNC=3798|UniProtKB=P15408	FOSL2	Fos-related antigen 2;FOSL2;ortholog	FOS-RELATED ANTIGEN 2 (PTHR23351:SF25)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=29805|UniProtKB=Q9BYH8	NFKBIZ	NF-kappa-B inhibitor zeta;NFKBIZ;ortholog	NF-KAPPA-B INHIBITOR ZETA (PTHR24124:SF5)	protein-binding activity modulator(PC00095)	Homo sapiens
 HUMAN|HGNC=9987|UniProtKB=O14593	RFXANK	DNA-binding protein RFXANK;RFXANK;ortholog	DNA-BINDING PROTEIN RFXANK (PTHR24124:SF4)	protein-binding activity modulator(PC00095)	Homo sapiens
+HUMAN|HGNC=6118|UniProtKB=Q14653	IRF3	Interferon regulatory factor 3;IRF3;ortholog	INTERFERON REGULATORY FACTOR 3 (PTHR11949:SF1)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
 HUMAN|HGNC=6351|UniProtKB=O95600	KLF8	Krueppel-like factor 8;KLF8;ortholog	KRUEPPEL-LIKE FACTOR 8 (PTHR23235:SF46)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=4010|UniProtKB=P35637	FUS	RNA-binding protein FUS;FUS;ortholog	RNA-BINDING PROTEIN FUS (PTHR23238:SF5)	RNA metabolism protein(PC00031)	Homo sapiens
+HUMAN|HGNC=12984|UniProtKB=O15535	ZSCAN9	Zinc finger and SCAN domain-containing protein 9;ZSCAN9;ortholog	ZINC FINGER AND SCAN DOMAIN-CONTAINING PROTEIN 9 (PTHR23226:SF15)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=20857|UniProtKB=Q9H9S0	NANOG	Homeobox protein NANOG;NANOG;ortholog	HOMEOBOX PROTEIN NANOG-RELATED (PTHR24327:SF79)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=11100|UniProtKB=P51532	SMARCA4	Transcription activator BRG1;SMARCA4;ortholog	TRANSCRIPTION ACTIVATOR BRG1 (PTHR10799:SF76)	DNA helicase(PC00011)	Homo sapiens
 HUMAN|HGNC=12861|UniProtKB=Q96NJ6	ZFP3	Zinc finger protein 3 homolog;ZFP3;ortholog	ZINC FINGER PROTEIN 3 HOMOLOG (PTHR24381:SF272)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=18594|UniProtKB=Q969R5	L3MBTL2	Lethal(3)malignant brain tumor-like protein 2;L3MBTL2;ortholog	LETHAL(3)MALIGNANT BRAIN TUMOR-LIKE PROTEIN 2 (PTHR12247:SF64)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Homo sapiens
+HUMAN|HGNC=7871|UniProtKB=Q15233	NONO	Non-POU domain-containing octamer-binding protein;NONO;ortholog	NON-POU DOMAIN-CONTAINING OCTAMER-BINDING PROTEIN (PTHR23189:SF15)	RNA metabolism protein(PC00031)	Homo sapiens
 HUMAN|HGNC=14129|UniProtKB=Q96KQ7	EHMT2	Histone-lysine N-methyltransferase EHMT2;EHMT2;ortholog	HISTONE-LYSINE N-METHYLTRANSFERASE EHMT2 (PTHR46307:SF1)		Homo sapiens
-HUMAN|HGNC=3490|UniProtKB=P50549	ETV1	ETS translocation variant 1;ETV1;ortholog	ETS TRANSLOCATION VARIANT 1 (PTHR11849:SF196)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6205|UniProtKB=P17275	JUNB	Transcription factor jun-B;JUNB;ortholog	TRANSCRIPTION FACTOR JUN-B (PTHR11462:SF37)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=7553|UniProtKB=P01106	MYC	Myc proto-oncogene protein;MYC;ortholog	MYC PROTO-ONCOGENE PROTEIN (PTHR45851:SF1)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
 HUMAN|HGNC=2235|UniProtKB=Q99612	KLF6	Krueppel-like factor 6;KLF6;ortholog	KRUEPPEL-LIKE FACTOR 6 (PTHR23235:SF50)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=13003|UniProtKB=Q13398	ZNF211	Zinc finger protein 211;ZNF211;ortholog	ZINC FINGER PROTEIN 211 (PTHR24377:SF661)		Homo sapiens
+HUMAN|HGNC=18316|UniProtKB=Q8N895	ZNF366	Zinc finger protein 366;ZNF366;ortholog	ZINC FINGER PROTEIN 366 (PTHR24390:SF38)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=5002|UniProtKB=Q9P0W2	HMG20B	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related;HMG20B;ortholog	SWI/SNF-RELATED MATRIX-ASSOCIATED ACTIN-DEPENDENT REGULATOR OF CHROMATIN SUBFAMILY E MEMBER 1-RELATED (PTHR46040:SF2)		Homo sapiens
+HUMAN|HGNC=4171|UniProtKB=P23769	GATA2	Endothelial transcription factor GATA-2;GATA2;ortholog	ENDOTHELIAL TRANSCRIPTION FACTOR GATA-2 (PTHR10071:SF149)	DNA-binding transcription factor(PC00218)	Homo sapiens

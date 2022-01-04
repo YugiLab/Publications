@@ -1,0 +1,4 @@
+     628    1256   10014 data14_KEGG_ID_all.txt
+     602    1204    9688 data14_KEGG_ID.txt
+      26      26     222 data14_NO_KEGG_ID.txt
+      10      10      64

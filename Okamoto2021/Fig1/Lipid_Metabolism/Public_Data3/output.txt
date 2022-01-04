@@ -1,0 +1,4 @@
+ 511 1022 8267 data3_KEGG_ID_all.txt
+ 489  978 7997 data3_KEGG_ID.txt
+ 22  22 182 data3_NO_KEGG_ID.txt
+      8       8      50

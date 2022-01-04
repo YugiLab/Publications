@@ -1,51 +1,14 @@
-PYGO2	
-MYNN	C2H2 zinc finger transcription factor(PC00248)
-FOXP1	
 BMI1	
-ZNF707	C2H2 zinc finger transcription factor(PC00248)
-PRDM4	C2H2 zinc finger transcription factor(PC00248)
-THRAP3	nucleic acid metabolism protein(PC00171)
 ZNF626	DNA-binding transcription factor(PC00218)
-ZZZ3	
-ZZZ3	chromatin/chromatin-binding, or -regulatory protein(PC00077)
 ATF3	basic leucine zipper transcription factor(PC00056)
 ZNF217	C2H2 zinc finger transcription factor(PC00248)
-ZBTB11	DNA-binding transcription factor(PC00218)
 WT1	C2H2 zinc finger transcription factor(PC00248)
-SCRT2	C2H2 zinc finger transcription factor(PC00248)
-DNMT3B	DNA methyltransferase(PC00013)
 LEF1	DNA-binding transcription factor(PC00218)
-SMARCE1	chromatin/chromatin-binding, or -regulatory protein(PC00077)
-MCM5	DNA metabolism protein(PC00009)
-NR2C1	C4 zinc finger nuclear receptor(PC00169)
-RXRA	C4 zinc finger nuclear receptor(PC00169)
-ZNF488	
-ZKSCAN1	C2H2 zinc finger transcription factor(PC00248)
-RBBP5	
-L3MBTL2	chromatin/chromatin-binding, or -regulatory protein(PC00077)
-HNF4G	C4 zinc finger nuclear receptor(PC00169)
-PKNOX1	homeodomain transcription factor(PC00119)
 DACH1	winged helix/forkhead transcription factor(PC00246)
-RERE	
-YY1	C2H2 zinc finger transcription factor(PC00248)
-MCM7	DNA metabolism protein(PC00009)
 EBF1	DNA-binding transcription factor(PC00218)
-ZNF140	
-SMAD2	DNA-binding transcription factor(PC00218)
 SOX6	
-HMG20A	
-MIXL1	homeodomain transcription factor(PC00119)
 KLF9	C2H2 zinc finger transcription factor(PC00248)
 ZNF423	C2H2 zinc finger transcription factor(PC00248)
-SOX13	
-HDAC2	
-POLR2A	DNA-directed RNA polymerase(PC00019)
 NR2F1	C4 zinc finger nuclear receptor(PC00169)
-KLF6	C2H2 zinc finger transcription factor(PC00248)
 ZIC2	C2H2 zinc finger transcription factor(PC00248)
-CTCF	C2H2 zinc finger transcription factor(PC00248)
-ZNF366	C2H2 zinc finger transcription factor(PC00248)
-IRF5	winged helix/forkhead transcription factor(PC00246)
 KAT2B	
-HNRNPL	
-PATZ1	C2H2 zinc finger transcription factor(PC00248)

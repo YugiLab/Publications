@@ -1,0 +1,4 @@
+     568    1136    8706 data9_KEGG_ID_all.txt
+     411     822    6488 data9_KEGG_ID.txt
+     157     157    1590 data9_NO_KEGG_ID.txt
+       6       6      38

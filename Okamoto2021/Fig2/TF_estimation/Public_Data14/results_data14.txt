@@ -1,17 +1,17 @@
 Public Data14
-The number of TFBSs within promoter region on layer1.
-      15      15      90 data14_promoter_TFBS_DEGs.txt
-The number of TFBSs within enhancer region on layer1.
-      49      49     294 data14_enhancer_TFBS_DEGs.txt
-The number of TFBSs within promoter/enhancer region on layer1.
-      49      49     295 data14_promoterenhancer_TFBS_DEGs.txt
-The number of TFBSs within promoter region on layer2.
-      23      23     140 data14_promoter_TFBS_DEGs2.txt
-The number of TFBSs within enhancer region on layer2
-      49      49     294 data14_enhancer_TFBS_DEGs2.txt
-The number of TFBSs within promoter/enhancer region on layer2.
-      50      50     300 data14_promoterenhancer_TFBS_DEGs2.txt
-The number of TFBSs within promoter region or enhancer region on layer1.
-      50      50     300 data14_TFBS_DEGs.txt
-The number of TFBSs within promoter region or enhancer region on layer2.
-      50      50     300 data14_TFBS_DEGs2.txt
+layer1でPromoterに結合するTFBS数
+       1       1       7 data14_promoter_TFBS_DEGs.txt
+layer1でEnhancerに結合するTFBS数
+      13      13      71 data14_enhancer_TFBS_DEGs.txt
+layer1でPromoter/Enhancerに結合するTFBS数
+      14      14      78 data14_promoterenhancer_TFBS_DEGs.txt
+layer2でPromoterに結合するTFBS数
+       2       2      11 data14_promoter_TFBS_DEGs2.txt
+layer2でEnhancerに結合するTFBS数
+      14      14      78 data14_enhancer_TFBS_DEGs2.txt
+layer2でPromoter/Enhancerに結合するTFBS数
+      14      14      78 data14_promoterenhancer_TFBS_DEGs2.txt
+layer1でPromoterまたはEnhancerに結合するTFBSの種類
+      14      14      78 data14_TFBS_DEGs.txt
+layer2でPromoterまたはEnhancerに結合するTFBSの種類
+      14      14      78 data14_TFBS_DEGs2.txt

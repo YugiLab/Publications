@@ -1,0 +1,4 @@
+     483     966    7504 data10_KEGG_ID_all.txt
+     451     902    7070 data10_KEGG_ID.txt
+      32      32     306 data10_NO_KEGG_ID.txt
+       3       3      21

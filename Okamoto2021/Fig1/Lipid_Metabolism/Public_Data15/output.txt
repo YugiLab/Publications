@@ -1,0 +1,4 @@
+      24      48     390 data15_KEGG_ID_all.txt
+      13      26     233 data15_KEGG_ID.txt
+      11      10     110 data15_NO_KEGG_ID.txt
+       0       0       0

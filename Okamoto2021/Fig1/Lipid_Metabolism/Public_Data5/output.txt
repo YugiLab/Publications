@@ -1,0 +1,4 @@
+     252     504    3924 data5_KEGG_ID_all.txt
+     235     470    3686 data5_KEGG_ID.txt
+      17      17     170 data5_NO_KEGG_ID.txt
+       1       1       5

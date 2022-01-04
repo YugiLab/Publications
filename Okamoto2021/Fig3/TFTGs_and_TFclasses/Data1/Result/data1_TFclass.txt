@@ -1,10 +1,28 @@
-ZNF623	
+KDM1A	oxidase(PC00175)
+PAX5	
 PRDM4	C2H2 zinc finger transcription factor(PC00248)
-CBFB	DNA-binding transcription factor(PC00218)
+ZNF114	DNA-binding transcription factor(PC00218)
+ZNF133	C2H2 zinc finger transcription factor(PC00248)
+ZNF652	C2H2 zinc finger transcription factor(PC00248)
+ATF3	basic leucine zipper transcription factor(PC00056)
+FOS	basic leucine zipper transcription factor(PC00056)
 FOSL2	basic leucine zipper transcription factor(PC00056)
+NFKBIZ	protein-binding activity modulator(PC00095)
 RFXANK	protein-binding activity modulator(PC00095)
+IRF3	winged helix/forkhead transcription factor(PC00246)
 KLF8	C2H2 zinc finger transcription factor(PC00248)
+FUS	RNA metabolism protein(PC00031)
+ZSCAN9	C2H2 zinc finger transcription factor(PC00248)
+NANOG	homeodomain transcription factor(PC00119)
+SMARCA4	DNA helicase(PC00011)
 ZFP3	C2H2 zinc finger transcription factor(PC00248)
+L3MBTL2	chromatin/chromatin-binding, or -regulatory protein(PC00077)
+NONO	RNA metabolism protein(PC00031)
 EHMT2	
-ETV1	winged helix/forkhead transcription factor(PC00246)
+JUNB	basic leucine zipper transcription factor(PC00056)
+MYC	basic helix-loop-helix transcription factor(PC00055)
 KLF6	C2H2 zinc finger transcription factor(PC00248)
+ZNF211	
+ZNF366	C2H2 zinc finger transcription factor(PC00248)
+HMG20B	
+GATA2	DNA-binding transcription factor(PC00218)

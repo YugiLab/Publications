@@ -1,35 +1,36 @@
-SREBF1	
-E2F4	general transcription factor(PC00259)
+TBX3	Rel homology transcription factor(PC00252)
+TCF12	basic helix-loop-helix transcription factor(PC00055)
 ZNF623	
-PAF1	
-THRB	C4 zinc finger nuclear receptor(PC00169)
-ELF3	winged helix/forkhead transcription factor(PC00246)
+PAX8	
+E2F7	general transcription factor(PC00259)
+FEZF1	C2H2 zinc finger transcription factor(PC00248)
 BRCA1	ubiquitin-protein ligase(PC00234)
 RXRB	C4 zinc finger nuclear receptor(PC00169)
-HOMEZ	homeodomain transcription factor(PC00119)
 PBX2	homeodomain transcription factor(PC00119)
-ZNF217	C2H2 zinc finger transcription factor(PC00248)
-ZNF687	
-ZNF680	DNA-binding transcription factor(PC00218)
-ELF4	winged helix/forkhead transcription factor(PC00246)
-GTF2F1	general transcription factor(PC00259)
-ZNF514	
-PAF1	
+FOS	basic leucine zipper transcription factor(PC00056)
+FOSL2	basic leucine zipper transcription factor(PC00056)
+ZNF521	C2H2 zinc finger transcription factor(PC00248)
+SMAD5	DNA-binding transcription factor(PC00218)
+MXD3	basic helix-loop-helix transcription factor(PC00055)
+HES1	basic helix-loop-helix transcription factor(PC00055)
+LEF1	DNA-binding transcription factor(PC00218)
+MCM5	DNA metabolism protein(PC00009)
 DACH1	winged helix/forkhead transcription factor(PC00246)
+BCL11B	C2H2 zinc finger transcription factor(PC00248)
+PRDM6	C2H2 zinc finger transcription factor(PC00248)
+EHMT2	
+EBF1	DNA-binding transcription factor(PC00218)
 OSR2	zinc finger transcription factor(PC00244)
-ETV1	winged helix/forkhead transcription factor(PC00246)
-ZNF174	C2H2 zinc finger transcription factor(PC00248)
-RNF2	ubiquitin-protein ligase(PC00234)
+NFIA	DNA-binding transcription factor(PC00218)
+GATAD2B	DNA-binding transcription factor(PC00218)
+SOX13	
 NR2F2	C4 zinc finger nuclear receptor(PC00169)
 TEAD1	DNA-binding transcription factor(PC00218)
-NR2F1	C4 zinc finger nuclear receptor(PC00169)
 XRCC3	DNA metabolism protein(PC00009)
+ZIC2	C2H2 zinc finger transcription factor(PC00248)
+GATA3	DNA-binding transcription factor(PC00218)
 REST	C2H2 zinc finger transcription factor(PC00248)
-THRB	serine protease(PC00203)
+TEAD3	DNA-binding transcription factor(PC00218)
+MYRF	
 AFF1	DNA-binding transcription factor(PC00218)
-U2AF2	
-SREBF2	
-MTA1	homeodomain transcription factor(PC00119)
-TFAP4	DNA-binding transcription factor(PC00218)
-IKZF2	C2H2 zinc finger transcription factor(PC00248)
 TCF7L2	DNA-binding transcription factor(PC00218)

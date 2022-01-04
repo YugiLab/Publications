@@ -1,17 +1,15 @@
-KLF10	C2H2 zinc finger transcription factor(PC00248)
-TRIM22	ubiquitin-protein ligase(PC00234)
-POLR3G	DNA-directed RNA polymerase(PC00019)
-ZNF501	C2H2 zinc finger transcription factor(PC00248)
+HHEX	homeodomain transcription factor(PC00119)
+AHR	basic helix-loop-helix transcription factor(PC00055)
+FOXP1	
+ETS1	winged helix/forkhead transcription factor(PC00246)
+EGR2	C2H2 zinc finger transcription factor(PC00248)
+FOSL2	basic leucine zipper transcription factor(PC00056)
 NFIB	DNA-binding transcription factor(PC00218)
-STAT5A	DNA-binding transcription factor(PC00218)
-ARID3A	DNA-binding transcription factor(PC00218)
-ETV6	winged helix/forkhead transcription factor(PC00246)
-ID3	DNA-binding transcription factor(PC00218)
-THRA	C4 zinc finger nuclear receptor(PC00169)
+LEF1	DNA-binding transcription factor(PC00218)
 SOX6	
 NFIA	DNA-binding transcription factor(PC00218)
-SKIL	
+IKZF1	C2H2 zinc finger transcription factor(PC00248)
+ZIC2	C2H2 zinc finger transcription factor(PC00248)
 GATA3	DNA-binding transcription factor(PC00218)
-KAT2B	
-ZNF704	transcription cofactor(PC00217)
+FOXA1	winged helix/forkhead transcription factor(PC00246)
 TCF7L2	DNA-binding transcription factor(PC00218)

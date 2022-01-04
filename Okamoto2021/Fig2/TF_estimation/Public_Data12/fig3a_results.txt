@@ -1,11 +1,11 @@
 Public Data12
-The number of TFBSs on layer1
+layer1のTFBSの種類
       19      19     110 data12_TFBS_DEGs.txt
-The number of TFBSs on layer2
+layer2のTFBSの種類
       19      19     110 data12_TFBS_DEGs2.txt
-The number of TFBSs on layer3
+layer3のTFBSの種類
       19      19     110 data12_TFBS_DEGs3.txt
-The number of TFBSs on layer4
+layer4のTFBSの種類
       19      19     110 data12_TFBS_DEGs4.txt
-The number of TFBSs on layer5
+layer5のTFBSの種類
       19      19     110 data12_TFBS_DEGs5.txt

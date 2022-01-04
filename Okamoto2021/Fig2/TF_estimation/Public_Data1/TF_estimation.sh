@@ -29,7 +29,8 @@ cat data"${DataNo}"_TFBS_enhancer_list.txt | awk -F"," '{print $2}' | sort | uni
 cat data"${DataNo}"_TFBS_promoterenhancer_list.txt | awk -F"," '{print $2}' | sort | uniq | sed '/^$/d' > data"${DataNo}"_promoterenhancer_TFBS_names.txt
 
 ## Create a list of DEGs from the file sorted_public_dataFIXME_genelist.txt in Fig1/Lipid_Metabolism. Extract the gene name in the 3rd column of sorted_public_dataFIXME_genelist.txt, sort it, and save it as dataFIXME_DEGs.txt.
-cat sorted_public_data"${DataNo}"_genelist.txt | awk -F" " '{print $3}' | sort | uniq > data"${DataNo}"_DEGs.txt
+#cat sorted_public_data"${DataNo}"_genelist.txt | awk -F" " '{print $3}' | sort | uniq > data"${DataNo}"_DEGs.txt
+cat sorted_public_data"${DataNo}"_genelist.txt > data"${DataNo}"_DEGs.txt
 
 ## By using the list of DEGs, extract the TFBSs in Layer1 that are DEGs.
 gjoin data"${DataNo}"_DEGs.txt data"${DataNo}"_TFBS_names.txt > data"${DataNo}"_TFBS_DEGs.txt

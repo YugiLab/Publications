@@ -1,6 +1,6 @@
 #!/bin/bash
 #　Connect the list of TFBSs obtained as a result of TF estimation to the Target Gene (enhancer, promoter).
-#　mkdir Result
+mkdir Result
 PublicData=$1
 echo "${PublicData}"
 ## Use genehancer_data*.csv, which is the result of TF estimation from GeneALaCart.

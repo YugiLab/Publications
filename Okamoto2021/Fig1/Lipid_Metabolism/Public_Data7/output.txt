@@ -1,0 +1,4 @@
+     895    1790   13942 data7_KEGG_ID_all.txt
+     866    1732   13554 data7_KEGG_ID.txt
+      29      29     272 data7_NO_KEGG_ID.txt
+      13      13      75

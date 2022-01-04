@@ -1,6 +1,0 @@
-df <- read.table("fig4a_data.txt", sep="\t", header=T, row.names=1)
-colnames(df) <- c("0", "1", "2", "3", "4", "5", "8", "9", "10", "12", "14")
-TGs <- colnames(df)
-TFs <- rownames(df)
-pureTGs <- setdiff(TGs, TFs)
-heatmap(as.matrix(df[, -1]), cexRow = 1.5, cexCol = 1.5)

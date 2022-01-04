@@ -1,53 +1,11 @@
-MAX	basic helix-loop-helix transcription factor(PC00055)
-ZNF623	
-THAP11	
-SNRNP70	RNA splicing factor(PC00148)
-ZNF524	C2H2 zinc finger transcription factor(PC00248)
-ZNF223	
-THRB	C4 zinc finger nuclear receptor(PC00169)
-MBD2	
-ZNF701	
-ZNF585B	C2H2 zinc finger transcription factor(PC00248)
-SNIP1	RNA splicing factor(PC00148)
-ZBTB48	C2H2 zinc finger transcription factor(PC00248)
-ATF7	basic leucine zipper transcription factor(PC00056)
-ZNF580	C2H2 zinc finger transcription factor(PC00248)
-ZNF621	C2H2 zinc finger transcription factor(PC00248)
-ZNF491	C2H2 zinc finger transcription factor(PC00248)
+KLF5	C2H2 zinc finger transcription factor(PC00248)
+PRDM1	C2H2 zinc finger transcription factor(PC00248)
+ETS1	winged helix/forkhead transcription factor(PC00246)
 FOSL2	basic leucine zipper transcription factor(PC00056)
-BCL11A	C2H2 zinc finger transcription factor(PC00248)
-MBD1	
-CAVIN1	membrane traffic protein(PC00150)
-ZMYM3	zinc finger transcription factor(PC00244)
-IRF3	winged helix/forkhead transcription factor(PC00246)
-ZNF157	
-ZNF7	
-TRIM25	
-GTF2F1	general transcription factor(PC00259)
-ELF1	winged helix/forkhead transcription factor(PC00246)
-SRF	
-L3MBTL2	chromatin/chromatin-binding, or -regulatory protein(PC00077)
-SUPT5H	
-HLTF	
-CC2D1A	
-ZC3H8	zinc finger transcription factor(PC00244)
-SIN3B	chromatin/chromatin-binding, or -regulatory protein(PC00077)
-ZNF205	C2H2 zinc finger transcription factor(PC00248)
-ZNF300	
-ZNF174	C2H2 zinc finger transcription factor(PC00248)
-ZNF776	
-ZNF423	C2H2 zinc finger transcription factor(PC00248)
+SCRT2	C2H2 zinc finger transcription factor(PC00248)
+INSM2	
+RUNX1	Runt transcription factor(PC00254)
+ZFP3	C2H2 zinc finger transcription factor(PC00248)
+BCL11B	C2H2 zinc finger transcription factor(PC00248)
 ZNF311	
-TEAD1	DNA-binding transcription factor(PC00218)
-NR2F1	C4 zinc finger nuclear receptor(PC00169)
-ZNF211	
-ZNF747	C2H2 zinc finger transcription factor(PC00248)
-MIER1	homeodomain transcription factor(PC00119)
-USF2	
-ZNF692	C2H2 zinc finger transcription factor(PC00248)
-ZNF248	C2H2 zinc finger transcription factor(PC00248)
-THRB	serine protease(PC00203)
-ZNF444	C2H2 zinc finger transcription factor(PC00248)
-ZNF37A	
-ZNF324	
-ZNF600	C2H2 zinc finger transcription factor(PC00248)
+ZIC2	C2H2 zinc finger transcription factor(PC00248)

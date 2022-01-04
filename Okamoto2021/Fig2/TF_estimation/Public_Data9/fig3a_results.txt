@@ -1,11 +1,11 @@
 Public Data9
-The number of TFBSs on layer1
-      52      52     335 data9_TFBS_DEGs.txt
-The number of TFBSs on layer2
-      52      52     335 data9_TFBS_DEGs2.txt
-The number of TFBSs on layer3
-      52      52     335 data9_TFBS_DEGs3.txt
-The number of TFBSs on layer4
-      52      52     335 data9_TFBS_DEGs4.txt
-The number of TFBSs on layer5
-      52      52     335 data9_TFBS_DEGs5.txt
+layer1のTFBSの種類
+      11      11      64 data9_TFBS_DEGs.txt
+layer2のTFBSの種類
+      11      11      64 data9_TFBS_DEGs2.txt
+layer3のTFBSの種類
+      11      11      64 data9_TFBS_DEGs3.txt
+layer4のTFBSの種類
+      11      11      64 data9_TFBS_DEGs4.txt
+layer5のTFBSの種類
+      11      11      64 data9_TFBS_DEGs5.txt

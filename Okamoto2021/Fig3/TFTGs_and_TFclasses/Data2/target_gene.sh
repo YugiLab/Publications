@@ -1,6 +1,6 @@
 #!/bin/bash
 #　Connect the list of TFBSs obtained as a result of TF estimation to the Target Gene (enhancer, promoter).
-#　mkdir Result
+mkdir Result
 PublicData=$1
 echo "${PublicData}"
 ## Use genehancer_data*.csv, which is the result of TF estimation from GeneALaCart.
@@ -47,17 +47,3 @@ cat a_sorted.txt | awk -F"," '
 cat data"${PublicData}"_targetgenes.txt | awk -F"\t" '{print $1}' | sort | uniq > data"${PublicData}"_panther.txt
 
 # cat pantherGeneList.txt | awk -F"\t" 'NR>1{print $2"\t"$5}' > data2_TFclass.txt
-
-# Test
-cat data2_targetgenes_layer1.txt > data2_circos.txt
-cat data2_targetgenes_layer2.txt >> data2_circos.txt
-cat data2_circos.txt | sort | uniq | awk -F"," '
-    {
-        if($3 == "Promoter/Enhancer"){
-            print $0
-            print $1","$2",Enhancer"
-        }else{
-            print $0
-        }
-    }
-'

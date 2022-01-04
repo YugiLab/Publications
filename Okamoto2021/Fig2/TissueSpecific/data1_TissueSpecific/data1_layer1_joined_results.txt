@@ -1,0 +1,3974 @@
+KDM1A	GH01J022023	ENCODE	astrocyte
+KDM1A	GH01J022023	ENCODE	neural stem progenitor cell
+KDM1A	GH01J022023	Ensembl	Astrocytes
+KDM1A	GH01J022023	Ensembl	Cortex neurosphere
+KDM1A	GH01J022023	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J022023	Ensembl	Ganglion eminence neurosphere
+KDM1A	GH01J022023	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J022023	Ensembl	H9 neural progenitor cells
+KDM1A	GH01J022023	Ensembl	H9 neuron cells
+KDM1A	GH01J022044	ENCODE	astrocyte
+KDM1A	GH01J022047	---	---
+KDM1A	GH01J022051	ENCODE	astrocyte
+KDM1A	GH01J022051	ENCODE	neural stem progenitor cell
+KDM1A	GH01J022250	---	---
+KDM1A	GH01J022260	---	---
+KDM1A	GH01J022341	Ensembl	Brain (fetal)
+KDM1A	GH01J022341	Ensembl	Brain germinal matrix
+KDM1A	GH01J022341	Ensembl	Cortex neurosphere
+KDM1A	GH01J022341	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J022341	Ensembl	H9 neuron cells
+KDM1A	GH01J022450	ENCODE	astrocyte
+KDM1A	GH01J022450	ENCODE	neural stem progenitor cell
+KDM1A	GH01J022676	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J022710	ENCODE	neural stem progenitor cell
+KDM1A	GH01J022773	Ensembl	Astrocytes
+KDM1A	GH01J022824	ENCODE	astrocyte
+KDM1A	GH01J022824	dbSUPER	Brain - Hippocampus middle
+KDM1A	GH01J022876	ENCODE	neural stem progenitor cell
+KDM1A	GH01J022876	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J022876	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J022916	Ensembl	Cortex neurosphere
+KDM1A	GH01J022916	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J022916	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J022916	Ensembl	H9 neural progenitor cells
+KDM1A	GH01J022916	Ensembl	H9 neuron cells
+KDM1A	GH01J022980	---	---
+KDM1A	GH01J022990	---	---
+KDM1A	GH01J023018	ENCODE	astrocyte
+KDM1A	GH01J023018	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023026	Ensembl	Astrocytes
+KDM1A	GH01J023026	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023033	---	---
+KDM1A	GH01J023034	---	---
+KDM1A	GH01J023036	Ensembl	Astrocytes
+KDM1A	GH01J023036	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023039	Ensembl	Astrocytes
+KDM1A	GH01J023039	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023043	Ensembl	Brain (fetal)
+KDM1A	GH01J023043	Ensembl	Cortex neurosphere
+KDM1A	GH01J023046	---	---
+KDM1A	GH01J023050	---	---
+KDM1A	GH01J023060	FANTOM5	neuron
+KDM1A	GH01J023095	Ensembl	Astrocytes
+KDM1A	GH01J023095	Ensembl	Ganglion eminence neurosphere
+KDM1A	GH01J023098	ENCODE	astrocyte
+KDM1A	GH01J023110	---	---
+KDM1A	GH01J023113	---	---
+KDM1A	GH01J023118	---	---
+KDM1A	GH01J023122	---	---
+KDM1A	GH01J023123	---	---
+KDM1A	GH01J023124	---	---
+KDM1A	GH01J023125	---	---
+KDM1A	GH01J023126	Ensembl	Astrocytes
+KDM1A	GH01J023128	Ensembl	Astrocytes
+KDM1A	GH01J023128	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023135	---	---
+KDM1A	GH01J023136	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023136	Ensembl	H9 neuron cells
+KDM1A	GH01J023140	---	---
+KDM1A	GH01J023141	---	---
+KDM1A	GH01J023147	Ensembl	Astrocytes
+KDM1A	GH01J023150	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023152	---	---
+KDM1A	GH01J023155	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023157	---	---
+KDM1A	GH01J023159	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023166	ENCODE	astrocyte
+KDM1A	GH01J023166	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023174	---	---
+KDM1A	GH01J023184	---	---
+KDM1A	GH01J023216	---	---
+KDM1A	GH01J023366	ENCODE	astrocyte
+KDM1A	GH01J023366	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023366	Ensembl	Brain (fetal)
+KDM1A	GH01J023366	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J023383	---	---
+KDM1A	GH01J023392	---	---
+KDM1A	GH01J023521	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023521	Ensembl	Astrocytes
+KDM1A	GH01J023521	Ensembl	Ganglion eminence neurosphere
+KDM1A	GH01J023539	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023539	Ensembl	H9 neural progenitor cells
+KDM1A	GH01J023604	---	---
+KDM1A	GH01J023625	---	---
+KDM1A	GH01J023626	---	---
+KDM1A	GH01J023691	ENCODE	astrocyte
+KDM1A	GH01J023691	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023691	Ensembl	Astrocytes
+KDM1A	GH01J023691	Ensembl	Brain germinal matrix
+KDM1A	GH01J023691	Ensembl	Cortex neurosphere
+KDM1A	GH01J023691	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023691	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J023691	Ensembl	H9 neural progenitor cells
+KDM1A	GH01J023691	Ensembl	H9 neuron cells
+KDM1A	GH01J023742	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023742	Ensembl	Astrocytes
+KDM1A	GH01J023742	Ensembl	Brain germinal matrix
+KDM1A	GH01J023742	Ensembl	Cortex neurosphere
+KDM1A	GH01J023742	Ensembl	GM23338 bipolar neurons
+KDM1A	GH01J023742	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J023742	Ensembl	H9 neural progenitor cells
+KDM1A	GH01J023742	Ensembl	H9 neuron cells
+KDM1A	GH01J023776	ENCODE	astrocyte
+KDM1A	GH01J023824	ENCODE	astrocyte
+KDM1A	GH01J023824	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023954	ENCODE	astrocyte
+KDM1A	GH01J023954	ENCODE	neural stem progenitor cell
+KDM1A	GH01J023975	ENCODE	astrocyte
+KDM1A	GH01J023975	ENCODE	neural stem progenitor cell
+KDM1A	GH01J024014	ENCODE	astrocyte
+KDM1A	GH01J024014	Ensembl	Astrocytes
+KDM1A	GH01J024014	Ensembl	Cortex neurosphere
+KDM1A	GH01J024014	Ensembl	H1 neural progenitor cells
+KDM1A	GH01J024014	Ensembl	H9 neural progenitor cells
+ATF3	GH01J212254	---	---
+ATF3	GH01J212401	---	---
+ATF3	GH01J212436	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212436	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212440	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212440	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212441	---	---
+ATF3	GH01J212445	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212445	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212445	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212445	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212448	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212448	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212448	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212448	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212449	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212449	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212449	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212449	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212449	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212453	Ensembl	Astrocytes
+ATF3	GH01J212453	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212453	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212453	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212453	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212453	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212455	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212455	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212455	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212455	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212455	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212457	ENCODE	neural stem progenitor cell
+ATF3	GH01J212457	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212457	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212457	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212457	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212457	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212461	Ensembl	H1 neural progenitor cells
+ATF3	GH01J212461	Ensembl	H9 neuron cells
+ATF3	GH01J212461	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212461	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212461	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212461	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212461	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212464	Ensembl	GM23338 bipolar neurons
+ATF3	GH01J212464	Ensembl	H1 neural progenitor cells
+ATF3	GH01J212464	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212464	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212464	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212466	Ensembl	GM23338 bipolar neurons
+ATF3	GH01J212466	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212466	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212466	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212466	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212469	ENCODE	astrocyte
+ATF3	GH01J212469	Ensembl	Astrocytes
+ATF3	GH01J212469	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212469	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212469	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212469	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212469	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212471	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212471	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212471	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212474	dbSUPER	Brain - Angular gyrus
+ATF3	GH01J212474	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212474	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212474	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212474	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212476	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212476	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212476	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212476	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212480	---	---
+ATF3	GH01J212481	ENCODE	astrocyte
+ATF3	GH01J212481	dbSUPER	Brain - Anterior caudate
+ATF3	GH01J212481	dbSUPER	Brain - Cingulate gyrus
+ATF3	GH01J212481	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212481	dbSUPER	Brain - Inferior temporal lobe
+ATF3	GH01J212482	---	---
+ATF3	GH01J212490	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212495	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212497	ENCODE	astrocyte
+ATF3	GH01J212506	Ensembl	H9 neural progenitor cells
+ATF3	GH01J212506	dbSUPER	Brain - Hippocampus middle
+ATF3	GH01J212512	ENCODE	astrocyte
+ATF3	GH01J212514	---	---
+ATF3	GH01J212517	---	---
+ATF3	GH01J212521	Ensembl	H1 neural progenitor cells
+ATF3	GH01J212524	Ensembl	H1 neural progenitor cells
+ATF3	GH01J212531	VISTA	neural tube
+ATF3	GH01J212539	---	---
+ATF3	GH01J212541	---	---
+ATF3	GH01J212542	---	---
+ATF3	GH01J212545	---	---
+ATF3	GH01J212549	---	---
+ATF3	GH01J212551	---	---
+ATF3	GH01J212557	ENCODE	astrocyte
+ATF3	GH01J212557	ENCODE	neural stem progenitor cell
+ATF3	GH01J212565	ENCODE	astrocyte
+ATF3	GH01J212569	---	---
+ATF3	GH01J212570	Ensembl	H9 neuron cells
+ATF3	GH01J212586	---	---
+ATF3	GH01J212590	---	---
+ATF3	GH01J212593	---	---
+ATF3	GH01J212594	ENCODE	astrocyte
+ATF3	GH01J212600	---	---
+ATF3	GH01J212605	ENCODE	astrocyte
+ATF3	GH01J212605	ENCODE	neural stem progenitor cell
+ATF3	GH01J212611	---	---
+ATF3	GH01J212614	---	---
+ATF3	GH01J212615	---	---
+ATF3	GH01J212618	Ensembl	Cortex neurosphere
+ATF3	GH01J212620	---	---
+ATF3	GH01J212634	ENCODE	astrocyte
+ATF3	GH01J212664	ENCODE	astrocyte
+ATF3	GH01J212670	---	---
+ATF3	GH01J212675	---	---
+ATF3	GH01J212681	Ensembl	H9 neural progenitor cells
+ATF3	GH01J212710	Ensembl	GM23338 bipolar neurons
+ATF3	GH01J212744	---	---
+FOSL2	GH02J027662	ENCODE	astrocyte
+FOSL2	GH02J027662	ENCODE	neural stem progenitor cell
+FOSL2	GH02J027711	---	---
+FOSL2	GH02J027734	ENCODE	neural stem progenitor cell
+FOSL2	GH02J027814	---	---
+FOSL2	GH02J027893	---	---
+FOSL2	GH02J027895	---	---
+FOSL2	GH02J027897	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J027901	---	---
+FOSL2	GH02J027903	---	---
+FOSL2	GH02J027904	---	---
+FOSL2	GH02J027906	---	---
+FOSL2	GH02J027911	---	---
+FOSL2	GH02J027914	---	---
+FOSL2	GH02J027919	---	---
+FOSL2	GH02J027925	---	---
+FOSL2	GH02J027929	---	---
+FOSL2	GH02J027937	---	---
+FOSL2	GH02J027939	---	---
+FOSL2	GH02J027943	---	---
+FOSL2	GH02J027944	---	---
+FOSL2	GH02J027945	Ensembl	Cortex neurosphere
+FOSL2	GH02J027946	---	---
+FOSL2	GH02J027950	---	---
+FOSL2	GH02J027953	---	---
+FOSL2	GH02J027954	ENCODE	astrocyte
+FOSL2	GH02J027958	ENCODE	astrocyte
+FOSL2	GH02J027963	---	---
+FOSL2	GH02J027965	---	---
+FOSL2	GH02J027969	---	---
+FOSL2	GH02J027971	---	---
+FOSL2	GH02J027972	---	---
+FOSL2	GH02J027977	ENCODE	astrocyte
+FOSL2	GH02J027980	---	---
+FOSL2	GH02J027988	---	---
+FOSL2	GH02J027992	---	---
+FOSL2	GH02J028003	ENCODE	astrocyte
+FOSL2	GH02J028009	Ensembl	H9 neuron cells
+FOSL2	GH02J028011	Ensembl	H9 neuron cells
+FOSL2	GH02J028035	---	---
+FOSL2	GH02J028040	---	---
+FOSL2	GH02J028048	---	---
+FOSL2	GH02J028049	---	---
+FOSL2	GH02J028052	Ensembl	Cortex neurosphere
+FOSL2	GH02J028052	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028052	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028052	Ensembl	H9 neuron cells
+FOSL2	GH02J028055	---	---
+FOSL2	GH02J028063	---	---
+FOSL2	GH02J028075	Ensembl	Cortex neurosphere
+FOSL2	GH02J028075	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028075	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028080	Ensembl	Astrocytes
+FOSL2	GH02J028084	---	---
+FOSL2	GH02J028088	Ensembl	Astrocytes
+FOSL2	GH02J028094	---	---
+FOSL2	GH02J028095	---	---
+FOSL2	GH02J028096	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028097	---	---
+FOSL2	GH02J028100	ENCODE	astrocyte
+FOSL2	GH02J028100	Ensembl	Astrocytes
+FOSL2	GH02J028116	---	---
+FOSL2	GH02J028129	ENCODE	astrocyte
+FOSL2	GH02J028133	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028136	Ensembl	Cortex neurosphere
+FOSL2	GH02J028150	---	---
+FOSL2	GH02J028152	ENCODE	astrocyte
+FOSL2	GH02J028152	Ensembl	Astrocytes
+FOSL2	GH02J028160	ENCODE	astrocyte
+FOSL2	GH02J028166	---	---
+FOSL2	GH02J028168	Ensembl	Cortex neurosphere
+FOSL2	GH02J028169	---	---
+FOSL2	GH02J028171	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028177	---	---
+FOSL2	GH02J028184	Ensembl	Astrocytes
+FOSL2	GH02J028194	---	---
+FOSL2	GH02J028200	---	---
+FOSL2	GH02J028201	---	---
+FOSL2	GH02J028206	Ensembl	Cortex neurosphere
+FOSL2	GH02J028206	Ensembl	H9 neuron cells
+FOSL2	GH02J028208	---	---
+FOSL2	GH02J028214	---	---
+FOSL2	GH02J028216	Ensembl	Cortex neurosphere
+FOSL2	GH02J028216	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028216	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028216	Ensembl	H9 neuron cells
+FOSL2	GH02J028221	---	---
+FOSL2	GH02J028222	---	---
+FOSL2	GH02J028224	ENCODE	astrocyte
+FOSL2	GH02J028224	Ensembl	Astrocytes
+FOSL2	GH02J028224	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028227	---	---
+FOSL2	GH02J028229	---	---
+FOSL2	GH02J028230	---	---
+FOSL2	GH02J028246	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028250	---	---
+FOSL2	GH02J028263	Ensembl	Cortex neurosphere
+FOSL2	GH02J028263	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028263	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028263	Ensembl	H9 neuron cells
+FOSL2	GH02J028267	---	---
+FOSL2	GH02J028273	ENCODE	astrocyte
+FOSL2	GH02J028273	Ensembl	Astrocytes
+FOSL2	GH02J028273	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028286	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028290	---	---
+FOSL2	GH02J028291	ENCODE	astrocyte
+FOSL2	GH02J028291	Ensembl	Astrocytes
+FOSL2	GH02J028291	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028294	Ensembl	Astrocytes
+FOSL2	GH02J028296	---	---
+FOSL2	GH02J028298	---	---
+FOSL2	GH02J028299	---	---
+FOSL2	GH02J028300	Ensembl	Brain (fetal)
+FOSL2	GH02J028300	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028310	Ensembl	Brain (fetal)
+FOSL2	GH02J028311	Ensembl	Astrocytes
+FOSL2	GH02J028311	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028316	ENCODE	astrocyte
+FOSL2	GH02J028316	ENCODE	neural stem progenitor cell
+FOSL2	GH02J028316	Ensembl	Astrocytes
+FOSL2	GH02J028316	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028325	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028332	---	---
+FOSL2	GH02J028337	ENCODE	astrocyte
+FOSL2	GH02J028341	ENCODE	astrocyte
+FOSL2	GH02J028344	---	---
+FOSL2	GH02J028350	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028351	---	---
+FOSL2	GH02J028355	---	---
+FOSL2	GH02J028358	---	---
+FOSL2	GH02J028362	---	---
+FOSL2	GH02J028363	---	---
+FOSL2	GH02J028364	---	---
+FOSL2	GH02J028368	---	---
+FOSL2	GH02J028373	---	---
+FOSL2	GH02J028375	---	---
+FOSL2	GH02J028376	---	---
+FOSL2	GH02J028377	---	---
+FOSL2	GH02J028384	---	---
+FOSL2	GH02J028386	---	---
+FOSL2	GH02J028389	ENCODE	astrocyte
+FOSL2	GH02J028389	ENCODE	neural stem progenitor cell
+FOSL2	GH02J028389	dbSUPER	Astrocytes
+FOSL2	GH02J028402	---	---
+FOSL2	GH02J028404	ENCODE	astrocyte
+FOSL2	GH02J028404	dbSUPER	Astrocytes
+FOSL2	GH02J028412	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028417	---	---
+FOSL2	GH02J028419	---	---
+FOSL2	GH02J028420	Ensembl	Astrocytes
+FOSL2	GH02J028420	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028430	---	---
+FOSL2	GH02J028435	---	---
+FOSL2	GH02J028438	---	---
+FOSL2	GH02J028445	ENCODE	astrocyte
+FOSL2	GH02J028445	Ensembl	Astrocytes
+FOSL2	GH02J028452	---	---
+FOSL2	GH02J028463	---	---
+FOSL2	GH02J028507	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028582	ENCODE	astrocyte
+FOSL2	GH02J028582	Ensembl	Astrocytes
+FOSL2	GH02J028582	Ensembl	Cortex neurosphere
+FOSL2	GH02J028582	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028582	Ensembl	Ganglion eminence neurosphere
+FOSL2	GH02J028582	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028582	Ensembl	H9 neuron cells
+FOSL2	GH02J028588	Ensembl	Astrocytes
+FOSL2	GH02J028588	Ensembl	Cortex neurosphere
+FOSL2	GH02J028588	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028588	Ensembl	Ganglion eminence neurosphere
+FOSL2	GH02J028588	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028588	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028588	Ensembl	H9 neuron cells
+FOSL2	GH02J028601	---	---
+FOSL2	GH02J028617	ENCODE	astrocyte
+FOSL2	GH02J028617	Ensembl	Astrocytes
+FOSL2	GH02J028617	Ensembl	Cortex neurosphere
+FOSL2	GH02J028617	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028617	Ensembl	Ganglion eminence neurosphere
+FOSL2	GH02J028617	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028617	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028617	Ensembl	H9 neuron cells
+FOSL2	GH02J028680	ENCODE	astrocyte
+FOSL2	GH02J028680	Ensembl	Astrocytes
+FOSL2	GH02J028713	ENCODE	astrocyte
+FOSL2	GH02J028713	FANTOM5	astrocyte
+FOSL2	GH02J028713	FANTOM5	neuron
+FOSL2	GH02J028747	ENCODE	astrocyte
+FOSL2	GH02J028747	ENCODE	neural stem progenitor cell
+FOSL2	GH02J028747	Ensembl	Astrocytes
+FOSL2	GH02J028747	Ensembl	Cortex neurosphere
+FOSL2	GH02J028747	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028747	Ensembl	Ganglion eminence neurosphere
+FOSL2	GH02J028747	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028747	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028747	Ensembl	H9 neuron cells
+FOSL2	GH02J028786	---	---
+FOSL2	GH02J028802	---	---
+FOSL2	GH02J028868	ENCODE	astrocyte
+FOSL2	GH02J028868	ENCODE	neural stem progenitor cell
+FOSL2	GH02J028868	Ensembl	Astrocytes
+FOSL2	GH02J028868	Ensembl	Cortex neurosphere
+FOSL2	GH02J028868	Ensembl	GM23338 bipolar neurons
+FOSL2	GH02J028868	Ensembl	Ganglion eminence neurosphere
+FOSL2	GH02J028868	Ensembl	H1 neural progenitor cells
+FOSL2	GH02J028868	Ensembl	H9 neural progenitor cells
+FOSL2	GH02J028868	Ensembl	H9 neuron cells
+NFKBIZ	GH03J101572	ENCODE	astrocyte
+NFKBIZ	GH03J101572	ENCODE	neural stem progenitor cell
+NFKBIZ	GH03J101572	Ensembl	Astrocytes
+NFKBIZ	GH03J101572	Ensembl	Cortex neurosphere
+NFKBIZ	GH03J101572	Ensembl	Ganglion eminence neurosphere
+NFKBIZ	GH03J101572	Ensembl	H1 neural progenitor cells
+NFKBIZ	GH03J101572	Ensembl	H9 neural progenitor cells
+NFKBIZ	GH03J101572	Ensembl	H9 neuron cells
+NFKBIZ	GH03J101683	ENCODE	astrocyte
+NFKBIZ	GH03J101683	ENCODE	neural stem progenitor cell
+NFKBIZ	GH03J101778	ENCODE	astrocyte
+NFKBIZ	GH03J101778	ENCODE	neural stem progenitor cell
+NFKBIZ	GH03J101778	Ensembl	Astrocytes
+NFKBIZ	GH03J101778	Ensembl	Cortex neurosphere
+NFKBIZ	GH03J101778	Ensembl	Ganglion eminence neurosphere
+NFKBIZ	GH03J101778	Ensembl	H1 neural progenitor cells
+NFKBIZ	GH03J101778	Ensembl	H9 neuron cells
+NFKBIZ	GH03J101784	---	---
+NFKBIZ	GH03J101791	---	---
+NFKBIZ	GH03J101793	---	---
+NFKBIZ	GH03J101795	---	---
+NFKBIZ	GH03J101800	---	---
+NFKBIZ	GH03J101803	---	---
+NFKBIZ	GH03J101809	---	---
+NFKBIZ	GH03J101812	---	---
+NFKBIZ	GH03J101813	---	---
+NFKBIZ	GH03J101821	---	---
+NFKBIZ	GH03J101825	ENCODE	astrocyte
+NFKBIZ	GH03J101825	ENCODE	neural stem progenitor cell
+NFKBIZ	GH03J101825	Ensembl	Astrocytes
+NFKBIZ	GH03J101825	Ensembl	Cortex neurosphere
+NFKBIZ	GH03J101825	Ensembl	Ganglion eminence neurosphere
+NFKBIZ	GH03J101825	Ensembl	H1 neural progenitor cells
+NFKBIZ	GH03J101825	Ensembl	H9 neuron cells
+NFKBIZ	GH03J101836	ENCODE	neural stem progenitor cell
+NFKBIZ	GH03J101844	---	---
+NFKBIZ	GH03J101845	ENCODE	astrocyte
+NFKBIZ	GH03J101845	ENCODE	neural stem progenitor cell
+NFKBIZ	GH03J101845	Ensembl	Astrocytes
+NFKBIZ	GH03J101845	Ensembl	GM23338 bipolar neurons
+NFKBIZ	GH03J101865	---	---
+NFKBIZ	GH03J101867	Ensembl	Astrocytes
+NFKBIZ	GH03J101873	---	---
+NFKBIZ	GH03J101875	---	---
+NFKBIZ	GH03J101884	---	---
+NFKBIZ	GH03J101886	---	---
+NFKBIZ	GH03J101888	---	---
+NFKBIZ	GH03J101889	ENCODE	astrocyte
+NFKBIZ	GH03J101889	Ensembl	Astrocytes
+NFKBIZ	GH03J101892	---	---
+NFKBIZ	GH03J101898	---	---
+NFKBIZ	GH03J101900	---	---
+NFKBIZ	GH03J101901	ENCODE	astrocyte
+NFKBIZ	GH03J101913	Ensembl	Astrocytes
+NFKBIZ	GH03J101918	---	---
+NFKBIZ	GH03J101925	---	---
+NFKBIZ	GH03J101928	---	---
+NFKBIZ	GH03J101930	---	---
+NFKBIZ	GH03J101932	---	---
+NFKBIZ	GH03J101935	---	---
+NFKBIZ	GH03J101936	ENCODE	astrocyte
+NFKBIZ	GH03J101946	---	---
+NFKBIZ	GH03J101950	ENCODE	astrocyte
+NFKBIZ	GH03J101950	Ensembl	Astrocytes
+NFKBIZ	GH03J101964	---	---
+NFKBIZ	GH03J101971	---	---
+NFKBIZ	GH03J101976	Ensembl	Astrocytes
+NFKBIZ	GH03J101984	---	---
+NFKBIZ	GH03J101987	---	---
+NFKBIZ	GH03J101993	---	---
+NFKBIZ	GH03J101995	---	---
+NFKBIZ	GH03J101998	---	---
+NFKBIZ	GH03J101999	Ensembl	Astrocytes
+NFKBIZ	GH03J102000	---	---
+NFKBIZ	GH03J102006	ENCODE	astrocyte
+NFKBIZ	GH03J102015	---	---
+NFKBIZ	GH03J102017	---	---
+NFKBIZ	GH03J102019	---	---
+NFKBIZ	GH03J102020	---	---
+NFKBIZ	GH03J102026	---	---
+NFKBIZ	GH03J102029	---	---
+NFKBIZ	GH03J102038	---	---
+NFKBIZ	GH03J102053	Ensembl	Astrocytes
+NFKBIZ	GH03J102057	---	---
+NFKBIZ	GH03J102060	---	---
+NFKBIZ	GH03J102067	---	---
+NFKBIZ	GH03J102077	Ensembl	Cortex neurosphere
+NFKBIZ	GH03J102077	Ensembl	H9 neuron cells
+NFKBIZ	GH03J102087	---	---
+NFKBIZ	GH03J102088	ENCODE	astrocyte
+NFKBIZ	GH03J102088	Ensembl	Astrocytes
+NFKBIZ	GH03J102088	Ensembl	H9 neural progenitor cells
+NFKBIZ	GH03J102092	ENCODE	astrocyte
+NFKBIZ	GH03J102095	Ensembl	GM23338 bipolar neurons
+NFKBIZ	GH03J102188	Ensembl	Astrocytes
+NFKBIZ	GH03J102223	---	---
+NFKBIZ	GH03J102224	---	---
+NFKBIZ	GH03J102225	---	---
+GATA2	GH03J128074	ENCODE	neural stem progenitor cell
+GATA2	GH03J128074	Ensembl	Astrocytes
+GATA2	GH03J128074	Ensembl	Cortex neurosphere
+GATA2	GH03J128074	Ensembl	GM23338 bipolar neurons
+GATA2	GH03J128074	Ensembl	Ganglion eminence neurosphere
+GATA2	GH03J128074	Ensembl	H1 neural progenitor cells
+GATA2	GH03J128074	Ensembl	H9 neural progenitor cells
+GATA2	GH03J128074	Ensembl	H9 neuron cells
+GATA2	GH03J128074	FANTOM5	brain
+GATA2	GH03J128079	ENCODE	astrocyte
+GATA2	GH03J128079	Ensembl	Astrocytes
+GATA2	GH03J128079	Ensembl	Brain (fetal)
+GATA2	GH03J128111	ENCODE	astrocyte
+GATA2	GH03J128111	Ensembl	Astrocytes
+GATA2	GH03J128407	ENCODE	neural stem progenitor cell
+GATA2	GH03J128407	Ensembl	GM23338 bipolar neurons
+GATA2	GH03J128407	Ensembl	H1 neural progenitor cells
+GATA2	GH03J128431	ENCODE	neural stem progenitor cell
+GATA2	GH03J128431	Ensembl	H1 neural progenitor cells
+GATA2	GH03J128469	---	---
+GATA2	GH03J128479	---	---
+GATA2	GH03J128481	ENCODE	neural stem progenitor cell
+GATA2	GH03J128481	Ensembl	Astrocytes
+GATA2	GH03J128481	Ensembl	Cortex neurosphere
+GATA2	GH03J128481	Ensembl	GM23338 bipolar neurons
+GATA2	GH03J128481	Ensembl	Ganglion eminence neurosphere
+GATA2	GH03J128481	Ensembl	H1 neural progenitor cells
+GATA2	GH03J128481	Ensembl	H9 neural progenitor cells
+GATA2	GH03J128481	Ensembl	H9 neuron cells
+GATA2	GH03J128495	---	---
+GATA2	GH03J128496	ENCODE	neural stem progenitor cell
+GATA2	GH03J128497	ENCODE	neural stem progenitor cell
+GATA2	GH03J128499	Ensembl	H9 neuron cells
+GATA2	GH03J128503	---	---
+GATA2	GH03J128504	---	---
+GATA2	GH03J128515	---	---
+GATA2	GH03J128531	---	---
+GATA2	GH03J128537	---	---
+GATA2	GH03J128547	ENCODE	astrocyte
+GATA2	GH03J128547	Ensembl	Astrocytes
+GATA2	GH03J128547	Ensembl	H1 neural progenitor cells
+GATA2	GH03J128547	Ensembl	H9 neural progenitor cells
+GATA2	GH03J128547	Ensembl	H9 neuron cells
+GATA2	GH03J128551	---	---
+GATA2	GH03J128553	---	---
+GATA2	GH03J128554	---	---
+GATA2	GH03J128556	---	---
+GATA2	GH03J128559	---	---
+GATA2	GH03J128568	---	---
+GATA2	GH03J128569	---	---
+GATA2	GH03J128577	Ensembl	H1 neural progenitor cells
+GATA2	GH03J128577	Ensembl	H9 neural progenitor cells
+GATA2	GH03J128578	---	---
+GATA2	GH03J128581	---	---
+GATA2	GH03J128582	---	---
+GATA2	GH03J128584	---	---
+GATA2	GH03J128589	---	---
+GATA2	GH03J128590	---	---
+GATA2	GH03J128595	---	---
+GATA2	GH03J128606	---	---
+GATA2	GH03J128607	---	---
+GATA2	GH03J128616	ENCODE	astrocyte
+GATA2	GH03J128616	ENCODE	neural stem progenitor cell
+GATA2	GH03J128622	---	---
+GATA2	GH03J128623	---	---
+GATA2	GH03J128648	ENCODE	astrocyte
+GATA2	GH03J128648	ENCODE	neural stem progenitor cell
+GATA2	GH03J128653	---	---
+GATA2	GH03J128658	---	---
+GATA2	GH03J128663	---	---
+GATA2	GH03J128665	---	---
+GATA2	GH03J128667	---	---
+GATA2	GH03J128671	---	---
+GATA2	GH03J128674	---	---
+GATA2	GH03J128675	---	---
+GATA2	GH03J128679	ENCODE	astrocyte
+GATA2	GH03J128679	ENCODE	neural stem progenitor cell
+ZNF366	GH05J071785	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J071785	Ensembl	H1 neural progenitor cells
+ZNF366	GH05J071785	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J071785	Ensembl	H9 neuron cells
+ZNF366	GH05J072323	ENCODE	astrocyte
+ZNF366	GH05J072323	Ensembl	Astrocytes
+ZNF366	GH05J072337	---	---
+ZNF366	GH05J072346	ENCODE	astrocyte
+ZNF366	GH05J072346	Ensembl	Astrocytes
+ZNF366	GH05J072354	---	---
+ZNF366	GH05J072355	---	---
+ZNF366	GH05J072362	ENCODE	astrocyte
+ZNF366	GH05J072366	---	---
+ZNF366	GH05J072372	---	---
+ZNF366	GH05J072376	---	---
+ZNF366	GH05J072382	ENCODE	astrocyte
+ZNF366	GH05J072392	---	---
+ZNF366	GH05J072397	---	---
+ZNF366	GH05J072401	---	---
+ZNF366	GH05J072407	Ensembl	H9 neuron cells
+ZNF366	GH05J072411	---	---
+ZNF366	GH05J072416	---	---
+ZNF366	GH05J072426	Ensembl	H1 neural progenitor cells
+ZNF366	GH05J072433	---	---
+ZNF366	GH05J072436	---	---
+ZNF366	GH05J072437	---	---
+ZNF366	GH05J072438	---	---
+ZNF366	GH05J072439	---	---
+ZNF366	GH05J072440	ENCODE	astrocyte
+ZNF366	GH05J072443	---	---
+ZNF366	GH05J072445	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072445	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072445	Ensembl	H9 neuron cells
+ZNF366	GH05J072446	---	---
+ZNF366	GH05J072447	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072450	ENCODE	astrocyte
+ZNF366	GH05J072456	---	---
+ZNF366	GH05J072458	---	---
+ZNF366	GH05J072463	---	---
+ZNF366	GH05J072464	---	---
+ZNF366	GH05J072476	---	---
+ZNF366	GH05J072478	---	---
+ZNF366	GH05J072485	---	---
+ZNF366	GH05J072493	---	---
+ZNF366	GH05J072494	---	---
+ZNF366	GH05J072499	---	---
+ZNF366	GH05J072503	---	---
+ZNF366	GH05J072508	ENCODE	astrocyte
+ZNF366	GH05J072514	---	---
+ZNF366	GH05J072515	---	---
+ZNF366	GH05J072517	ENCODE	neural stem progenitor cell
+ZNF366	GH05J072523	---	---
+ZNF366	GH05J072531	---	---
+ZNF366	GH05J072534	---	---
+ZNF366	GH05J072541	Ensembl	H9 neuron cells
+ZNF366	GH05J072543	ENCODE	astrocyte
+ZNF366	GH05J072551	ENCODE	astrocyte
+ZNF366	GH05J072551	Ensembl	Astrocytes
+ZNF366	GH05J072555	ENCODE	neural stem progenitor cell
+ZNF366	GH05J072559	---	---
+ZNF366	GH05J072560	---	---
+ZNF366	GH05J072561	---	---
+ZNF366	GH05J072563	---	---
+ZNF366	GH05J072572	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072572	Ensembl	H1 neural progenitor cells
+ZNF366	GH05J072583	---	---
+ZNF366	GH05J072585	---	---
+ZNF366	GH05J072586	Ensembl	Astrocytes
+ZNF366	GH05J072586	Ensembl	H1 neural progenitor cells
+ZNF366	GH05J072596	ENCODE	astrocyte
+ZNF366	GH05J072596	Ensembl	Astrocytes
+ZNF366	GH05J072607	---	---
+ZNF366	GH05J072608	Ensembl	Brain (fetal)
+ZNF366	GH05J072608	Ensembl	Cortex neurosphere
+ZNF366	GH05J072608	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072608	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072608	Ensembl	H9 neuron cells
+ZNF366	GH05J072611	Ensembl	Astrocytes
+ZNF366	GH05J072611	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072613	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072618	---	---
+ZNF366	GH05J072621	Ensembl	Astrocytes
+ZNF366	GH05J072629	---	---
+ZNF366	GH05J072630	---	---
+ZNF366	GH05J072633	Ensembl	Astrocytes
+ZNF366	GH05J072635	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072635	Ensembl	H9 neuron cells
+ZNF366	GH05J072647	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072647	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072647	Ensembl	H9 neuron cells
+ZNF366	GH05J072648	Ensembl	Cortex neurosphere
+ZNF366	GH05J072648	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072648	Ensembl	H1 neural progenitor cells
+ZNF366	GH05J072648	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072648	Ensembl	H9 neuron cells
+ZNF366	GH05J072649	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072649	Ensembl	H9 neuron cells
+ZNF366	GH05J072652	---	---
+ZNF366	GH05J072653	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072653	Ensembl	H1 neural progenitor cells
+ZNF366	GH05J072653	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072653	Ensembl	H9 neuron cells
+ZNF366	GH05J072661	Ensembl	H9 neural progenitor cells
+ZNF366	GH05J072664	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072665	---	---
+ZNF366	GH05J072703	Ensembl	GM23338 bipolar neurons
+ZNF366	GH05J072703	Ensembl	H9 neuron cells
+ZNF366	GH05J072788	---	---
+ZNF366	GH05J072792	---	---
+ZNF366	GH05J072793	---	---
+ZNF366	GH05J072799	---	---
+ZNF366	GH05J072810	---	---
+ZNF366	GH05J072812	---	---
+ZSCAN9	GH06J027229	---	---
+ZSCAN9	GH06J027235	---	---
+ZSCAN9	GH06J027250	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027290	---	---
+ZSCAN9	GH06J027295	---	---
+ZSCAN9	GH06J027296	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027312	Ensembl	Astrocytes
+ZSCAN9	GH06J027312	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027312	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027312	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027312	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027312	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027312	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027332	---	---
+ZSCAN9	GH06J027388	ENCODE	astrocyte
+ZSCAN9	GH06J027388	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027388	Ensembl	Astrocytes
+ZSCAN9	GH06J027388	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027388	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027388	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027388	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027388	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027388	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027470	ENCODE	astrocyte
+ZSCAN9	GH06J027470	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027470	Ensembl	Astrocytes
+ZSCAN9	GH06J027470	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027470	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027470	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027470	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027470	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027470	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027477	ENCODE	astrocyte
+ZSCAN9	GH06J027477	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027492	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027492	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027492	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027492	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027494	ENCODE	astrocyte
+ZSCAN9	GH06J027494	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027502	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027518	ENCODE	astrocyte
+ZSCAN9	GH06J027518	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027518	Ensembl	Astrocytes
+ZSCAN9	GH06J027518	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027518	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027518	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027518	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027518	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027518	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027541	---	---
+ZSCAN9	GH06J027544	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027547	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027552	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027592	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027600	---	---
+ZSCAN9	GH06J027602	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027604	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027616	---	---
+ZSCAN9	GH06J027630	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027650	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027652	---	---
+ZSCAN9	GH06J027653	---	---
+ZSCAN9	GH06J027669	---	---
+ZSCAN9	GH06J027671	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027684	---	---
+ZSCAN9	GH06J027687	ENCODE	astrocyte
+ZSCAN9	GH06J027687	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027693	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027693	Ensembl	Astrocytes
+ZSCAN9	GH06J027693	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027693	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027693	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027693	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027693	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027693	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027751	ENCODE	astrocyte
+ZSCAN9	GH06J027751	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027751	Ensembl	Astrocytes
+ZSCAN9	GH06J027751	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027751	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027751	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027751	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027751	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027751	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027756	Ensembl	Astrocytes
+ZSCAN9	GH06J027756	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027756	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027756	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027756	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027756	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027756	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027771	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027776	---	---
+ZSCAN9	GH06J027791	ENCODE	astrocyte
+ZSCAN9	GH06J027791	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027805	ENCODE	astrocyte
+ZSCAN9	GH06J027805	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027805	Ensembl	Astrocytes
+ZSCAN9	GH06J027805	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027805	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027805	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027805	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027805	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027805	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027821	ENCODE	astrocyte
+ZSCAN9	GH06J027821	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027821	Ensembl	Astrocytes
+ZSCAN9	GH06J027821	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027821	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027821	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027821	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027821	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027821	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027828	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027828	Ensembl	Astrocytes
+ZSCAN9	GH06J027828	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J027828	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J027828	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J027828	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J027828	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J027828	Ensembl	H9 neuron cells
+ZSCAN9	GH06J027834	ENCODE	astrocyte
+ZSCAN9	GH06J027834	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027862	ENCODE	astrocyte
+ZSCAN9	GH06J027862	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027887	ENCODE	astrocyte
+ZSCAN9	GH06J027887	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J027887	FANTOM5	astrocyte
+ZSCAN9	GH06J027902	ENCODE	astrocyte
+ZSCAN9	GH06J027902	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028079	ENCODE	astrocyte
+ZSCAN9	GH06J028079	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028104	---	---
+ZSCAN9	GH06J028135	ENCODE	astrocyte
+ZSCAN9	GH06J028135	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028142	ENCODE	astrocyte
+ZSCAN9	GH06J028142	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028145	---	---
+ZSCAN9	GH06J028146	---	---
+ZSCAN9	GH06J028161	---	---
+ZSCAN9	GH06J028166	ENCODE	astrocyte
+ZSCAN9	GH06J028166	Ensembl	Astrocytes
+ZSCAN9	GH06J028203	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J028203	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028207	---	---
+ZSCAN9	GH06J028209	---	---
+ZSCAN9	GH06J028211	---	---
+ZSCAN9	GH06J028215	---	---
+ZSCAN9	GH06J028217	---	---
+ZSCAN9	GH06J028221	---	---
+ZSCAN9	GH06J028224	ENCODE	astrocyte
+ZSCAN9	GH06J028224	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028224	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028235	---	---
+ZSCAN9	GH06J028242	---	---
+ZSCAN9	GH06J028251	ENCODE	astrocyte
+ZSCAN9	GH06J028251	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028266	ENCODE	astrocyte
+ZSCAN9	GH06J028266	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028266	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028281	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028331	---	---
+ZSCAN9	GH06J028333	---	---
+ZSCAN9	GH06J028334	ENCODE	astrocyte
+ZSCAN9	GH06J028334	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028334	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028334	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028349	ENCODE	astrocyte
+ZSCAN9	GH06J028349	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028349	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028349	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028353	ENCODE	astrocyte
+ZSCAN9	GH06J028353	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028353	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028382	ENCODE	astrocyte
+ZSCAN9	GH06J028382	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028398	ENCODE	astrocyte
+ZSCAN9	GH06J028398	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028442	ENCODE	astrocyte
+ZSCAN9	GH06J028474	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028488	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028488	Ensembl	Astrocytes
+ZSCAN9	GH06J028488	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J028488	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J028488	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028488	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J028488	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J028488	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028542	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028553	---	---
+ZSCAN9	GH06J028565	---	---
+ZSCAN9	GH06J028585	ENCODE	astrocyte
+ZSCAN9	GH06J028585	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028596	---	---
+ZSCAN9	GH06J028606	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028615	---	---
+ZSCAN9	GH06J028643	---	---
+ZSCAN9	GH06J028657	---	---
+ZSCAN9	GH06J028686	---	---
+ZSCAN9	GH06J028709	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028727	---	---
+ZSCAN9	GH06J028750	---	---
+ZSCAN9	GH06J028755	---	---
+ZSCAN9	GH06J028764	---	---
+ZSCAN9	GH06J028795	---	---
+ZSCAN9	GH06J028802	---	---
+ZSCAN9	GH06J028803	---	---
+ZSCAN9	GH06J028807	---	---
+ZSCAN9	GH06J028816	---	---
+ZSCAN9	GH06J028817	---	---
+ZSCAN9	GH06J028824	Ensembl	Astrocytes
+ZSCAN9	GH06J028824	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J028824	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028838	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028838	Ensembl	Astrocytes
+ZSCAN9	GH06J028838	Ensembl	Brain germinal matrix
+ZSCAN9	GH06J028838	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J028838	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J028838	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028838	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J028838	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J028838	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028862	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028877	---	---
+ZSCAN9	GH06J028880	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028894	ENCODE	astrocyte
+ZSCAN9	GH06J028894	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028921	ENCODE	astrocyte
+ZSCAN9	GH06J028921	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028921	Ensembl	Astrocytes
+ZSCAN9	GH06J028921	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J028921	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J028921	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028921	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J028921	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J028921	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028929	---	---
+ZSCAN9	GH06J028939	ENCODE	astrocyte
+ZSCAN9	GH06J028939	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028950	---	---
+ZSCAN9	GH06J028977	ENCODE	astrocyte
+ZSCAN9	GH06J028977	ENCODE	neural stem progenitor cell
+ZSCAN9	GH06J028977	Ensembl	Astrocytes
+ZSCAN9	GH06J028977	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J028977	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J028977	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J028977	Ensembl	H1 neural progenitor cells
+ZSCAN9	GH06J028977	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J028977	Ensembl	H9 neuron cells
+ZSCAN9	GH06J028988	---	---
+ZSCAN9	GH06J029004	Ensembl	Astrocytes
+ZSCAN9	GH06J029004	Ensembl	Brain germinal matrix
+ZSCAN9	GH06J029004	Ensembl	Cortex neurosphere
+ZSCAN9	GH06J029004	Ensembl	GM23338 bipolar neurons
+ZSCAN9	GH06J029004	Ensembl	Ganglion eminence neurosphere
+ZSCAN9	GH06J029004	Ensembl	H9 neural progenitor cells
+ZSCAN9	GH06J029004	Ensembl	H9 neuron cells
+ZSCAN9	GH06J029011	---	---
+EHMT2	GH06J031546	ENCODE	astrocyte
+EHMT2	GH06J031546	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031546	Ensembl	Astrocytes
+EHMT2	GH06J031546	Ensembl	Brain germinal matrix
+EHMT2	GH06J031546	Ensembl	Cortex neurosphere
+EHMT2	GH06J031546	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031546	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031546	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031619	ENCODE	astrocyte
+EHMT2	GH06J031619	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031619	Ensembl	Astrocytes
+EHMT2	GH06J031619	Ensembl	Brain germinal matrix
+EHMT2	GH06J031619	Ensembl	Cortex neurosphere
+EHMT2	GH06J031619	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031619	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031619	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031619	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J031619	Ensembl	H9 neuron cells
+EHMT2	GH06J031650	ENCODE	astrocyte
+EHMT2	GH06J031650	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031700	ENCODE	astrocyte
+EHMT2	GH06J031700	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031813	ENCODE	astrocyte
+EHMT2	GH06J031813	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031813	Ensembl	Astrocytes
+EHMT2	GH06J031813	Ensembl	Cortex neurosphere
+EHMT2	GH06J031813	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031813	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031813	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031813	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J031813	Ensembl	H9 neuron cells
+EHMT2	GH06J031813	dbSUPER	Brain - Anterior caudate
+EHMT2	GH06J031813	dbSUPER	Brain - Cingulate gyrus
+EHMT2	GH06J031813	dbSUPER	Brain - Hippocampus middle
+EHMT2	GH06J031813	dbSUPER	Brain - Mid frontal lobe
+EHMT2	GH06J031876	Ensembl	Astrocytes
+EHMT2	GH06J031876	Ensembl	Cortex neurosphere
+EHMT2	GH06J031876	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031876	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031876	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031876	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J031876	Ensembl	H9 neuron cells
+EHMT2	GH06J031888	---	---
+EHMT2	GH06J031896	ENCODE	astrocyte
+EHMT2	GH06J031896	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031896	Ensembl	Astrocytes
+EHMT2	GH06J031896	Ensembl	Cortex neurosphere
+EHMT2	GH06J031896	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031896	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031896	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031896	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J031896	Ensembl	H9 neuron cells
+EHMT2	GH06J031927	---	---
+EHMT2	GH06J031928	---	---
+EHMT2	GH06J031944	Ensembl	Astrocytes
+EHMT2	GH06J031944	Ensembl	Cortex neurosphere
+EHMT2	GH06J031944	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031944	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031944	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031944	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J031944	Ensembl	H9 neuron cells
+EHMT2	GH06J031969	ENCODE	astrocyte
+EHMT2	GH06J031969	ENCODE	neural stem progenitor cell
+EHMT2	GH06J031969	Ensembl	Astrocytes
+EHMT2	GH06J031969	Ensembl	Cortex neurosphere
+EHMT2	GH06J031969	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J031969	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J031969	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J031969	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J031969	Ensembl	H9 neuron cells
+EHMT2	GH06J032175	ENCODE	astrocyte
+EHMT2	GH06J032175	ENCODE	neural stem progenitor cell
+EHMT2	GH06J032184	ENCODE	astrocyte
+EHMT2	GH06J032184	ENCODE	neural stem progenitor cell
+EHMT2	GH06J032521	---	---
+EHMT2	GH06J032583	Ensembl	Astrocytes
+EHMT2	GH06J032583	Ensembl	Cortex neurosphere
+EHMT2	GH06J032583	Ensembl	GM23338 bipolar neurons
+EHMT2	GH06J032583	Ensembl	Ganglion eminence neurosphere
+EHMT2	GH06J032583	Ensembl	H1 neural progenitor cells
+EHMT2	GH06J032583	Ensembl	H9 neural progenitor cells
+EHMT2	GH06J032583	Ensembl	H9 neuron cells
+MYC	GH08J126824	ENCODE	astrocyte
+MYC	GH08J126824	ENCODE	neural stem progenitor cell
+MYC	GH08J126824	Ensembl	Astrocytes
+MYC	GH08J126824	Ensembl	H1 neural progenitor cells
+MYC	GH08J126874	Ensembl	H1 neural progenitor cells
+MYC	GH08J126876	---	---
+MYC	GH08J127245	---	---
+MYC	GH08J127265	---	---
+MYC	GH08J127292	ENCODE	astrocyte
+MYC	GH08J127292	FANTOM5	astrocyte
+MYC	GH08J127320	---	---
+MYC	GH08J127321	---	---
+MYC	GH08J127329	Ensembl	H1 neural progenitor cells
+MYC	GH08J127330	Ensembl	H9 neural progenitor cells
+MYC	GH08J127339	---	---
+MYC	GH08J127344	---	---
+MYC	GH08J127356	Ensembl	Cortex neurosphere
+MYC	GH08J127356	Ensembl	H9 neural progenitor cells
+MYC	GH08J127356	Ensembl	H9 neuron cells
+MYC	GH08J127358	---	---
+MYC	GH08J127360	---	---
+MYC	GH08J127363	---	---
+MYC	GH08J127365	---	---
+MYC	GH08J127371	Ensembl	Cortex neurosphere
+MYC	GH08J127371	Ensembl	H1 neural progenitor cells
+MYC	GH08J127374	---	---
+MYC	GH08J127387	---	---
+MYC	GH08J127389	Ensembl	Astrocytes
+MYC	GH08J127393	Ensembl	H9 neural progenitor cells
+MYC	GH08J127396	---	---
+MYC	GH08J127420	---	---
+MYC	GH08J127424	---	---
+MYC	GH08J127426	---	---
+MYC	GH08J127440	---	---
+MYC	GH08J127451	---	---
+MYC	GH08J127471	---	---
+MYC	GH08J127477	---	---
+MYC	GH08J127480	ENCODE	neural stem progenitor cell
+MYC	GH08J127480	Ensembl	Astrocytes
+MYC	GH08J127480	Ensembl	Brain germinal matrix
+MYC	GH08J127480	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127480	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127480	Ensembl	H9 neural progenitor cells
+MYC	GH08J127480	Ensembl	H9 neuron cells
+MYC	GH08J127484	Ensembl	Cortex neurosphere
+MYC	GH08J127484	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127484	Ensembl	H1 neural progenitor cells
+MYC	GH08J127491	---	---
+MYC	GH08J127493	---	---
+MYC	GH08J127496	---	---
+MYC	GH08J127498	---	---
+MYC	GH08J127504	---	---
+MYC	GH08J127506	Ensembl	Astrocytes
+MYC	GH08J127512	---	---
+MYC	GH08J127544	---	---
+MYC	GH08J127547	Ensembl	Cortex neurosphere
+MYC	GH08J127556	---	---
+MYC	GH08J127563	---	---
+MYC	GH08J127564	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127564	Ensembl	H1 neural progenitor cells
+MYC	GH08J127569	Ensembl	H1 neural progenitor cells
+MYC	GH08J127573	---	---
+MYC	GH08J127575	---	---
+MYC	GH08J127583	Ensembl	Cortex neurosphere
+MYC	GH08J127585	---	---
+MYC	GH08J127588	---	---
+MYC	GH08J127594	---	---
+MYC	GH08J127607	---	---
+MYC	GH08J127609	---	---
+MYC	GH08J127618	---	---
+MYC	GH08J127624	---	---
+MYC	GH08J127638	---	---
+MYC	GH08J127642	Ensembl	Cortex neurosphere
+MYC	GH08J127642	Ensembl	H1 neural progenitor cells
+MYC	GH08J127645	Ensembl	Astrocytes
+MYC	GH08J127645	Ensembl	H9 neural progenitor cells
+MYC	GH08J127646	---	---
+MYC	GH08J127647	Ensembl	Cortex neurosphere
+MYC	GH08J127647	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127649	---	---
+MYC	GH08J127650	---	---
+MYC	GH08J127654	---	---
+MYC	GH08J127660	---	---
+MYC	GH08J127666	ENCODE	astrocyte
+MYC	GH08J127666	Ensembl	Astrocytes
+MYC	GH08J127671	---	---
+MYC	GH08J127674	---	---
+MYC	GH08J127679	Ensembl	Astrocytes
+MYC	GH08J127680	Ensembl	Brain germinal matrix
+MYC	GH08J127684	---	---
+MYC	GH08J127686	---	---
+MYC	GH08J127687	---	---
+MYC	GH08J127695	---	---
+MYC	GH08J127698	---	---
+MYC	GH08J127706	---	---
+MYC	GH08J127723	---	---
+MYC	GH08J127724	Ensembl	Cortex neurosphere
+MYC	GH08J127725	---	---
+MYC	GH08J127727	Ensembl	Cortex neurosphere
+MYC	GH08J127732	ENCODE	astrocyte
+MYC	GH08J127732	ENCODE	neural stem progenitor cell
+MYC	GH08J127732	Ensembl	Astrocytes
+MYC	GH08J127732	Ensembl	Brain germinal matrix
+MYC	GH08J127732	Ensembl	Cortex neurosphere
+MYC	GH08J127732	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127732	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127732	Ensembl	H1 neural progenitor cells
+MYC	GH08J127732	Ensembl	H9 neural progenitor cells
+MYC	GH08J127732	Ensembl	H9 neuron cells
+MYC	GH08J127732	dbSUPER	Astrocytes
+MYC	GH08J127744	Ensembl	H9 neural progenitor cells
+MYC	GH08J127745	---	---
+MYC	GH08J127747	---	---
+MYC	GH08J127750	---	---
+MYC	GH08J127753	---	---
+MYC	GH08J127755	---	---
+MYC	GH08J127756	---	---
+MYC	GH08J127758	---	---
+MYC	GH08J127763	---	---
+MYC	GH08J127783	---	---
+MYC	GH08J127785	Ensembl	H1 neural progenitor cells
+MYC	GH08J127786	---	---
+MYC	GH08J127787	---	---
+MYC	GH08J127788	---	---
+MYC	GH08J127789	---	---
+MYC	GH08J127793	ENCODE	astrocyte
+MYC	GH08J127793	ENCODE	neural stem progenitor cell
+MYC	GH08J127794	---	---
+MYC	GH08J127798	---	---
+MYC	GH08J127799	---	---
+MYC	GH08J127806	ENCODE	astrocyte
+MYC	GH08J127806	ENCODE	neural stem progenitor cell
+MYC	GH08J127813	ENCODE	neural stem progenitor cell
+MYC	GH08J127816	ENCODE	neural stem progenitor cell
+MYC	GH08J127821	---	---
+MYC	GH08J127826	---	---
+MYC	GH08J127830	ENCODE	astrocyte
+MYC	GH08J127830	Ensembl	Astrocytes
+MYC	GH08J127830	Ensembl	H1 neural progenitor cells
+MYC	GH08J127830	dbSUPER	Astrocytes
+MYC	GH08J127835	---	---
+MYC	GH08J127836	Ensembl	Cortex neurosphere
+MYC	GH08J127838	---	---
+MYC	GH08J127843	---	---
+MYC	GH08J127844	ENCODE	astrocyte
+MYC	GH08J127844	dbSUPER	Astrocytes
+MYC	GH08J127847	---	---
+MYC	GH08J127848	---	---
+MYC	GH08J127849	---	---
+MYC	GH08J127850	ENCODE	astrocyte
+MYC	GH08J127850	ENCODE	neural stem progenitor cell
+MYC	GH08J127850	Ensembl	Astrocytes
+MYC	GH08J127850	Ensembl	Brain germinal matrix
+MYC	GH08J127850	Ensembl	Cortex neurosphere
+MYC	GH08J127850	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127850	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127850	Ensembl	H1 neural progenitor cells
+MYC	GH08J127850	Ensembl	H9 neural progenitor cells
+MYC	GH08J127850	Ensembl	H9 neuron cells
+MYC	GH08J127850	dbSUPER	Astrocytes
+MYC	GH08J127857	ENCODE	astrocyte
+MYC	GH08J127857	Ensembl	Astrocytes
+MYC	GH08J127857	Ensembl	Brain germinal matrix
+MYC	GH08J127857	Ensembl	Cortex neurosphere
+MYC	GH08J127857	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127857	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127857	Ensembl	H1 neural progenitor cells
+MYC	GH08J127857	Ensembl	H9 neural progenitor cells
+MYC	GH08J127857	Ensembl	H9 neuron cells
+MYC	GH08J127857	dbSUPER	Astrocytes
+MYC	GH08J127862	---	---
+MYC	GH08J127863	dbSUPER	Astrocytes
+MYC	GH08J127874	ENCODE	neural stem progenitor cell
+MYC	GH08J127880	---	---
+MYC	GH08J127881	---	---
+MYC	GH08J127882	Ensembl	Brain (fetal)
+MYC	GH08J127882	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127884	---	---
+MYC	GH08J127886	---	---
+MYC	GH08J127888	ENCODE	astrocyte
+MYC	GH08J127888	ENCODE	neural stem progenitor cell
+MYC	GH08J127888	Ensembl	Astrocytes
+MYC	GH08J127888	Ensembl	Brain germinal matrix
+MYC	GH08J127888	Ensembl	Cortex neurosphere
+MYC	GH08J127888	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127888	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127888	Ensembl	H1 neural progenitor cells
+MYC	GH08J127888	Ensembl	H9 neural progenitor cells
+MYC	GH08J127888	Ensembl	H9 neuron cells
+MYC	GH08J127888	dbSUPER	Astrocytes
+MYC	GH08J127893	---	---
+MYC	GH08J127894	---	---
+MYC	GH08J127895	ENCODE	astrocyte
+MYC	GH08J127895	dbSUPER	Astrocytes
+MYC	GH08J127902	---	---
+MYC	GH08J127904	ENCODE	astrocyte
+MYC	GH08J127904	ENCODE	neural stem progenitor cell
+MYC	GH08J127904	Ensembl	Astrocytes
+MYC	GH08J127904	Ensembl	Brain germinal matrix
+MYC	GH08J127904	Ensembl	Cortex neurosphere
+MYC	GH08J127904	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127904	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127904	Ensembl	H1 neural progenitor cells
+MYC	GH08J127904	Ensembl	H9 neural progenitor cells
+MYC	GH08J127904	Ensembl	H9 neuron cells
+MYC	GH08J127904	dbSUPER	Astrocytes
+MYC	GH08J127913	---	---
+MYC	GH08J127915	ENCODE	astrocyte
+MYC	GH08J127915	ENCODE	neural stem progenitor cell
+MYC	GH08J127915	Ensembl	Astrocytes
+MYC	GH08J127915	Ensembl	Brain germinal matrix
+MYC	GH08J127915	Ensembl	Cortex neurosphere
+MYC	GH08J127915	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127915	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127915	Ensembl	H1 neural progenitor cells
+MYC	GH08J127915	Ensembl	H9 neural progenitor cells
+MYC	GH08J127915	Ensembl	H9 neuron cells
+MYC	GH08J127915	dbSUPER	Astrocytes
+MYC	GH08J127922	---	---
+MYC	GH08J127923	---	---
+MYC	GH08J127924	ENCODE	astrocyte
+MYC	GH08J127924	Ensembl	Astrocytes
+MYC	GH08J127924	Ensembl	Brain germinal matrix
+MYC	GH08J127924	Ensembl	Cortex neurosphere
+MYC	GH08J127924	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127924	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127924	Ensembl	H1 neural progenitor cells
+MYC	GH08J127924	Ensembl	H9 neural progenitor cells
+MYC	GH08J127924	Ensembl	H9 neuron cells
+MYC	GH08J127924	FANTOM5	astrocyte
+MYC	GH08J127924	dbSUPER	Astrocytes
+MYC	GH08J127934	---	---
+MYC	GH08J127936	---	---
+MYC	GH08J127940	---	---
+MYC	GH08J127941	---	---
+MYC	GH08J127943	ENCODE	astrocyte
+MYC	GH08J127943	ENCODE	neural stem progenitor cell
+MYC	GH08J127943	dbSUPER	Astrocytes
+MYC	GH08J127947	ENCODE	astrocyte
+MYC	GH08J127947	Ensembl	Astrocytes
+MYC	GH08J127947	dbSUPER	Astrocytes
+MYC	GH08J127948	---	---
+MYC	GH08J127954	---	---
+MYC	GH08J127955	---	---
+MYC	GH08J127957	---	---
+MYC	GH08J127958	---	---
+MYC	GH08J127959	---	---
+MYC	GH08J127962	---	---
+MYC	GH08J127964	---	---
+MYC	GH08J127966	ENCODE	astrocyte
+MYC	GH08J127966	ENCODE	neural stem progenitor cell
+MYC	GH08J127972	---	---
+MYC	GH08J127982	---	---
+MYC	GH08J127985	---	---
+MYC	GH08J127986	ENCODE	neural stem progenitor cell
+MYC	GH08J127990	---	---
+MYC	GH08J127991	---	---
+MYC	GH08J127992	Ensembl	Astrocytes
+MYC	GH08J127992	Ensembl	Cortex neurosphere
+MYC	GH08J127992	Ensembl	GM23338 bipolar neurons
+MYC	GH08J127992	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J127992	Ensembl	H1 neural progenitor cells
+MYC	GH08J127992	Ensembl	H9 neural progenitor cells
+MYC	GH08J127992	Ensembl	H9 neuron cells
+MYC	GH08J128002	---	---
+MYC	GH08J128006	---	---
+MYC	GH08J128011	Ensembl	Astrocytes
+MYC	GH08J128012	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128013	ENCODE	astrocyte
+MYC	GH08J128017	ENCODE	astrocyte
+MYC	GH08J128017	Ensembl	Astrocytes
+MYC	GH08J128017	Ensembl	Brain germinal matrix
+MYC	GH08J128025	---	---
+MYC	GH08J128027	---	---
+MYC	GH08J128028	---	---
+MYC	GH08J128029	Ensembl	Cortex neurosphere
+MYC	GH08J128030	---	---
+MYC	GH08J128032	ENCODE	astrocyte
+MYC	GH08J128036	---	---
+MYC	GH08J128037	---	---
+MYC	GH08J128038	---	---
+MYC	GH08J128039	---	---
+MYC	GH08J128040	---	---
+MYC	GH08J128041	---	---
+MYC	GH08J128043	ENCODE	neural stem progenitor cell
+MYC	GH08J128045	---	---
+MYC	GH08J128051	---	---
+MYC	GH08J128053	---	---
+MYC	GH08J128055	---	---
+MYC	GH08J128056	ENCODE	astrocyte
+MYC	GH08J128056	Ensembl	Astrocytes
+MYC	GH08J128056	Ensembl	H1 neural progenitor cells
+MYC	GH08J128060	---	---
+MYC	GH08J128061	Ensembl	H1 neural progenitor cells
+MYC	GH08J128066	---	---
+MYC	GH08J128068	---	---
+MYC	GH08J128070	---	---
+MYC	GH08J128073	Ensembl	Astrocytes
+MYC	GH08J128074	---	---
+MYC	GH08J128076	ENCODE	astrocyte
+MYC	GH08J128076	Ensembl	Astrocytes
+MYC	GH08J128084	---	---
+MYC	GH08J128088	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128090	Ensembl	Astrocytes
+MYC	GH08J128102	---	---
+MYC	GH08J128107	ENCODE	astrocyte
+MYC	GH08J128107	ENCODE	neural stem progenitor cell
+MYC	GH08J128107	Ensembl	Astrocytes
+MYC	GH08J128107	Ensembl	H9 neuron cells
+MYC	GH08J128108	---	---
+MYC	GH08J128111	---	---
+MYC	GH08J128117	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128120	---	---
+MYC	GH08J128123	Ensembl	Cortex neurosphere
+MYC	GH08J128124	Ensembl	Brain (fetal)
+MYC	GH08J128124	Ensembl	Cortex neurosphere
+MYC	GH08J128125	Ensembl	Brain (fetal)
+MYC	GH08J128125	Ensembl	Cortex neurosphere
+MYC	GH08J128126	ENCODE	astrocyte
+MYC	GH08J128126	Ensembl	Astrocytes
+MYC	GH08J128134	---	---
+MYC	GH08J128138	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128147	---	---
+MYC	GH08J128149	ENCODE	astrocyte
+MYC	GH08J128149	Ensembl	Astrocytes
+MYC	GH08J128149	Ensembl	Cortex neurosphere
+MYC	GH08J128149	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128149	Ensembl	Ganglion eminence neurosphere
+MYC	GH08J128149	Ensembl	H1 neural progenitor cells
+MYC	GH08J128149	Ensembl	H9 neural progenitor cells
+MYC	GH08J128157	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128162	---	---
+MYC	GH08J128165	Ensembl	H1 neural progenitor cells
+MYC	GH08J128166	ENCODE	astrocyte
+MYC	GH08J128166	dbSUPER	Astrocytes
+MYC	GH08J128171	ENCODE	astrocyte
+MYC	GH08J128171	dbSUPER	Astrocytes
+MYC	GH08J128181	ENCODE	astrocyte
+MYC	GH08J128181	Ensembl	Astrocytes
+MYC	GH08J128181	dbSUPER	Astrocytes
+MYC	GH08J128186	Ensembl	Astrocytes
+MYC	GH08J128190	---	---
+MYC	GH08J128192	---	---
+MYC	GH08J128193	---	---
+MYC	GH08J128194	---	---
+MYC	GH08J128196	ENCODE	astrocyte
+MYC	GH08J128198	---	---
+MYC	GH08J128201	ENCODE	astrocyte
+MYC	GH08J128203	---	---
+MYC	GH08J128207	---	---
+MYC	GH08J128210	---	---
+MYC	GH08J128213	---	---
+MYC	GH08J128216	---	---
+MYC	GH08J128221	---	---
+MYC	GH08J128224	---	---
+MYC	GH08J128227	---	---
+MYC	GH08J128229	---	---
+MYC	GH08J128231	---	---
+MYC	GH08J128235	---	---
+MYC	GH08J128239	---	---
+MYC	GH08J128246	---	---
+MYC	GH08J128250	---	---
+MYC	GH08J128251	---	---
+MYC	GH08J128252	---	---
+MYC	GH08J128257	Ensembl	Astrocytes
+MYC	GH08J128258	---	---
+MYC	GH08J128266	ENCODE	astrocyte
+MYC	GH08J128271	---	---
+MYC	GH08J128272	Ensembl	Cortex neurosphere
+MYC	GH08J128277	---	---
+MYC	GH08J128282	---	---
+MYC	GH08J128296	---	---
+MYC	GH08J128298	---	---
+MYC	GH08J128301	---	---
+MYC	GH08J128304	---	---
+MYC	GH08J128313	ENCODE	astrocyte
+MYC	GH08J128313	ENCODE	neural stem progenitor cell
+MYC	GH08J128313	Ensembl	Astrocytes
+MYC	GH08J128313	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128317	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128317	Ensembl	H1 neural progenitor cells
+MYC	GH08J128317	Ensembl	H9 neural progenitor cells
+MYC	GH08J128318	Ensembl	Cortex neurosphere
+MYC	GH08J128318	Ensembl	H1 neural progenitor cells
+MYC	GH08J128318	Ensembl	H9 neural progenitor cells
+MYC	GH08J128320	ENCODE	astrocyte
+MYC	GH08J128320	ENCODE	neural stem progenitor cell
+MYC	GH08J128320	Ensembl	Astrocytes
+MYC	GH08J128326	ENCODE	neural stem progenitor cell
+MYC	GH08J128326	Ensembl	Cortex neurosphere
+MYC	GH08J128326	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128326	Ensembl	H1 neural progenitor cells
+MYC	GH08J128326	Ensembl	H9 neuron cells
+MYC	GH08J128329	---	---
+MYC	GH08J128331	---	---
+MYC	GH08J128335	---	---
+MYC	GH08J128338	---	---
+MYC	GH08J128342	Ensembl	Cortex neurosphere
+MYC	GH08J128342	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128343	---	---
+MYC	GH08J128353	Ensembl	Cortex neurosphere
+MYC	GH08J128358	---	---
+MYC	GH08J128360	---	---
+MYC	GH08J128361	---	---
+MYC	GH08J128365	---	---
+MYC	GH08J128369	---	---
+MYC	GH08J128371	---	---
+MYC	GH08J128376	---	---
+MYC	GH08J128380	---	---
+MYC	GH08J128385	---	---
+MYC	GH08J128388	---	---
+MYC	GH08J128389	---	---
+MYC	GH08J128393	---	---
+MYC	GH08J128394	Ensembl	H1 neural progenitor cells
+MYC	GH08J128406	---	---
+MYC	GH08J128408	Ensembl	Cortex neurosphere
+MYC	GH08J128413	---	---
+MYC	GH08J128414	---	---
+MYC	GH08J128424	Ensembl	Astrocytes
+MYC	GH08J128426	Ensembl	Cortex neurosphere
+MYC	GH08J128426	Ensembl	H1 neural progenitor cells
+MYC	GH08J128427	---	---
+MYC	GH08J128431	---	---
+MYC	GH08J128436	---	---
+MYC	GH08J128447	---	---
+MYC	GH08J128463	Ensembl	Cortex neurosphere
+MYC	GH08J128463	Ensembl	H1 neural progenitor cells
+MYC	GH08J128475	---	---
+MYC	GH08J128487	---	---
+MYC	GH08J128492	---	---
+MYC	GH08J128493	Ensembl	GM23338 bipolar neurons
+MYC	GH08J128498	Ensembl	Cortex neurosphere
+MYC	GH08J128498	Ensembl	H1 neural progenitor cells
+MYC	GH08J128502	Ensembl	H1 neural progenitor cells
+MYC	GH08J128506	---	---
+MYC	GH08J128509	---	---
+MYC	GH08J128511	---	---
+MYC	GH08J128513	ENCODE	astrocyte
+MYC	GH08J128513	Ensembl	Astrocytes
+MYC	GH08J128514	---	---
+MYC	GH08J128522	Ensembl	Astrocytes
+MYC	GH08J128524	Ensembl	Astrocytes
+MYC	GH08J128524	Ensembl	Cortex neurosphere
+MYC	GH08J128525	Ensembl	Astrocytes
+MYC	GH08J128525	Ensembl	Cortex neurosphere
+MYC	GH08J128526	---	---
+MYC	GH08J128528	---	---
+MYC	GH08J128529	---	---
+MYC	GH08J128532	---	---
+MYC	GH08J128536	ENCODE	astrocyte
+MYC	GH08J128536	Ensembl	Astrocytes
+MYC	GH08J128551	---	---
+MYC	GH08J128563	---	---
+MYC	GH08J128564	---	---
+MYC	GH08J128574	ENCODE	astrocyte
+MYC	GH08J128574	Ensembl	Astrocytes
+MYC	GH08J128581	FANTOM5	neuron
+MYC	GH08J128582	---	---
+MYC	GH08J128585	---	---
+MYC	GH08J128589	---	---
+MYC	GH08J128594	---	---
+MYC	GH08J128597	---	---
+MYC	GH08J128599	---	---
+MYC	GH08J128602	---	---
+MYC	GH08J128605	---	---
+MYC	GH08J128611	---	---
+MYC	GH08J128613	---	---
+MYC	GH08J128619	---	---
+MYC	GH08J128627	---	---
+MYC	GH08J128628	---	---
+MYC	GH08J128629	---	---
+MYC	GH08J128642	---	---
+MYC	GH08J128647	FANTOM5	neuron
+MYC	GH08J128649	---	---
+MYC	GH08J128652	---	---
+MYC	GH08J128654	Ensembl	Astrocytes
+MYC	GH08J128657	ENCODE	astrocyte
+MYC	GH08J128657	Ensembl	Astrocytes
+MYC	GH08J128657	Ensembl	H1 neural progenitor cells
+MYC	GH08J128665	ENCODE	astrocyte
+MYC	GH08J128665	Ensembl	Astrocytes
+MYC	GH08J128682	ENCODE	astrocyte
+MYC	GH08J128682	Ensembl	Astrocytes
+MYC	GH08J128690	---	---
+MYC	GH08J128721	---	---
+MYC	GH08J128734	---	---
+PAX5	GH09J036571	ENCODE	neural stem progenitor cell
+PAX5	GH09J036572	---	---
+PAX5	GH09J036584	ENCODE	astrocyte
+PAX5	GH09J036584	Ensembl	Astrocytes
+PAX5	GH09J036597	---	---
+PAX5	GH09J036602	---	---
+PAX5	GH09J036623	---	---
+PAX5	GH09J036624	ENCODE	astrocyte
+PAX5	GH09J036624	Ensembl	Astrocytes
+PAX5	GH09J036640	---	---
+PAX5	GH09J036665	ENCODE	astrocyte
+PAX5	GH09J036665	Ensembl	Astrocytes
+PAX5	GH09J036690	---	---
+PAX5	GH09J036726	ENCODE	neural stem progenitor cell
+PAX5	GH09J036726	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036726	Ensembl	H9 neural progenitor cells
+PAX5	GH09J036729	Ensembl	Cortex neurosphere
+PAX5	GH09J036731	---	---
+PAX5	GH09J036738	Ensembl	Ganglion eminence neurosphere
+PAX5	GH09J036738	Ensembl	H9 neuron cells
+PAX5	GH09J036748	ENCODE	neural stem progenitor cell
+PAX5	GH09J036764	---	---
+PAX5	GH09J036765	ENCODE	neural stem progenitor cell
+PAX5	GH09J036765	FANTOM5	brain
+PAX5	GH09J036769	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036780	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036781	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036791	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036791	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036802	Ensembl	Astrocytes
+PAX5	GH09J036802	Ensembl	Cortex neurosphere
+PAX5	GH09J036802	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036802	Ensembl	Ganglion eminence neurosphere
+PAX5	GH09J036803	---	---
+PAX5	GH09J036818	---	---
+PAX5	GH09J036819	ENCODE	neural stem progenitor cell
+PAX5	GH09J036820	---	---
+PAX5	GH09J036827	Ensembl	Cortex neurosphere
+PAX5	GH09J036827	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036827	Ensembl	H9 neuron cells
+PAX5	GH09J036831	---	---
+PAX5	GH09J036832	---	---
+PAX5	GH09J036833	Ensembl	Cortex neurosphere
+PAX5	GH09J036833	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036841	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036841	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036841	Ensembl	H9 neuron cells
+PAX5	GH09J036848	---	---
+PAX5	GH09J036853	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036855	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036859	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036864	---	---
+PAX5	GH09J036865	Ensembl	Brain (fetal)
+PAX5	GH09J036865	Ensembl	Cortex neurosphere
+PAX5	GH09J036865	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036865	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036865	Ensembl	H9 neuron cells
+PAX5	GH09J036868	ENCODE	neural stem progenitor cell
+PAX5	GH09J036868	Ensembl	Cortex neurosphere
+PAX5	GH09J036868	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036868	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036868	Ensembl	H9 neural progenitor cells
+PAX5	GH09J036868	Ensembl	H9 neuron cells
+PAX5	GH09J036869	---	---
+PAX5	GH09J036871	---	---
+PAX5	GH09J036873	ENCODE	neural stem progenitor cell
+PAX5	GH09J036877	---	---
+PAX5	GH09J036878	---	---
+PAX5	GH09J036891	---	---
+PAX5	GH09J036903	Ensembl	Astrocytes
+PAX5	GH09J036906	---	---
+PAX5	GH09J036909	---	---
+PAX5	GH09J036911	---	---
+PAX5	GH09J036914	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036916	---	---
+PAX5	GH09J036920	---	---
+PAX5	GH09J036922	---	---
+PAX5	GH09J036928	Ensembl	Astrocytes
+PAX5	GH09J036935	Ensembl	H1 neural progenitor cells
+PAX5	GH09J036946	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036947	---	---
+PAX5	GH09J036949	---	---
+PAX5	GH09J036951	---	---
+PAX5	GH09J036955	---	---
+PAX5	GH09J036970	---	---
+PAX5	GH09J036976	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036978	---	---
+PAX5	GH09J036980	ENCODE	neural stem progenitor cell
+PAX5	GH09J036980	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J036984	---	---
+PAX5	GH09J036987	Ensembl	Astrocytes
+PAX5	GH09J036988	---	---
+PAX5	GH09J036991	ENCODE	neural stem progenitor cell
+PAX5	GH09J036998	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037008	---	---
+PAX5	GH09J037009	---	---
+PAX5	GH09J037025	ENCODE	neural stem progenitor cell
+PAX5	GH09J037025	Ensembl	Astrocytes
+PAX5	GH09J037025	Ensembl	Cortex neurosphere
+PAX5	GH09J037025	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037025	Ensembl	Ganglion eminence neurosphere
+PAX5	GH09J037025	Ensembl	H1 neural progenitor cells
+PAX5	GH09J037025	Ensembl	H9 neural progenitor cells
+PAX5	GH09J037025	Ensembl	H9 neuron cells
+PAX5	GH09J037040	Ensembl	H9 neural progenitor cells
+PAX5	GH09J037046	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037054	---	---
+PAX5	GH09J037061	---	---
+PAX5	GH09J037065	---	---
+PAX5	GH09J037066	---	---
+PAX5	GH09J037074	---	---
+PAX5	GH09J037079	ENCODE	astrocyte
+PAX5	GH09J037079	ENCODE	neural stem progenitor cell
+PAX5	GH09J037079	Ensembl	Astrocytes
+PAX5	GH09J037079	Ensembl	Cortex neurosphere
+PAX5	GH09J037079	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037079	Ensembl	Ganglion eminence neurosphere
+PAX5	GH09J037079	Ensembl	H1 neural progenitor cells
+PAX5	GH09J037079	Ensembl	H9 neuron cells
+PAX5	GH09J037083	---	---
+PAX5	GH09J037085	---	---
+PAX5	GH09J037099	Ensembl	H9 neural progenitor cells
+PAX5	GH09J037101	---	---
+PAX5	GH09J037104	---	---
+PAX5	GH09J037106	---	---
+PAX5	GH09J037114	---	---
+PAX5	GH09J037128	---	---
+PAX5	GH09J037131	---	---
+PAX5	GH09J037135	---	---
+PAX5	GH09J037136	Ensembl	Brain (fetal)
+PAX5	GH09J037137	---	---
+PAX5	GH09J037144	---	---
+PAX5	GH09J037151	Ensembl	H1 neural progenitor cells
+PAX5	GH09J037186	Ensembl	Astrocytes
+PAX5	GH09J037186	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037207	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037232	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037248	---	---
+PAX5	GH09J037251	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037251	VISTA	hindbrain (rhombencephalon)
+PAX5	GH09J037251	VISTA	midbrain (mesencephalon)
+PAX5	GH09J037255	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037257	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037259	---	---
+PAX5	GH09J037264	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037266	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037270	---	---
+PAX5	GH09J037278	---	---
+PAX5	GH09J037281	ENCODE	astrocyte
+PAX5	GH09J037281	Ensembl	Astrocytes
+PAX5	GH09J037281	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037281	Ensembl	H1 neural progenitor cells
+PAX5	GH09J037281	Ensembl	H9 neural progenitor cells
+PAX5	GH09J037281	Ensembl	H9 neuron cells
+PAX5	GH09J037287	ENCODE	astrocyte
+PAX5	GH09J037287	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037299	---	---
+PAX5	GH09J037312	---	---
+PAX5	GH09J037323	ENCODE	neural stem progenitor cell
+PAX5	GH09J037323	Ensembl	Astrocytes
+PAX5	GH09J037323	Ensembl	Brain germinal matrix
+PAX5	GH09J037323	Ensembl	Cortex neurosphere
+PAX5	GH09J037323	Ensembl	GM23338 bipolar neurons
+PAX5	GH09J037323	Ensembl	Ganglion eminence neurosphere
+PAX5	GH09J037323	Ensembl	H9 neuron cells
+PAX5	GH09J037336	Ensembl	Brain germinal matrix
+PAX5	GH09J037336	Ensembl	Ganglion eminence neurosphere
+PAX5	GH09J037350	---	---
+PAX5	GH09J037369	---	---
+PAX5	GH09J037374	---	---
+PAX5	GH09J037395	---	---
+PAX5	GH09J037398	---	---
+PAX5	GH09J037402	---	---
+PAX5	GH09J037408	---	---
+PAX5	GH09J037413	ENCODE	neural stem progenitor cell
+PAX5	GH09J037413	dbSUPER	Brain - Angular gyrus
+PAX5	GH09J037413	dbSUPER	Brain - Anterior caudate
+PAX5	GH09J037413	dbSUPER	Brain - Cingulate gyrus
+PAX5	GH09J037413	dbSUPER	Brain - Hippocampus middle
+PAX5	GH09J037413	dbSUPER	Brain - Inferior temporal lobe
+PAX5	GH09J037439	dbSUPER	Brain - Cingulate gyrus
+PAX5	GH09J037439	dbSUPER	Brain - Hippocampus middle
+PAX5	GH09J037439	dbSUPER	Brain - Inferior temporal lobe
+PAX5	GH09J037446	dbSUPER	Brain - Cingulate gyrus
+PAX5	GH09J037446	dbSUPER	Brain - Inferior temporal lobe
+KLF8	GH0XJ055450	ENCODE	neural stem progenitor cell
+KLF8	GH0XJ055488	ENCODE	neural stem progenitor cell
+KLF8	GH0XJ055716	ENCODE	astrocyte
+KLF8	GH0XJ055716	ENCODE	neural stem progenitor cell
+KLF8	GH0XJ055719	---	---
+KLF8	GH0XJ055742	---	---
+KLF8	GH0XJ055757	---	---
+KLF8	GH0XJ055758	---	---
+KLF8	GH0XJ055766	Ensembl	Astrocytes
+KLF8	GH0XJ055777	---	---
+KLF8	GH0XJ055778	---	---
+KLF8	GH0XJ055817	---	---
+KLF8	GH0XJ055818	Ensembl	GM23338 bipolar neurons
+KLF8	GH0XJ055818	Ensembl	H1 neural progenitor cells
+KLF8	GH0XJ055839	Ensembl	GM23338 bipolar neurons
+KLF8	GH0XJ055866	---	---
+KLF8	GH0XJ055907	ENCODE	neural stem progenitor cell
+KLF8	GH0XJ055907	Ensembl	Astrocytes
+KLF8	GH0XJ055907	Ensembl	Brain germinal matrix
+KLF8	GH0XJ055907	Ensembl	Cortex neurosphere
+KLF8	GH0XJ055907	Ensembl	GM23338 bipolar neurons
+KLF8	GH0XJ055907	Ensembl	H1 neural progenitor cells
+KLF8	GH0XJ055907	Ensembl	H9 neural progenitor cells
+KLF8	GH0XJ055907	Ensembl	H9 neuron cells
+KLF8	GH0XJ055919	---	---
+KLF8	GH0XJ055981	---	---
+KLF8	GH0XJ055997	---	---
+KLF8	GH0XJ056000	---	---
+KLF8	GH0XJ056059	---	---
+KLF8	GH0XJ056063	---	---
+KLF8	GH0XJ056067	---	---
+KLF8	GH0XJ056089	---	---
+KLF8	GH0XJ056107	---	---
+KLF8	GH0XJ056113	---	---
+KLF8	GH0XJ056164	---	---
+KLF8	GH0XJ056228	Ensembl	GM23338 bipolar neurons
+KLF8	GH0XJ056231	Ensembl	Astrocytes
+KLF8	GH0XJ056231	Ensembl	Brain germinal matrix
+KLF8	GH0XJ056231	Ensembl	Cortex neurosphere
+KLF8	GH0XJ056231	Ensembl	GM23338 bipolar neurons
+KLF8	GH0XJ056231	Ensembl	H1 neural progenitor cells
+KLF8	GH0XJ056231	Ensembl	H9 neural progenitor cells
+KLF8	GH0XJ056231	Ensembl	H9 neuron cells
+KLF8	GH0XJ056246	---	---
+KLF8	GH0XJ056248	---	---
+KLF8	GH0XJ056342	Ensembl	H1 neural progenitor cells
+KLF8	GH0XJ056365	---	---
+KLF8	GH0XJ056366	---	---
+KLF8	GH0XJ056394	---	---
+KLF8	GH0XJ056396	---	---
+KLF8	GH0XJ056498	---	---
+KLF8	GH0XJ056503	---	---
+KLF8	GH0XJ056505	---	---
+KLF8	GH0XJ056506	---	---
+NONO	GH0XJ070433	ENCODE	neural stem progenitor cell
+NONO	GH0XJ070433	Ensembl	H1 neural progenitor cells
+NONO	GH0XJ070433	FANTOM5	brain
+NONO	GH0XJ070451	ENCODE	neural stem progenitor cell
+NONO	GH0XJ071073	---	---
+NONO	GH0XJ071074	Ensembl	Ganglion eminence neurosphere
+NONO	GH0XJ071074	Ensembl	H1 neural progenitor cells
+NONO	GH0XJ071074	Ensembl	H9 neural progenitor cells
+NONO	GH0XJ071074	Ensembl	H9 neuron cells
+NONO	GH0XJ071144	ENCODE	neural stem progenitor cell
+NONO	GH0XJ071144	Ensembl	GM23338 bipolar neurons
+NONO	GH0XJ071144	Ensembl	Ganglion eminence neurosphere
+NONO	GH0XJ071144	Ensembl	H1 neural progenitor cells
+NONO	GH0XJ071144	dbSUPER	Brain - Hippocampus middle
+NONO	GH0XJ071181	ENCODE	astrocyte
+NONO	GH0XJ071181	ENCODE	neural stem progenitor cell
+NONO	GH0XJ071181	FANTOM5	astrocyte
+NONO	GH0XJ071181	dbSUPER	Brain - Hippocampus middle
+NONO	GH0XJ071213	---	---
+NONO	GH0XJ071223	---	---
+NONO	GH0XJ071224	---	---
+NONO	GH0XJ071225	Ensembl	H1 neural progenitor cells
+NONO	GH0XJ071227	---	---
+NONO	GH0XJ071230	---	---
+NONO	GH0XJ071231	---	---
+NONO	GH0XJ071232	---	---
+NONO	GH0XJ071236	---	---
+NONO	GH0XJ071238	---	---
+NONO	GH0XJ071239	---	---
+NONO	GH0XJ071241	---	---
+NONO	GH0XJ071250	ENCODE	neural stem progenitor cell
+NONO	GH0XJ071282	ENCODE	astrocyte
+NONO	GH0XJ071282	ENCODE	neural stem progenitor cell
+NONO	GH0XJ071282	Ensembl	Astrocytes
+NONO	GH0XJ071282	Ensembl	Cortex neurosphere
+NONO	GH0XJ071282	Ensembl	GM23338 bipolar neurons
+NONO	GH0XJ071282	Ensembl	Ganglion eminence neurosphere
+NONO	GH0XJ071282	Ensembl	H1 neural progenitor cells
+NONO	GH0XJ071282	Ensembl	H9 neural progenitor cells
+NONO	GH0XJ071282	Ensembl	H9 neuron cells
+NONO	GH0XJ071291	---	---
+NONO	GH0XJ071297	---	---
+NONO	GH0XJ071300	---	---
+NONO	GH0XJ071450	---	---
+NONO	GH0XJ071549	---	---
+NONO	GH0XJ071579	---	---
+NONO	GH0XJ071632	---	---
+NONO	GH0XJ071641	---	---
+NONO	GH0XJ072180	ENCODE	astrocyte
+NONO	GH0XJ072180	ENCODE	neural stem progenitor cell
+NONO	GH0XJ072180	Ensembl	Brain germinal matrix
+NONO	GH0XJ072180	Ensembl	H9 neural progenitor cells
+NONO	GH0XJ072238	ENCODE	neural stem progenitor cell
+NONO	GH0XJ072238	Ensembl	Astrocytes
+NONO	GH0XJ072238	Ensembl	Brain germinal matrix
+NONO	GH0XJ072238	Ensembl	Cortex neurosphere
+NONO	GH0XJ072238	Ensembl	GM23338 bipolar neurons
+NONO	GH0XJ072238	Ensembl	Ganglion eminence neurosphere
+NONO	GH0XJ072238	Ensembl	H1 neural progenitor cells
+NONO	GH0XJ072238	Ensembl	H9 neural progenitor cells
+NONO	GH0XJ072238	Ensembl	H9 neuron cells
+KLF6	GH10J003174	---	---
+KLF6	GH10J003177	---	---
+KLF6	GH10J003178	---	---
+KLF6	GH10J003180	---	---
+KLF6	GH10J003181	---	---
+KLF6	GH10J003185	---	---
+KLF6	GH10J003186	---	---
+KLF6	GH10J003190	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003190	Ensembl	H9 neuron cells
+KLF6	GH10J003192	---	---
+KLF6	GH10J003196	ENCODE	astrocyte
+KLF6	GH10J003196	ENCODE	neural stem progenitor cell
+KLF6	GH10J003201	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003201	Ensembl	H9 neuron cells
+KLF6	GH10J003209	---	---
+KLF6	GH10J003213	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003216	Ensembl	H9 neuron cells
+KLF6	GH10J003217	---	---
+KLF6	GH10J003221	---	---
+KLF6	GH10J003222	---	---
+KLF6	GH10J003225	ENCODE	astrocyte
+KLF6	GH10J003225	Ensembl	Astrocytes
+KLF6	GH10J003225	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003230	---	---
+KLF6	GH10J003237	Ensembl	Cortex neurosphere
+KLF6	GH10J003237	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003237	Ensembl	Ganglion eminence neurosphere
+KLF6	GH10J003237	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003237	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003237	Ensembl	H9 neuron cells
+KLF6	GH10J003238	ENCODE	neural stem progenitor cell
+KLF6	GH10J003238	Ensembl	Astrocytes
+KLF6	GH10J003238	Ensembl	Brain germinal matrix
+KLF6	GH10J003238	Ensembl	Ganglion eminence neurosphere
+KLF6	GH10J003238	FANTOM5	neuron
+KLF6	GH10J003239	Ensembl	H9 neuron cells
+KLF6	GH10J003242	---	---
+KLF6	GH10J003247	ENCODE	astrocyte
+KLF6	GH10J003263	Ensembl	Astrocytes
+KLF6	GH10J003267	---	---
+KLF6	GH10J003268	---	---
+KLF6	GH10J003269	Ensembl	Astrocytes
+KLF6	GH10J003269	Ensembl	Brain germinal matrix
+KLF6	GH10J003269	Ensembl	Cortex neurosphere
+KLF6	GH10J003269	Ensembl	Ganglion eminence neurosphere
+KLF6	GH10J003269	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003273	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003273	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003278	---	---
+KLF6	GH10J003283	---	---
+KLF6	GH10J003292	Ensembl	Astrocytes
+KLF6	GH10J003292	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003292	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003312	Ensembl	Astrocytes
+KLF6	GH10J003312	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003323	Ensembl	Astrocytes
+KLF6	GH10J003323	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003326	---	---
+KLF6	GH10J003329	Ensembl	Astrocytes
+KLF6	GH10J003329	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003332	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003336	---	---
+KLF6	GH10J003339	---	---
+KLF6	GH10J003347	Ensembl	Cortex neurosphere
+KLF6	GH10J003347	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003347	Ensembl	H9 neuron cells
+KLF6	GH10J003350	---	---
+KLF6	GH10J003353	---	---
+KLF6	GH10J003357	---	---
+KLF6	GH10J003363	---	---
+KLF6	GH10J003365	---	---
+KLF6	GH10J003372	---	---
+KLF6	GH10J003395	Ensembl	Cortex neurosphere
+KLF6	GH10J003397	Ensembl	Astrocytes
+KLF6	GH10J003397	Ensembl	Cortex neurosphere
+KLF6	GH10J003398	ENCODE	astrocyte
+KLF6	GH10J003398	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003398	Ensembl	H9 neuron cells
+KLF6	GH10J003406	---	---
+KLF6	GH10J003407	---	---
+KLF6	GH10J003414	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003414	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003414	Ensembl	H9 neuron cells
+KLF6	GH10J003418	---	---
+KLF6	GH10J003419	---	---
+KLF6	GH10J003421	---	---
+KLF6	GH10J003423	---	---
+KLF6	GH10J003429	---	---
+KLF6	GH10J003430	---	---
+KLF6	GH10J003435	---	---
+KLF6	GH10J003436	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003438	---	---
+KLF6	GH10J003446	Ensembl	H9 neuron cells
+KLF6	GH10J003451	ENCODE	astrocyte
+KLF6	GH10J003451	dbSUPER	Astrocytes
+KLF6	GH10J003464	---	---
+KLF6	GH10J003466	ENCODE	astrocyte
+KLF6	GH10J003466	FANTOM5	astrocyte
+KLF6	GH10J003466	FANTOM5	brain
+KLF6	GH10J003466	dbSUPER	Astrocytes
+KLF6	GH10J003471	ENCODE	astrocyte
+KLF6	GH10J003471	ENCODE	neural stem progenitor cell
+KLF6	GH10J003472	---	---
+KLF6	GH10J003475	---	---
+KLF6	GH10J003476	---	---
+KLF6	GH10J003477	---	---
+KLF6	GH10J003480	---	---
+KLF6	GH10J003481	ENCODE	astrocyte
+KLF6	GH10J003481	ENCODE	neural stem progenitor cell
+KLF6	GH10J003483	ENCODE	neural stem progenitor cell
+KLF6	GH10J003494	---	---
+KLF6	GH10J003499	ENCODE	astrocyte
+KLF6	GH10J003499	ENCODE	neural stem progenitor cell
+KLF6	GH10J003499	Ensembl	Cortex neurosphere
+KLF6	GH10J003499	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003499	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003499	Ensembl	H9 neuron cells
+KLF6	GH10J003502	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003502	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003502	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003502	Ensembl	H9 neuron cells
+KLF6	GH10J003515	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003516	ENCODE	neural stem progenitor cell
+KLF6	GH10J003516	Ensembl	Astrocytes
+KLF6	GH10J003516	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003516	Ensembl	H9 neuron cells
+KLF6	GH10J003524	---	---
+KLF6	GH10J003525	ENCODE	astrocyte
+KLF6	GH10J003525	Ensembl	Astrocytes
+KLF6	GH10J003525	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003531	Ensembl	Brain (fetal)
+KLF6	GH10J003532	---	---
+KLF6	GH10J003537	ENCODE	astrocyte
+KLF6	GH10J003537	ENCODE	neural stem progenitor cell
+KLF6	GH10J003537	Ensembl	Astrocytes
+KLF6	GH10J003537	Ensembl	H9 neuron cells
+KLF6	GH10J003541	ENCODE	astrocyte
+KLF6	GH10J003547	---	---
+KLF6	GH10J003556	---	---
+KLF6	GH10J003570	Ensembl	H9 neuron cells
+KLF6	GH10J003573	---	---
+KLF6	GH10J003574	---	---
+KLF6	GH10J003575	---	---
+KLF6	GH10J003578	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003579	---	---
+KLF6	GH10J003582	---	---
+KLF6	GH10J003592	---	---
+KLF6	GH10J003595	---	---
+KLF6	GH10J003613	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003613	Ensembl	H9 neuron cells
+KLF6	GH10J003622	ENCODE	astrocyte
+KLF6	GH10J003622	Ensembl	Astrocytes
+KLF6	GH10J003622	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003632	---	---
+KLF6	GH10J003635	Ensembl	Brain (fetal)
+KLF6	GH10J003641	---	---
+KLF6	GH10J003647	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003647	Ensembl	H9 neuron cells
+KLF6	GH10J003648	Ensembl	Cortex neurosphere
+KLF6	GH10J003655	---	---
+KLF6	GH10J003658	Ensembl	Cortex neurosphere
+KLF6	GH10J003658	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003658	Ensembl	H9 neuron cells
+KLF6	GH10J003666	---	---
+KLF6	GH10J003667	---	---
+KLF6	GH10J003668	---	---
+KLF6	GH10J003669	---	---
+KLF6	GH10J003676	---	---
+KLF6	GH10J003681	Ensembl	Cortex neurosphere
+KLF6	GH10J003681	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003681	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003681	Ensembl	H9 neuron cells
+KLF6	GH10J003689	Ensembl	Astrocytes
+KLF6	GH10J003689	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003689	Ensembl	H9 neuron cells
+KLF6	GH10J003691	Ensembl	Astrocytes
+KLF6	GH10J003691	Ensembl	Cortex neurosphere
+KLF6	GH10J003691	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003691	Ensembl	H9 neuron cells
+KLF6	GH10J003694	Ensembl	Cortex neurosphere
+KLF6	GH10J003698	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003704	---	---
+KLF6	GH10J003708	Ensembl	H9 neuron cells
+KLF6	GH10J003714	---	---
+KLF6	GH10J003719	---	---
+KLF6	GH10J003720	---	---
+KLF6	GH10J003728	Ensembl	Astrocytes
+KLF6	GH10J003728	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003737	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003739	---	---
+KLF6	GH10J003740	---	---
+KLF6	GH10J003744	---	---
+KLF6	GH10J003745	Ensembl	Cortex neurosphere
+KLF6	GH10J003745	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003745	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003745	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003745	Ensembl	H9 neuron cells
+KLF6	GH10J003748	---	---
+KLF6	GH10J003749	---	---
+KLF6	GH10J003752	---	---
+KLF6	GH10J003754	ENCODE	astrocyte
+KLF6	GH10J003756	---	---
+KLF6	GH10J003757	---	---
+KLF6	GH10J003760	ENCODE	astrocyte
+KLF6	GH10J003760	ENCODE	neural stem progenitor cell
+KLF6	GH10J003769	---	---
+KLF6	GH10J003770	---	---
+KLF6	GH10J003772	---	---
+KLF6	GH10J003773	ENCODE	astrocyte
+KLF6	GH10J003773	ENCODE	neural stem progenitor cell
+KLF6	GH10J003773	dbSUPER	Astrocytes
+KLF6	GH10J003773	dbSUPER	Brain - Hippocampus middle
+KLF6	GH10J003773	dbSUPER	Brain - Mid frontal lobe
+KLF6	GH10J003789	---	---
+KLF6	GH10J003792	---	---
+KLF6	GH10J003797	---	---
+KLF6	GH10J003799	---	---
+KLF6	GH10J003802	ENCODE	astrocyte
+KLF6	GH10J003813	---	---
+KLF6	GH10J003814	---	---
+KLF6	GH10J003820	---	---
+KLF6	GH10J003822	---	---
+KLF6	GH10J003824	ENCODE	astrocyte
+KLF6	GH10J003834	---	---
+KLF6	GH10J003835	---	---
+KLF6	GH10J003836	---	---
+KLF6	GH10J003838	---	---
+KLF6	GH10J003839	Ensembl	Astrocytes
+KLF6	GH10J003841	Ensembl	Astrocytes
+KLF6	GH10J003847	ENCODE	astrocyte
+KLF6	GH10J003857	Ensembl	Cortex neurosphere
+KLF6	GH10J003858	---	---
+KLF6	GH10J003860	Ensembl	Astrocytes
+KLF6	GH10J003865	---	---
+KLF6	GH10J003866	---	---
+KLF6	GH10J003867	---	---
+KLF6	GH10J003871	---	---
+KLF6	GH10J003879	---	---
+KLF6	GH10J003881	---	---
+KLF6	GH10J003882	---	---
+KLF6	GH10J003885	ENCODE	astrocyte
+KLF6	GH10J003885	ENCODE	neural stem progenitor cell
+KLF6	GH10J003885	FANTOM5	astrocyte
+KLF6	GH10J003885	dbSUPER	Astrocytes
+KLF6	GH10J003901	ENCODE	astrocyte
+KLF6	GH10J003901	Ensembl	Astrocytes
+KLF6	GH10J003901	dbSUPER	Astrocytes
+KLF6	GH10J003909	---	---
+KLF6	GH10J003910	---	---
+KLF6	GH10J003915	---	---
+KLF6	GH10J003920	---	---
+KLF6	GH10J003923	ENCODE	astrocyte
+KLF6	GH10J003923	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003929	---	---
+KLF6	GH10J003932	---	---
+KLF6	GH10J003934	ENCODE	astrocyte
+KLF6	GH10J003942	ENCODE	astrocyte
+KLF6	GH10J003944	---	---
+KLF6	GH10J003951	---	---
+KLF6	GH10J003952	---	---
+KLF6	GH10J003954	ENCODE	neural stem progenitor cell
+KLF6	GH10J003954	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003954	Ensembl	H9 neuron cells
+KLF6	GH10J003957	---	---
+KLF6	GH10J003960	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J003960	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003962	---	---
+KLF6	GH10J003969	---	---
+KLF6	GH10J003974	---	---
+KLF6	GH10J003976	---	---
+KLF6	GH10J003977	---	---
+KLF6	GH10J003978	---	---
+KLF6	GH10J003979	---	---
+KLF6	GH10J003980	---	---
+KLF6	GH10J003981	ENCODE	neural stem progenitor cell
+KLF6	GH10J003986	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003989	---	---
+KLF6	GH10J003991	Ensembl	H1 neural progenitor cells
+KLF6	GH10J003991	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003991	Ensembl	H9 neuron cells
+KLF6	GH10J003992	ENCODE	neural stem progenitor cell
+KLF6	GH10J003992	Ensembl	H9 neural progenitor cells
+KLF6	GH10J003992	Ensembl	H9 neuron cells
+KLF6	GH10J003994	ENCODE	astrocyte
+KLF6	GH10J003995	---	---
+KLF6	GH10J004001	---	---
+KLF6	GH10J004002	---	---
+KLF6	GH10J004004	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004004	Ensembl	H9 neuron cells
+KLF6	GH10J004006	---	---
+KLF6	GH10J004011	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004011	Ensembl	H9 neuron cells
+KLF6	GH10J004013	---	---
+KLF6	GH10J004015	---	---
+KLF6	GH10J004018	---	---
+KLF6	GH10J004024	Ensembl	Astrocytes
+KLF6	GH10J004024	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004024	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004024	Ensembl	H9 neuron cells
+KLF6	GH10J004028	---	---
+KLF6	GH10J004034	---	---
+KLF6	GH10J004044	---	---
+KLF6	GH10J004048	---	---
+KLF6	GH10J004050	---	---
+KLF6	GH10J004053	---	---
+KLF6	GH10J004057	---	---
+KLF6	GH10J004058	---	---
+KLF6	GH10J004065	---	---
+KLF6	GH10J004066	---	---
+KLF6	GH10J004070	---	---
+KLF6	GH10J004073	ENCODE	astrocyte
+KLF6	GH10J004077	---	---
+KLF6	GH10J004078	---	---
+KLF6	GH10J004079	---	---
+KLF6	GH10J004080	---	---
+KLF6	GH10J004086	---	---
+KLF6	GH10J004093	Ensembl	H9 neuron cells
+KLF6	GH10J004094	---	---
+KLF6	GH10J004102	---	---
+KLF6	GH10J004107	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004110	---	---
+KLF6	GH10J004118	---	---
+KLF6	GH10J004120	---	---
+KLF6	GH10J004121	---	---
+KLF6	GH10J004127	---	---
+KLF6	GH10J004129	ENCODE	astrocyte
+KLF6	GH10J004135	---	---
+KLF6	GH10J004144	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004149	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004150	---	---
+KLF6	GH10J004151	---	---
+KLF6	GH10J004154	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004160	---	---
+KLF6	GH10J004162	---	---
+KLF6	GH10J004170	---	---
+KLF6	GH10J004176	---	---
+KLF6	GH10J004177	---	---
+KLF6	GH10J004179	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004179	Ensembl	H9 neuron cells
+KLF6	GH10J004180	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004181	---	---
+KLF6	GH10J004183	---	---
+KLF6	GH10J004186	Ensembl	Cortex neurosphere
+KLF6	GH10J004186	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004186	Ensembl	H9 neuron cells
+KLF6	GH10J004187	---	---
+KLF6	GH10J004188	---	---
+KLF6	GH10J004191	---	---
+KLF6	GH10J004194	Ensembl	Astrocytes
+KLF6	GH10J004196	---	---
+KLF6	GH10J004198	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004198	Ensembl	H9 neuron cells
+KLF6	GH10J004201	---	---
+KLF6	GH10J004205	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004206	---	---
+KLF6	GH10J004207	---	---
+KLF6	GH10J004212	---	---
+KLF6	GH10J004215	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004220	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004220	Ensembl	H9 neuron cells
+KLF6	GH10J004234	---	---
+KLF6	GH10J004239	ENCODE	astrocyte
+KLF6	GH10J004239	ENCODE	neural stem progenitor cell
+KLF6	GH10J004239	dbSUPER	Astrocytes
+KLF6	GH10J004245	ENCODE	astrocyte
+KLF6	GH10J004245	dbSUPER	Astrocytes
+KLF6	GH10J004249	---	---
+KLF6	GH10J004253	ENCODE	astrocyte
+KLF6	GH10J004253	Ensembl	Astrocytes
+KLF6	GH10J004253	dbSUPER	Astrocytes
+KLF6	GH10J004255	---	---
+KLF6	GH10J004259	---	---
+KLF6	GH10J004260	---	---
+KLF6	GH10J004261	---	---
+KLF6	GH10J004263	---	---
+KLF6	GH10J004269	---	---
+KLF6	GH10J004278	Ensembl	Astrocytes
+KLF6	GH10J004278	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004292	---	---
+KLF6	GH10J004296	Ensembl	Cortex neurosphere
+KLF6	GH10J004296	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004296	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004296	Ensembl	H9 neuron cells
+KLF6	GH10J004298	---	---
+KLF6	GH10J004300	---	---
+KLF6	GH10J004303	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004303	Ensembl	H9 neuron cells
+KLF6	GH10J004304	---	---
+KLF6	GH10J004307	---	---
+KLF6	GH10J004314	ENCODE	astrocyte
+KLF6	GH10J004329	---	---
+KLF6	GH10J004330	---	---
+KLF6	GH10J004331	---	---
+KLF6	GH10J004332	---	---
+KLF6	GH10J004337	---	---
+KLF6	GH10J004343	ENCODE	astrocyte
+KLF6	GH10J004348	---	---
+KLF6	GH10J004351	ENCODE	astrocyte
+KLF6	GH10J004358	Ensembl	Cortex neurosphere
+KLF6	GH10J004358	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004371	ENCODE	astrocyte
+KLF6	GH10J004383	Ensembl	Cortex neurosphere
+KLF6	GH10J004383	Ensembl	Ganglion eminence neurosphere
+KLF6	GH10J004383	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004383	Ensembl	H9 neuron cells
+KLF6	GH10J004399	---	---
+KLF6	GH10J004406	---	---
+KLF6	GH10J004407	---	---
+KLF6	GH10J004427	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004427	Ensembl	H9 neuron cells
+KLF6	GH10J004429	Ensembl	Cortex neurosphere
+KLF6	GH10J004429	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004429	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004429	Ensembl	H9 neuron cells
+KLF6	GH10J004431	ENCODE	astrocyte
+KLF6	GH10J004431	Ensembl	Astrocytes
+KLF6	GH10J004437	---	---
+KLF6	GH10J004438	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004438	Ensembl	H9 neuron cells
+KLF6	GH10J004447	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004447	Ensembl	H9 neuron cells
+KLF6	GH10J004450	Ensembl	Astrocytes
+KLF6	GH10J004453	---	---
+KLF6	GH10J004459	---	---
+KLF6	GH10J004469	ENCODE	astrocyte
+KLF6	GH10J004471	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004471	Ensembl	H9 neuron cells
+KLF6	GH10J004473	Ensembl	Astrocytes
+KLF6	GH10J004473	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004477	---	---
+KLF6	GH10J004482	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004488	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004497	ENCODE	astrocyte
+KLF6	GH10J004497	Ensembl	Astrocytes
+KLF6	GH10J004502	---	---
+KLF6	GH10J004509	---	---
+KLF6	GH10J004510	---	---
+KLF6	GH10J004517	---	---
+KLF6	GH10J004526	Ensembl	Astrocytes
+KLF6	GH10J004526	Ensembl	H9 neuron cells
+KLF6	GH10J004531	---	---
+KLF6	GH10J004537	---	---
+KLF6	GH10J004540	ENCODE	astrocyte
+KLF6	GH10J004540	Ensembl	Astrocytes
+KLF6	GH10J004543	ENCODE	astrocyte
+KLF6	GH10J004543	Ensembl	Astrocytes
+KLF6	GH10J004556	---	---
+KLF6	GH10J004568	---	---
+KLF6	GH10J004586	Ensembl	H9 neuron cells
+KLF6	GH10J004597	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004597	Ensembl	H9 neuron cells
+KLF6	GH10J004602	Ensembl	Cortex neurosphere
+KLF6	GH10J004602	Ensembl	H9 neuron cells
+KLF6	GH10J004633	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004633	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004633	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004633	Ensembl	H9 neuron cells
+KLF6	GH10J004637	---	---
+KLF6	GH10J004639	---	---
+KLF6	GH10J004643	FANTOM5	neuron
+KLF6	GH10J004646	---	---
+KLF6	GH10J004648	---	---
+KLF6	GH10J004651	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004651	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004654	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004654	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004654	Ensembl	H9 neuron cells
+KLF6	GH10J004655	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004655	Ensembl	H1 neural progenitor cells
+KLF6	GH10J004655	Ensembl	H9 neuron cells
+KLF6	GH10J004656	Ensembl	Astrocytes
+KLF6	GH10J004660	ENCODE	astrocyte
+KLF6	GH10J004660	Ensembl	Astrocytes
+KLF6	GH10J004660	Ensembl	GM23338 bipolar neurons
+KLF6	GH10J004660	FANTOM5	astrocyte
+KLF6	GH10J004660	FANTOM5	pericyte cell
+KLF6	GH10J004660	dbSUPER	Astrocytes
+KLF6	GH10J004669	ENCODE	astrocyte
+KLF6	GH10J004669	dbSUPER	Astrocytes
+KLF6	GH10J004680	---	---
+KLF6	GH10J004683	ENCODE	astrocyte
+KLF6	GH10J004683	Ensembl	Astrocytes
+KLF6	GH10J004683	dbSUPER	Astrocytes
+KLF6	GH10J004690	Ensembl	Astrocytes
+KLF6	GH10J004690	dbSUPER	Astrocytes
+KLF6	GH10J004698	---	---
+KLF6	GH10J004700	ENCODE	astrocyte
+KLF6	GH10J004700	Ensembl	Astrocytes
+KLF6	GH10J004700	dbSUPER	Astrocytes
+KLF6	GH10J004708	---	---
+KLF6	GH10J004709	---	---
+KLF6	GH10J004718	---	---
+KLF6	GH10J004721	---	---
+KLF6	GH10J004724	ENCODE	astrocyte
+KLF6	GH10J004724	Ensembl	Astrocytes
+KLF6	GH10J004725	---	---
+KLF6	GH10J004731	---	---
+KLF6	GH10J004736	Ensembl	Cortex neurosphere
+KLF6	GH10J004736	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004740	---	---
+KLF6	GH10J004749	Ensembl	Astrocytes
+KLF6	GH10J004749	Ensembl	H9 neural progenitor cells
+KLF6	GH10J004749	Ensembl	H9 neuron cells
+KLF6	GH10J004762	ENCODE	astrocyte
+KLF6	GH10J004762	dbSUPER	Astrocytes
+KLF6	GH10J004775	---	---
+KLF6	GH10J004778	---	---
+KLF6	GH10J004779	---	---
+KLF6	GH10J004780	---	---
+NANOG	GH12J007439	ENCODE	neural stem progenitor cell
+NANOG	GH12J007439	Ensembl	Astrocytes
+NANOG	GH12J007439	Ensembl	Cortex neurosphere
+NANOG	GH12J007439	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J007439	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J007439	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007439	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007439	Ensembl	H9 neuron cells
+NANOG	GH12J007637	ENCODE	neural stem progenitor cell
+NANOG	GH12J007712	---	---
+NANOG	GH12J007770	---	---
+NANOG	GH12J007773	---	---
+NANOG	GH12J007784	---	---
+NANOG	GH12J007786	---	---
+NANOG	GH12J007796	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007802	---	---
+NANOG	GH12J007805	Ensembl	Astrocytes
+NANOG	GH12J007806	---	---
+NANOG	GH12J007811	---	---
+NANOG	GH12J007825	---	---
+NANOG	GH12J007831	---	---
+NANOG	GH12J007832	---	---
+NANOG	GH12J007833	---	---
+NANOG	GH12J007834	---	---
+NANOG	GH12J007835	---	---
+NANOG	GH12J007836	---	---
+NANOG	GH12J007837	Ensembl	Astrocytes
+NANOG	GH12J007837	Ensembl	Cortex neurosphere
+NANOG	GH12J007837	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J007837	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J007837	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007837	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007837	Ensembl	H9 neuron cells
+NANOG	GH12J007842	Ensembl	Astrocytes
+NANOG	GH12J007842	Ensembl	Cortex neurosphere
+NANOG	GH12J007842	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J007842	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J007842	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007842	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007842	Ensembl	H9 neuron cells
+NANOG	GH12J007845	---	---
+NANOG	GH12J007846	---	---
+NANOG	GH12J007849	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007858	ENCODE	astrocyte
+NANOG	GH12J007858	ENCODE	neural stem progenitor cell
+NANOG	GH12J007858	Ensembl	Astrocytes
+NANOG	GH12J007858	Ensembl	Brain germinal matrix
+NANOG	GH12J007858	Ensembl	Cortex neurosphere
+NANOG	GH12J007858	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J007858	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J007858	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007858	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007858	Ensembl	H9 neuron cells
+NANOG	GH12J007863	Ensembl	Astrocytes
+NANOG	GH12J007863	Ensembl	Brain germinal matrix
+NANOG	GH12J007863	Ensembl	Cortex neurosphere
+NANOG	GH12J007863	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J007863	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J007863	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007863	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007863	Ensembl	H9 neuron cells
+NANOG	GH12J007866	---	---
+NANOG	GH12J007872	Ensembl	Astrocytes
+NANOG	GH12J007872	Ensembl	Cortex neurosphere
+NANOG	GH12J007872	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J007872	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J007872	Ensembl	H1 neural progenitor cells
+NANOG	GH12J007872	Ensembl	H9 neural progenitor cells
+NANOG	GH12J007872	Ensembl	H9 neuron cells
+NANOG	GH12J007878	---	---
+NANOG	GH12J007884	---	---
+NANOG	GH12J008241	ENCODE	astrocyte
+NANOG	GH12J008241	ENCODE	neural stem progenitor cell
+NANOG	GH12J008241	Ensembl	Astrocytes
+NANOG	GH12J008241	Ensembl	Cortex neurosphere
+NANOG	GH12J008241	Ensembl	GM23338 bipolar neurons
+NANOG	GH12J008241	Ensembl	Ganglion eminence neurosphere
+NANOG	GH12J008241	Ensembl	H1 neural progenitor cells
+NANOG	GH12J008241	Ensembl	H9 neural progenitor cells
+NANOG	GH12J008241	Ensembl	H9 neuron cells
+PRDM4	GH12J106773	ENCODE	astrocyte
+PRDM4	GH12J106773	ENCODE	neural stem progenitor cell
+PRDM4	GH12J106954	ENCODE	astrocyte
+PRDM4	GH12J106954	ENCODE	neural stem progenitor cell
+PRDM4	GH12J106974	---	---
+PRDM4	GH12J107057	Ensembl	Astrocytes
+PRDM4	GH12J107104	---	---
+PRDM4	GH12J107354	Ensembl	Astrocytes
+PRDM4	GH12J107514	ENCODE	astrocyte
+PRDM4	GH12J107514	Ensembl	Astrocytes
+PRDM4	GH12J107651	Ensembl	Cortex neurosphere
+PRDM4	GH12J107651	Ensembl	GM23338 bipolar neurons
+PRDM4	GH12J107651	Ensembl	H1 neural progenitor cells
+PRDM4	GH12J107661	FANTOM5	brain
+PRDM4	GH12J107676	ENCODE	neural stem progenitor cell
+PRDM4	GH12J107684	ENCODE	astrocyte
+PRDM4	GH12J107684	ENCODE	neural stem progenitor cell
+PRDM4	GH12J107695	---	---
+PRDM4	GH12J107703	---	---
+PRDM4	GH12J107709	---	---
+PRDM4	GH12J107729	---	---
+PRDM4	GH12J107735	---	---
+PRDM4	GH12J107747	Ensembl	Astrocytes
+PRDM4	GH12J107758	ENCODE	astrocyte
+PRDM4	GH12J107758	ENCODE	neural stem progenitor cell
+PRDM4	GH12J107784	---	---
+PRDM4	GH12J107787	---	---
+PRDM4	GH12J107848	---	---
+PRDM4	GH12J108117	Ensembl	Brain (fetal)
+PRDM4	GH12J108117	Ensembl	H9 neural progenitor cells
+PRDM4	GH12J108310	---	---
+PRDM4	GH12J108514	ENCODE	astrocyte
+PRDM4	GH12J108514	ENCODE	neural stem progenitor cell
+PRDM4	GH12J108559	ENCODE	astrocyte
+PRDM4	GH12J108559	ENCODE	neural stem progenitor cell
+PRDM4	GH12J108578	Ensembl	GM23338 bipolar neurons
+PRDM4	GH12J108578	Ensembl	H1 neural progenitor cells
+PRDM4	GH12J108578	Ensembl	H9 neural progenitor cells
+PRDM4	GH12J108596	---	---
+PRDM4	GH12J108605	---	---
+PRDM4	GH12J108611	ENCODE	astrocyte
+PRDM4	GH12J108614	---	---
+PRDM4	GH12J108626	ENCODE	astrocyte
+PRDM4	GH12J108626	ENCODE	neural stem progenitor cell
+PRDM4	GH12J108626	dbSUPER	Brain - Cingulate gyrus
+PRDM4	GH12J108687	ENCODE	astrocyte
+PRDM4	GH12J108687	ENCODE	neural stem progenitor cell
+PRDM4	GH12J108687	dbSUPER	Astrocytes
+PRDM4	GH12J108687	dbSUPER	Brain - Angular gyrus
+PRDM4	GH12J108687	dbSUPER	Brain - Cingulate gyrus
+PRDM4	GH12J108726	ENCODE	astrocyte
+PRDM4	GH12J108726	ENCODE	neural stem progenitor cell
+PRDM4	GH12J108726	dbSUPER	Astrocytes
+FOS	GH14J074608	ENCODE	astrocyte
+FOS	GH14J074608	ENCODE	neural stem progenitor cell
+FOS	GH14J074608	Ensembl	Brain germinal matrix
+FOS	GH14J075141	dbSUPER	Brain - Angular gyrus
+FOS	GH14J075141	dbSUPER	Brain - Anterior caudate
+FOS	GH14J075141	dbSUPER	Brain - Cingulate gyrus
+FOS	GH14J075141	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075141	dbSUPER	Brain - Inferior temporal lobe
+FOS	GH14J075178	---	---
+FOS	GH14J075181	ENCODE	neural stem progenitor cell
+FOS	GH14J075188	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075196	---	---
+FOS	GH14J075203	---	---
+FOS	GH14J075208	---	---
+FOS	GH14J075211	Ensembl	Cortex neurosphere
+FOS	GH14J075215	---	---
+FOS	GH14J075217	Ensembl	Cortex neurosphere
+FOS	GH14J075221	ENCODE	astrocyte
+FOS	GH14J075223	ENCODE	neural stem progenitor cell
+FOS	GH14J075226	---	---
+FOS	GH14J075227	---	---
+FOS	GH14J075232	---	---
+FOS	GH14J075233	ENCODE	astrocyte
+FOS	GH14J075236	---	---
+FOS	GH14J075242	---	---
+FOS	GH14J075243	---	---
+FOS	GH14J075247	Ensembl	Astrocytes
+FOS	GH14J075247	Ensembl	Brain germinal matrix
+FOS	GH14J075247	Ensembl	Cortex neurosphere
+FOS	GH14J075247	Ensembl	GM23338 bipolar neurons
+FOS	GH14J075247	Ensembl	Ganglion eminence neurosphere
+FOS	GH14J075247	Ensembl	H1 neural progenitor cells
+FOS	GH14J075247	Ensembl	H9 neural progenitor cells
+FOS	GH14J075247	Ensembl	H9 neuron cells
+FOS	GH14J075249	ENCODE	astrocyte
+FOS	GH14J075249	ENCODE	neural stem progenitor cell
+FOS	GH14J075249	Ensembl	Astrocytes
+FOS	GH14J075249	Ensembl	Brain germinal matrix
+FOS	GH14J075249	Ensembl	Cortex neurosphere
+FOS	GH14J075249	Ensembl	GM23338 bipolar neurons
+FOS	GH14J075249	Ensembl	Ganglion eminence neurosphere
+FOS	GH14J075249	Ensembl	H1 neural progenitor cells
+FOS	GH14J075249	Ensembl	H9 neural progenitor cells
+FOS	GH14J075249	Ensembl	H9 neuron cells
+FOS	GH14J075249	dbSUPER	Astrocytes
+FOS	GH14J075249	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075261	---	---
+FOS	GH14J075263	---	---
+FOS	GH14J075266	ENCODE	astrocyte
+FOS	GH14J075266	dbSUPER	Astrocytes
+FOS	GH14J075266	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075268	---	---
+FOS	GH14J075273	ENCODE	astrocyte
+FOS	GH14J075273	ENCODE	neural stem progenitor cell
+FOS	GH14J075273	Ensembl	Astrocytes
+FOS	GH14J075273	Ensembl	Brain germinal matrix
+FOS	GH14J075273	Ensembl	Cortex neurosphere
+FOS	GH14J075273	Ensembl	GM23338 bipolar neurons
+FOS	GH14J075273	Ensembl	Ganglion eminence neurosphere
+FOS	GH14J075273	Ensembl	H1 neural progenitor cells
+FOS	GH14J075273	Ensembl	H9 neural progenitor cells
+FOS	GH14J075273	Ensembl	H9 neuron cells
+FOS	GH14J075273	dbSUPER	Astrocytes
+FOS	GH14J075273	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075286	Ensembl	Astrocytes
+FOS	GH14J075286	Ensembl	Brain germinal matrix
+FOS	GH14J075286	Ensembl	Cortex neurosphere
+FOS	GH14J075286	Ensembl	GM23338 bipolar neurons
+FOS	GH14J075286	Ensembl	Ganglion eminence neurosphere
+FOS	GH14J075286	Ensembl	H1 neural progenitor cells
+FOS	GH14J075286	Ensembl	H9 neural progenitor cells
+FOS	GH14J075286	Ensembl	H9 neuron cells
+FOS	GH14J075287	---	---
+FOS	GH14J075293	ENCODE	astrocyte
+FOS	GH14J075293	ENCODE	neural stem progenitor cell
+FOS	GH14J075293	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075300	---	---
+FOS	GH14J075301	---	---
+FOS	GH14J075303	---	---
+FOS	GH14J075307	ENCODE	neural stem progenitor cell
+FOS	GH14J075307	Ensembl	GM23338 bipolar neurons
+FOS	GH14J075309	ENCODE	astrocyte
+FOS	GH14J075309	ENCODE	neural stem progenitor cell
+FOS	GH14J075309	Ensembl	Astrocytes
+FOS	GH14J075309	Ensembl	Brain germinal matrix
+FOS	GH14J075309	Ensembl	Ganglion eminence neurosphere
+FOS	GH14J075309	Ensembl	H1 neural progenitor cells
+FOS	GH14J075309	Ensembl	H9 neural progenitor cells
+FOS	GH14J075309	Ensembl	H9 neuron cells
+FOS	GH14J075309	dbSUPER	Brain - Hippocampus middle
+FOS	GH14J075318	---	---
+FOS	GH14J075322	---	---
+FOS	GH14J075327	---	---
+FOS	GH14J075333	---	---
+FOS	GH14J075339	---	---
+FOS	GH14J075340	---	---
+FOS	GH14J075343	---	---
+FOS	GH14J075344	---	---
+FOS	GH14J075346	---	---
+FOS	GH14J075349	---	---
+FOS	GH14J075351	---	---
+FOS	GH14J075352	---	---
+FOS	GH14J075356	---	---
+FOS	GH14J075361	---	---
+FOS	GH14J075364	---	---
+FOS	GH14J075369	Ensembl	H1 neural progenitor cells
+FOS	GH14J075379	Ensembl	Cortex neurosphere
+FOS	GH14J075379	Ensembl	GM23338 bipolar neurons
+FOS	GH14J075379	Ensembl	H1 neural progenitor cells
+FOS	GH14J075379	Ensembl	H9 neuron cells
+FOS	GH14J075382	---	---
+FOS	GH14J075392	---	---
+FOS	GH14J075399	ENCODE	neural stem progenitor cell
+FOS	GH14J075399	Ensembl	Astrocytes
+FOS	GH14J075405	---	---
+FOS	GH14J075408	ENCODE	neural stem progenitor cell
+FOS	GH14J075408	Ensembl	H9 neural progenitor cells
+FOS	GH14J075413	---	---
+FOS	GH14J075418	---	---
+FOS	GH14J075422	---	---
+FOS	GH14J075519	---	---
+FOS	GH14J075535	---	---
+FOS	GH14J075538	---	---
+FOS	GH14J075544	---	---
+FOS	GH14J075566	---	---
+FOS	GH14J075613	---	---
+FUS	GH16J030182	ENCODE	neural stem progenitor cell
+FUS	GH16J030182	dbSUPER	Brain - Hippocampus middle
+FUS	GH16J030349	---	---
+FUS	GH16J030353	ENCODE	astrocyte
+FUS	GH16J030353	ENCODE	neural stem progenitor cell
+FUS	GH16J030367	ENCODE	astrocyte
+FUS	GH16J030367	ENCODE	neural stem progenitor cell
+FUS	GH16J030367	dbSUPER	Brain - Angular gyrus
+FUS	GH16J030367	dbSUPER	Brain - Hippocampus middle
+FUS	GH16J030367	dbSUPER	Brain - Mid frontal lobe
+FUS	GH16J030393	ENCODE	astrocyte
+FUS	GH16J030393	ENCODE	neural stem progenitor cell
+FUS	GH16J030398	ENCODE	astrocyte
+FUS	GH16J030398	ENCODE	neural stem progenitor cell
+FUS	GH16J030406	ENCODE	astrocyte
+FUS	GH16J030406	ENCODE	neural stem progenitor cell
+FUS	GH16J030426	---	---
+FUS	GH16J030428	ENCODE	astrocyte
+FUS	GH16J030428	ENCODE	neural stem progenitor cell
+FUS	GH16J030439	---	---
+FUS	GH16J030465	---	---
+FUS	GH16J030533	ENCODE	neural stem progenitor cell
+FUS	GH16J030538	---	---
+FUS	GH16J030547	---	---
+FUS	GH16J030584	ENCODE	astrocyte
+FUS	GH16J030584	ENCODE	neural stem progenitor cell
+FUS	GH16J030589	---	---
+FUS	GH16J030598	---	---
+FUS	GH16J030608	ENCODE	astrocyte
+FUS	GH16J030608	ENCODE	neural stem progenitor cell
+FUS	GH16J030649	ENCODE	astrocyte
+FUS	GH16J030649	ENCODE	neural stem progenitor cell
+FUS	GH16J030697	ENCODE	astrocyte
+FUS	GH16J030697	ENCODE	neural stem progenitor cell
+FUS	GH16J030713	---	---
+FUS	GH16J030745	---	---
+FUS	GH16J030747	ENCODE	astrocyte
+FUS	GH16J030747	ENCODE	neural stem progenitor cell
+FUS	GH16J030748	---	---
+FUS	GH16J030760	ENCODE	astrocyte
+FUS	GH16J030760	ENCODE	neural stem progenitor cell
+FUS	GH16J030785	ENCODE	neural stem progenitor cell
+FUS	GH16J030805	ENCODE	neural stem progenitor cell
+FUS	GH16J030808	---	---
+FUS	GH16J030813	ENCODE	astrocyte
+FUS	GH16J030813	ENCODE	neural stem progenitor cell
+FUS	GH16J030844	ENCODE	neural stem progenitor cell
+FUS	GH16J030892	ENCODE	astrocyte
+FUS	GH16J030892	ENCODE	neural stem progenitor cell
+FUS	GH16J030921	ENCODE	astrocyte
+FUS	GH16J030921	ENCODE	neural stem progenitor cell
+FUS	GH16J030921	Ensembl	Astrocytes
+FUS	GH16J030921	Ensembl	Cortex neurosphere
+FUS	GH16J030921	Ensembl	GM23338 bipolar neurons
+FUS	GH16J030921	Ensembl	Ganglion eminence neurosphere
+FUS	GH16J030921	Ensembl	H1 neural progenitor cells
+FUS	GH16J030921	Ensembl	H9 neural progenitor cells
+FUS	GH16J030921	Ensembl	H9 neuron cells
+FUS	GH16J030935	ENCODE	neural stem progenitor cell
+FUS	GH16J030939	ENCODE	neural stem progenitor cell
+FUS	GH16J030939	Ensembl	Astrocytes
+FUS	GH16J030939	Ensembl	Cortex neurosphere
+FUS	GH16J030939	Ensembl	GM23338 bipolar neurons
+FUS	GH16J030939	Ensembl	Ganglion eminence neurosphere
+FUS	GH16J030939	Ensembl	H1 neural progenitor cells
+FUS	GH16J030939	Ensembl	H9 neural progenitor cells
+FUS	GH16J030939	Ensembl	H9 neuron cells
+FUS	GH16J030994	---	---
+FUS	GH16J030995	ENCODE	astrocyte
+FUS	GH16J030995	ENCODE	neural stem progenitor cell
+FUS	GH16J030995	Ensembl	Brain germinal matrix
+FUS	GH16J030995	Ensembl	GM23338 bipolar neurons
+FUS	GH16J030995	Ensembl	Ganglion eminence neurosphere
+FUS	GH16J030995	Ensembl	H9 neural progenitor cells
+FUS	GH16J031002	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031025	---	---
+FUS	GH16J031032	ENCODE	astrocyte
+FUS	GH16J031032	ENCODE	neural stem progenitor cell
+FUS	GH16J031051	ENCODE	astrocyte
+FUS	GH16J031092	ENCODE	astrocyte
+FUS	GH16J031092	ENCODE	neural stem progenitor cell
+FUS	GH16J031092	Ensembl	Cortex neurosphere
+FUS	GH16J031092	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031092	Ensembl	Ganglion eminence neurosphere
+FUS	GH16J031092	Ensembl	H1 neural progenitor cells
+FUS	GH16J031092	Ensembl	H9 neural progenitor cells
+FUS	GH16J031092	Ensembl	H9 neuron cells
+FUS	GH16J031111	---	---
+FUS	GH16J031116	ENCODE	astrocyte
+FUS	GH16J031116	ENCODE	neural stem progenitor cell
+FUS	GH16J031116	Ensembl	Astrocytes
+FUS	GH16J031116	Ensembl	Brain germinal matrix
+FUS	GH16J031116	Ensembl	Cortex neurosphere
+FUS	GH16J031116	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031116	Ensembl	Ganglion eminence neurosphere
+FUS	GH16J031116	Ensembl	H1 neural progenitor cells
+FUS	GH16J031116	Ensembl	H9 neural progenitor cells
+FUS	GH16J031116	Ensembl	H9 neuron cells
+FUS	GH16J031125	ENCODE	neural stem progenitor cell
+FUS	GH16J031125	Ensembl	Astrocytes
+FUS	GH16J031125	Ensembl	Cortex neurosphere
+FUS	GH16J031125	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031125	Ensembl	H1 neural progenitor cells
+FUS	GH16J031125	Ensembl	H9 neural progenitor cells
+FUS	GH16J031125	Ensembl	H9 neuron cells
+FUS	GH16J031157	---	---
+FUS	GH16J031159	---	---
+FUS	GH16J031168	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031170	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031171	Ensembl	Cortex neurosphere
+FUS	GH16J031171	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031171	Ensembl	H9 neural progenitor cells
+FUS	GH16J031171	Ensembl	H9 neuron cells
+FUS	GH16J031172	Ensembl	Cortex neurosphere
+FUS	GH16J031172	Ensembl	H9 neural progenitor cells
+FUS	GH16J031172	Ensembl	H9 neuron cells
+FUS	GH16J031176	---	---
+FUS	GH16J031178	ENCODE	astrocyte
+FUS	GH16J031178	ENCODE	neural stem progenitor cell
+FUS	GH16J031178	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031178	Ensembl	H1 neural progenitor cells
+FUS	GH16J031184	---	---
+FUS	GH16J031185	---	---
+FUS	GH16J031186	---	---
+FUS	GH16J031187	---	---
+FUS	GH16J031188	---	---
+FUS	GH16J031189	---	---
+FUS	GH16J031199	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031199	Ensembl	H1 neural progenitor cells
+FUS	GH16J031243	---	---
+FUS	GH16J031245	---	---
+FUS	GH16J031247	---	---
+FUS	GH16J031302	---	---
+FUS	GH16J031329	Ensembl	Astrocytes
+FUS	GH16J031329	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031329	Ensembl	H1 neural progenitor cells
+FUS	GH16J031329	Ensembl	H9 neural progenitor cells
+FUS	GH16J031329	Ensembl	H9 neuron cells
+FUS	GH16J031349	---	---
+FUS	GH16J031351	---	---
+FUS	GH16J031416	---	---
+FUS	GH16J031421	---	---
+FUS	GH16J031427	---	---
+FUS	GH16J031456	ENCODE	astrocyte
+FUS	GH16J031456	ENCODE	neural stem progenitor cell
+FUS	GH16J031507	ENCODE	astrocyte
+FUS	GH16J031507	ENCODE	neural stem progenitor cell
+FUS	GH16J031507	Ensembl	Astrocytes
+FUS	GH16J031507	Ensembl	Cortex neurosphere
+FUS	GH16J031507	Ensembl	GM23338 bipolar neurons
+FUS	GH16J031507	Ensembl	Ganglion eminence neurosphere
+FUS	GH16J031507	Ensembl	H1 neural progenitor cells
+FUS	GH16J031507	Ensembl	H9 neural progenitor cells
+FUS	GH16J031507	Ensembl	H9 neuron cells
+FUS	GH16J031695	---	---
+FUS	GH16J031699	ENCODE	neural stem progenitor cell
+FUS	GH16J031712	ENCODE	astrocyte
+FUS	GH16J031712	ENCODE	neural stem progenitor cell
+ZFP3	GH17J004640	Ensembl	Astrocytes
+ZFP3	GH17J004640	Ensembl	Brain germinal matrix
+ZFP3	GH17J004640	Ensembl	Cortex neurosphere
+ZFP3	GH17J004640	Ensembl	GM23338 bipolar neurons
+ZFP3	GH17J004640	Ensembl	H1 neural progenitor cells
+ZFP3	GH17J004640	Ensembl	H9 neural progenitor cells
+ZFP3	GH17J004640	Ensembl	H9 neuron cells
+ZFP3	GH17J004648	---	---
+ZFP3	GH17J004657	---	---
+ZFP3	GH17J004703	ENCODE	astrocyte
+ZFP3	GH17J004703	ENCODE	neural stem progenitor cell
+ZFP3	GH17J004703	Ensembl	Astrocytes
+ZFP3	GH17J004703	Ensembl	Cortex neurosphere
+ZFP3	GH17J004703	Ensembl	GM23338 bipolar neurons
+ZFP3	GH17J004703	Ensembl	Ganglion eminence neurosphere
+ZFP3	GH17J004703	Ensembl	H1 neural progenitor cells
+ZFP3	GH17J004703	Ensembl	H9 neural progenitor cells
+ZFP3	GH17J004703	Ensembl	H9 neuron cells
+ZFP3	GH17J004713	Ensembl	Astrocytes
+ZFP3	GH17J004713	Ensembl	Cortex neurosphere
+ZFP3	GH17J004713	Ensembl	GM23338 bipolar neurons
+ZFP3	GH17J004713	Ensembl	Ganglion eminence neurosphere
+ZFP3	GH17J004713	Ensembl	H1 neural progenitor cells
+ZFP3	GH17J004713	Ensembl	H9 neural progenitor cells
+ZFP3	GH17J004713	Ensembl	H9 neuron cells
+ZFP3	GH17J004719	---	---
+ZFP3	GH17J004720	---	---
+ZFP3	GH17J004853	dbSUPER	Brain - Angular gyrus
+ZFP3	GH17J004853	dbSUPER	Brain - Anterior caudate
+ZFP3	GH17J004853	dbSUPER	Brain - Cingulate gyrus
+ZFP3	GH17J004853	dbSUPER	Brain - Hippocampus middle
+ZFP3	GH17J004853	dbSUPER	Brain - Inferior temporal lobe
+ZFP3	GH17J004856	ENCODE	neural stem progenitor cell
+ZFP3	GH17J004856	dbSUPER	Brain - Angular gyrus
+ZFP3	GH17J004856	dbSUPER	Brain - Anterior caudate
+ZFP3	GH17J004856	dbSUPER	Brain - Cingulate gyrus
+ZFP3	GH17J004856	dbSUPER	Brain - Hippocampus middle
+ZFP3	GH17J004856	dbSUPER	Brain - Inferior temporal lobe
+ZFP3	GH17J004863	dbSUPER	Brain - Angular gyrus
+ZFP3	GH17J004863	dbSUPER	Brain - Cingulate gyrus
+ZFP3	GH17J004863	dbSUPER	Brain - Hippocampus middle
+ZFP3	GH17J004863	dbSUPER	Brain - Inferior temporal lobe
+ZFP3	GH17J004871	dbSUPER	Brain - Angular gyrus
+ZFP3	GH17J004871	dbSUPER	Brain - Anterior caudate
+ZFP3	GH17J004871	dbSUPER	Brain - Cingulate gyrus
+ZFP3	GH17J004871	dbSUPER	Brain - Hippocampus middle
+ZFP3	GH17J004871	dbSUPER	Brain - Inferior temporal lobe
+ZFP3	GH17J004876	dbSUPER	Brain - Angular gyrus
+ZFP3	GH17J004876	dbSUPER	Brain - Anterior caudate
+ZFP3	GH17J004876	dbSUPER	Brain - Cingulate gyrus
+ZFP3	GH17J004876	dbSUPER	Brain - Hippocampus middle
+ZFP3	GH17J004876	dbSUPER	Brain - Inferior temporal lobe
+ZFP3	GH17J004898	Ensembl	Astrocytes
+ZFP3	GH17J004898	Ensembl	Brain germinal matrix
+ZFP3	GH17J004898	Ensembl	Cortex neurosphere
+ZFP3	GH17J004898	Ensembl	GM23338 bipolar neurons
+ZFP3	GH17J004898	Ensembl	H1 neural progenitor cells
+ZFP3	GH17J004908	ENCODE	neural stem progenitor cell
+ZFP3	GH17J005012	Ensembl	Astrocytes
+ZFP3	GH17J005012	Ensembl	GM23338 bipolar neurons
+ZFP3	GH17J005013	---	---
+ZFP3	GH17J005016	---	---
+ZFP3	GH17J005017	---	---
+ZFP3	GH17J005019	---	---
+ZFP3	GH17J005041	---	---
+ZFP3	GH17J005044	Ensembl	H9 neuron cells
+ZFP3	GH17J005055	---	---
+ZFP3	GH17J005062	---	---
+ZFP3	GH17J005074	Ensembl	H9 neuron cells
+ZFP3	GH17J005077	---	---
+ZFP3	GH17J005096	ENCODE	neural stem progenitor cell
+ZFP3	GH17J005110	ENCODE	neural stem progenitor cell
+ZFP3	GH17J005110	Ensembl	H1 neural progenitor cells
+ZFP3	GH17J005115	---	---
+ZFP3	GH17J005120	---	---
+ZFP3	GH17J005148	---	---
+ZFP3	GH17J005161	---	---
+ZFP3	GH17J005165	---	---
+ZFP3	GH17J005170	---	---
+ZFP3	GH17J005173	---	---
+ZFP3	GH17J005203	---	---
+ZFP3	GH17J005206	---	---
+ZFP3	GH17J005207	---	---
+ZFP3	GH17J005220	ENCODE	neural stem progenitor cell
+ZFP3	GH17J005272	Ensembl	Astrocytes
+ZFP3	GH17J005551	---	---
+ZNF652	GH17J049190	ENCODE	astrocyte
+ZNF652	GH17J049190	ENCODE	neural stem progenitor cell
+ZNF652	GH17J049190	FANTOM5	astrocyte
+ZNF652	GH17J049190	FANTOM5	brain
+ZNF652	GH17J049190	FANTOM5	pericyte cell
+ZNF652	GH17J049235	---	---
+ZNF652	GH17J049244	---	---
+ZNF652	GH17J049246	---	---
+ZNF652	GH17J049249	---	---
+ZNF652	GH17J049251	---	---
+ZNF652	GH17J049259	ENCODE	astrocyte
+ZNF652	GH17J049259	ENCODE	neural stem progenitor cell
+ZNF652	GH17J049262	---	---
+ZNF652	GH17J049263	---	---
+ZNF652	GH17J049265	---	---
+ZNF652	GH17J049266	---	---
+ZNF652	GH17J049276	---	---
+ZNF652	GH17J049277	---	---
+ZNF652	GH17J049278	---	---
+ZNF652	GH17J049280	---	---
+ZNF652	GH17J049285	---	---
+ZNF652	GH17J049290	---	---
+ZNF652	GH17J049291	Ensembl	Brain (fetal)
+ZNF652	GH17J049292	---	---
+ZNF652	GH17J049297	---	---
+ZNF652	GH17J049315	---	---
+ZNF652	GH17J049322	---	---
+ZNF652	GH17J049328	Ensembl	Astrocytes
+ZNF652	GH17J049331	---	---
+ZNF652	GH17J049335	---	---
+ZNF652	GH17J049338	---	---
+ZNF652	GH17J049340	---	---
+ZNF652	GH17J049341	---	---
+ZNF652	GH17J049347	---	---
+ZNF652	GH17J049349	---	---
+ZNF652	GH17J049350	---	---
+ZNF652	GH17J049351	---	---
+ZNF652	GH17J049352	---	---
+ZNF652	GH17J049355	---	---
+ZNF652	GH17J049356	ENCODE	astrocyte
+ZNF652	GH17J049356	ENCODE	neural stem progenitor cell
+ZNF652	GH17J049365	---	---
+ZNF652	GH17J049370	---	---
+ZNF652	GH17J049371	---	---
+ZNF652	GH17J049376	---	---
+ZNF652	GH17J049379	---	---
+ZNF652	GH17J049382	---	---
+ZNF652	GH17J049383	---	---
+ZNF652	GH17J049387	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049387	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049393	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049393	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049394	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049394	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049395	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049395	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049396	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049396	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049401	Ensembl	Brain (fetal)
+ZNF652	GH17J049401	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049401	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049405	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049406	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049407	ENCODE	neural stem progenitor cell
+ZNF652	GH17J049407	dbSUPER	Brain - Angular gyrus
+ZNF652	GH17J049407	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049409	dbSUPER	Brain - Cingulate gyrus
+ZNF652	GH17J049413	ENCODE	astrocyte
+ZNF652	GH17J049413	ENCODE	neural stem progenitor cell
+ZNF652	GH17J049687	---	---
+ZNF652	GH17J049735	Ensembl	Astrocytes
+ZNF652	GH17J049735	Ensembl	Cortex neurosphere
+ZNF652	GH17J049735	Ensembl	GM23338 bipolar neurons
+ZNF652	GH17J049735	Ensembl	Ganglion eminence neurosphere
+ZNF652	GH17J049735	Ensembl	H1 neural progenitor cells
+ZNF652	GH17J049735	Ensembl	H9 neural progenitor cells
+ZNF652	GH17J049735	Ensembl	H9 neuron cells
+ZNF652	GH17J050239	---	---
+HMG20B	GH19J002637	dbSUPER	Brain - Anterior caudate
+HMG20B	GH19J002637	dbSUPER	Brain - Cingulate gyrus
+HMG20B	GH19J002637	dbSUPER	Brain - Hippocampus middle
+HMG20B	GH19J002637	dbSUPER	Brain - Inferior temporal lobe
+HMG20B	GH19J002638	dbSUPER	Brain - Anterior caudate
+HMG20B	GH19J002638	dbSUPER	Brain - Cingulate gyrus
+HMG20B	GH19J002638	dbSUPER	Brain - Hippocampus middle
+HMG20B	GH19J002638	dbSUPER	Brain - Inferior temporal lobe
+HMG20B	GH19J002713	---	---
+HMG20B	GH19J003363	ENCODE	astrocyte
+HMG20B	GH19J003363	Ensembl	Astrocytes
+HMG20B	GH19J003363	Ensembl	Cortex neurosphere
+HMG20B	GH19J003363	Ensembl	GM23338 bipolar neurons
+HMG20B	GH19J003363	Ensembl	Ganglion eminence neurosphere
+HMG20B	GH19J003363	Ensembl	H1 neural progenitor cells
+HMG20B	GH19J003363	Ensembl	H9 neural progenitor cells
+HMG20B	GH19J003363	Ensembl	H9 neuron cells
+HMG20B	GH19J003363	FANTOM5	astrocyte
+HMG20B	GH19J003363	dbSUPER	Brain - Angular gyrus
+HMG20B	GH19J003363	dbSUPER	Brain - Anterior caudate
+HMG20B	GH19J003363	dbSUPER	Brain - Cingulate gyrus
+HMG20B	GH19J003363	dbSUPER	Brain - Hippocampus middle
+HMG20B	GH19J003363	dbSUPER	Brain - Inferior temporal lobe
+HMG20B	GH19J003363	dbSUPER	Brain - Mid frontal lobe
+HMG20B	GH19J003384	dbSUPER	Brain - Hippocampus middle
+HMG20B	GH19J003384	dbSUPER	Brain - Inferior temporal lobe
+HMG20B	GH19J003543	ENCODE	neural stem progenitor cell
+HMG20B	GH19J003544	---	---
+HMG20B	GH19J003547	---	---
+HMG20B	GH19J003550	ENCODE	astrocyte
+HMG20B	GH19J003550	ENCODE	neural stem progenitor cell
+HMG20B	GH19J003551	---	---
+HMG20B	GH19J003559	---	---
+HMG20B	GH19J003568	---	---
+HMG20B	GH19J003570	ENCODE	astrocyte
+HMG20B	GH19J003570	ENCODE	neural stem progenitor cell
+HMG20B	GH19J003579	ENCODE	astrocyte
+HMG20B	GH19J003760	ENCODE	astrocyte
+HMG20B	GH19J003760	ENCODE	neural stem progenitor cell
+HMG20B	GH19J003981	ENCODE	neural stem progenitor cell
+HMG20B	GH19J003981	Ensembl	H1 neural progenitor cells
+HMG20B	GH19J004081	---	---
+HMG20B	GH19J004083	---	---
+HMG20B	GH19J004246	ENCODE	astrocyte
+HMG20B	GH19J004246	ENCODE	neural stem progenitor cell
+HMG20B	GH19J004246	Ensembl	Astrocytes
+HMG20B	GH19J004246	Ensembl	Cortex neurosphere
+HMG20B	GH19J004246	Ensembl	GM23338 bipolar neurons
+HMG20B	GH19J004246	Ensembl	Ganglion eminence neurosphere
+HMG20B	GH19J004246	Ensembl	H1 neural progenitor cells
+HMG20B	GH19J004246	Ensembl	H9 neural progenitor cells
+HMG20B	GH19J004246	Ensembl	H9 neuron cells
+HMG20B	GH19J004413	ENCODE	neural stem progenitor cell
+HMG20B	GH19J004413	Ensembl	Astrocytes
+HMG20B	GH19J004413	Ensembl	Brain germinal matrix
+HMG20B	GH19J004413	Ensembl	Ganglion eminence neurosphere
+HMG20B	GH19J004413	Ensembl	H1 neural progenitor cells
+SMARCA4	GH19J010100	ENCODE	astrocyte
+SMARCA4	GH19J010100	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010100	Ensembl	Astrocytes
+SMARCA4	GH19J010100	Ensembl	Cortex neurosphere
+SMARCA4	GH19J010100	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010100	Ensembl	Ganglion eminence neurosphere
+SMARCA4	GH19J010100	Ensembl	H1 neural progenitor cells
+SMARCA4	GH19J010100	Ensembl	H9 neural progenitor cells
+SMARCA4	GH19J010100	Ensembl	H9 neuron cells
+SMARCA4	GH19J010110	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010110	Ensembl	Astrocytes
+SMARCA4	GH19J010110	Ensembl	Cortex neurosphere
+SMARCA4	GH19J010110	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010110	Ensembl	Ganglion eminence neurosphere
+SMARCA4	GH19J010110	Ensembl	H1 neural progenitor cells
+SMARCA4	GH19J010110	Ensembl	H9 neural progenitor cells
+SMARCA4	GH19J010110	Ensembl	H9 neuron cells
+SMARCA4	GH19J010379	ENCODE	astrocyte
+SMARCA4	GH19J010379	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010379	Ensembl	Astrocytes
+SMARCA4	GH19J010423	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010423	Ensembl	Astrocytes
+SMARCA4	GH19J010423	Ensembl	Cortex neurosphere
+SMARCA4	GH19J010423	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010423	Ensembl	Ganglion eminence neurosphere
+SMARCA4	GH19J010423	Ensembl	H1 neural progenitor cells
+SMARCA4	GH19J010423	Ensembl	H9 neural progenitor cells
+SMARCA4	GH19J010423	Ensembl	H9 neuron cells
+SMARCA4	GH19J010700	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010717	ENCODE	astrocyte
+SMARCA4	GH19J010717	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010717	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010724	dbSUPER	Brain - Angular gyrus
+SMARCA4	GH19J010724	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010724	dbSUPER	Brain - Cingulate gyrus
+SMARCA4	GH19J010724	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010724	dbSUPER	Brain - Inferior temporal lobe
+SMARCA4	GH19J010726	dbSUPER	Brain - Angular gyrus
+SMARCA4	GH19J010726	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010726	dbSUPER	Brain - Cingulate gyrus
+SMARCA4	GH19J010726	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010726	dbSUPER	Brain - Inferior temporal lobe
+SMARCA4	GH19J010736	dbSUPER	Brain - Angular gyrus
+SMARCA4	GH19J010736	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010736	dbSUPER	Brain - Cingulate gyrus
+SMARCA4	GH19J010736	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010736	dbSUPER	Brain - Inferior temporal lobe
+SMARCA4	GH19J010743	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010743	dbSUPER	Brain - Cingulate gyrus
+SMARCA4	GH19J010743	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010743	dbSUPER	Brain - Inferior temporal lobe
+SMARCA4	GH19J010758	dbSUPER	Brain - Angular gyrus
+SMARCA4	GH19J010758	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010758	dbSUPER	Brain - Cingulate gyrus
+SMARCA4	GH19J010758	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010758	dbSUPER	Brain - Inferior temporal lobe
+SMARCA4	GH19J010758	dbSUPER	Brain - Mid frontal lobe
+SMARCA4	GH19J010768	dbSUPER	Brain - Angular gyrus
+SMARCA4	GH19J010768	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010768	dbSUPER	Brain - Cingulate gyrus
+SMARCA4	GH19J010768	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010768	dbSUPER	Brain - Inferior temporal lobe
+SMARCA4	GH19J010768	dbSUPER	Brain - Mid frontal lobe
+SMARCA4	GH19J010776	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010776	dbSUPER	Brain - Anterior caudate
+SMARCA4	GH19J010776	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010792	---	---
+SMARCA4	GH19J010796	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010808	ENCODE	astrocyte
+SMARCA4	GH19J010808	dbSUPER	Brain - Hippocampus middle
+SMARCA4	GH19J010834	ENCODE	astrocyte
+SMARCA4	GH19J010834	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010838	---	---
+SMARCA4	GH19J010839	---	---
+SMARCA4	GH19J010844	---	---
+SMARCA4	GH19J010852	---	---
+SMARCA4	GH19J010862	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010867	---	---
+SMARCA4	GH19J010870	ENCODE	astrocyte
+SMARCA4	GH19J010870	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010874	---	---
+SMARCA4	GH19J010875	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010875	Ensembl	Brain germinal matrix
+SMARCA4	GH19J010875	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010875	Ensembl	H1 neural progenitor cells
+SMARCA4	GH19J010875	Ensembl	H9 neural progenitor cells
+SMARCA4	GH19J010884	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010884	Ensembl	Brain germinal matrix
+SMARCA4	GH19J010884	Ensembl	Cortex neurosphere
+SMARCA4	GH19J010884	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010890	---	---
+SMARCA4	GH19J010893	Ensembl	Astrocytes
+SMARCA4	GH19J010893	Ensembl	Brain germinal matrix
+SMARCA4	GH19J010893	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010893	Ensembl	Ganglion eminence neurosphere
+SMARCA4	GH19J010911	---	---
+SMARCA4	GH19J010914	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010927	ENCODE	astrocyte
+SMARCA4	GH19J010927	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010936	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010938	---	---
+SMARCA4	GH19J010941	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010949	---	---
+SMARCA4	GH19J010950	---	---
+SMARCA4	GH19J010952	---	---
+SMARCA4	GH19J010959	ENCODE	astrocyte
+SMARCA4	GH19J010959	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J010964	---	---
+SMARCA4	GH19J010966	---	---
+SMARCA4	GH19J010968	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010969	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010970	---	---
+SMARCA4	GH19J010971	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J010974	---	---
+SMARCA4	GH19J010975	---	---
+SMARCA4	GH19J010979	---	---
+SMARCA4	GH19J010997	---	---
+SMARCA4	GH19J011002	Ensembl	Brain (fetal)
+SMARCA4	GH19J011017	---	---
+SMARCA4	GH19J011023	---	---
+SMARCA4	GH19J011025	---	---
+SMARCA4	GH19J011030	---	---
+SMARCA4	GH19J011034	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J011041	---	---
+SMARCA4	GH19J011047	---	---
+SMARCA4	GH19J011063	---	---
+SMARCA4	GH19J011064	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J011067	---	---
+SMARCA4	GH19J011073	---	---
+SMARCA4	GH19J011075	---	---
+SMARCA4	GH19J011078	---	---
+SMARCA4	GH19J011080	---	---
+SMARCA4	GH19J011083	---	---
+SMARCA4	GH19J011084	ENCODE	astrocyte
+SMARCA4	GH19J011150	---	---
+SMARCA4	GH19J011159	---	---
+SMARCA4	GH19J011373	ENCODE	astrocyte
+SMARCA4	GH19J011373	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J011373	FANTOM5	brain
+SMARCA4	GH19J011373	FANTOM5	neuron
+SMARCA4	GH19J011478	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J011478	Ensembl	Astrocytes
+SMARCA4	GH19J011478	FANTOM5	brain
+SMARCA4	GH19J011531	ENCODE	astrocyte
+SMARCA4	GH19J011531	Ensembl	Astrocytes
+SMARCA4	GH19J011639	ENCODE	neural stem progenitor cell
+SMARCA4	GH19J011639	Ensembl	Astrocytes
+SMARCA4	GH19J011639	Ensembl	Cortex neurosphere
+SMARCA4	GH19J011639	Ensembl	GM23338 bipolar neurons
+SMARCA4	GH19J011639	Ensembl	Ganglion eminence neurosphere
+SMARCA4	GH19J011639	Ensembl	H1 neural progenitor cells
+SMARCA4	GH19J011639	Ensembl	H9 neural progenitor cells
+SMARCA4	GH19J011639	Ensembl	H9 neuron cells
+JUNB	GH19J012293	ENCODE	astrocyte
+JUNB	GH19J012293	ENCODE	neural stem progenitor cell
+JUNB	GH19J012609	ENCODE	astrocyte
+JUNB	GH19J012609	ENCODE	neural stem progenitor cell
+JUNB	GH19J012609	Ensembl	Astrocytes
+JUNB	GH19J012609	Ensembl	Brain germinal matrix
+JUNB	GH19J012609	Ensembl	Cortex neurosphere
+JUNB	GH19J012609	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J012609	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J012609	Ensembl	H1 neural progenitor cells
+JUNB	GH19J012609	Ensembl	H9 neural progenitor cells
+JUNB	GH19J012609	Ensembl	H9 neuron cells
+JUNB	GH19J012751	Ensembl	Brain germinal matrix
+JUNB	GH19J012751	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J012753	---	---
+JUNB	GH19J012755	Ensembl	Brain germinal matrix
+JUNB	GH19J012755	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J012755	Ensembl	H1 neural progenitor cells
+JUNB	GH19J012757	ENCODE	neural stem progenitor cell
+JUNB	GH19J012760	---	---
+JUNB	GH19J012762	---	---
+JUNB	GH19J012765	Ensembl	Astrocytes
+JUNB	GH19J012765	Ensembl	Cortex neurosphere
+JUNB	GH19J012765	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J012765	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J012765	Ensembl	H1 neural progenitor cells
+JUNB	GH19J012765	Ensembl	H9 neural progenitor cells
+JUNB	GH19J012765	Ensembl	H9 neuron cells
+JUNB	GH19J012769	ENCODE	neural stem progenitor cell
+JUNB	GH19J012770	---	---
+JUNB	GH19J012771	---	---
+JUNB	GH19J012773	---	---
+JUNB	GH19J012774	ENCODE	astrocyte
+JUNB	GH19J012774	ENCODE	neural stem progenitor cell
+JUNB	GH19J012774	Ensembl	Astrocytes
+JUNB	GH19J012774	Ensembl	Cortex neurosphere
+JUNB	GH19J012774	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J012774	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J012774	Ensembl	H1 neural progenitor cells
+JUNB	GH19J012774	Ensembl	H9 neural progenitor cells
+JUNB	GH19J012774	Ensembl	H9 neuron cells
+JUNB	GH19J012774	FANTOM5	brain
+JUNB	GH19J012774	dbSUPER	Brain - Anterior caudate
+JUNB	GH19J012774	dbSUPER	Brain - Cingulate gyrus
+JUNB	GH19J012774	dbSUPER	Brain - Hippocampus middle
+JUNB	GH19J012774	dbSUPER	Brain - Inferior temporal lobe
+JUNB	GH19J012774	dbSUPER	Brain - Mid frontal lobe
+JUNB	GH19J012800	ENCODE	neural stem progenitor cell
+JUNB	GH19J012800	Ensembl	Astrocytes
+JUNB	GH19J012800	Ensembl	Cortex neurosphere
+JUNB	GH19J012800	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J012800	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J012800	Ensembl	H1 neural progenitor cells
+JUNB	GH19J012800	Ensembl	H9 neural progenitor cells
+JUNB	GH19J012800	Ensembl	H9 neuron cells
+JUNB	GH19J012800	dbSUPER	Brain - Hippocampus middle
+JUNB	GH19J013042	ENCODE	astrocyte
+JUNB	GH19J013042	Ensembl	Astrocytes
+JUNB	GH19J013042	Ensembl	Brain germinal matrix
+JUNB	GH19J013042	dbSUPER	Astrocytes
+JUNB	GH19J013042	dbSUPER	Brain - Angular gyrus
+JUNB	GH19J013042	dbSUPER	Brain - Anterior caudate
+JUNB	GH19J013042	dbSUPER	Brain - Hippocampus middle
+JUNB	GH19J013042	dbSUPER	Brain - Inferior temporal lobe
+JUNB	GH19J013042	dbSUPER	Brain - Mid frontal lobe
+JUNB	GH19J013115	ENCODE	astrocyte
+JUNB	GH19J013115	ENCODE	neural stem progenitor cell
+JUNB	GH19J013115	Ensembl	Astrocytes
+JUNB	GH19J013115	Ensembl	Cortex neurosphere
+JUNB	GH19J013115	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J013115	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J013115	Ensembl	H1 neural progenitor cells
+JUNB	GH19J013115	Ensembl	H9 neural progenitor cells
+JUNB	GH19J013115	Ensembl	H9 neuron cells
+JUNB	GH19J013115	dbSUPER	Brain - Anterior caudate
+JUNB	GH19J013115	dbSUPER	Brain - Hippocampus middle
+JUNB	GH19J013115	dbSUPER	Brain - Inferior temporal lobe
+JUNB	GH19J013148	ENCODE	astrocyte
+JUNB	GH19J013148	ENCODE	neural stem progenitor cell
+JUNB	GH19J013148	Ensembl	Astrocytes
+JUNB	GH19J013148	Ensembl	Cortex neurosphere
+JUNB	GH19J013148	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J013148	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J013148	Ensembl	H1 neural progenitor cells
+JUNB	GH19J013148	Ensembl	H9 neural progenitor cells
+JUNB	GH19J013148	Ensembl	H9 neuron cells
+JUNB	GH19J013148	FANTOM5	astrocyte
+JUNB	GH19J013148	dbSUPER	Astrocytes
+JUNB	GH19J013148	dbSUPER	Brain - Anterior caudate
+JUNB	GH19J013148	dbSUPER	Brain - Hippocampus middle
+JUNB	GH19J013148	dbSUPER	Brain - Inferior temporal lobe
+JUNB	GH19J013160	ENCODE	astrocyte
+JUNB	GH19J013160	ENCODE	neural stem progenitor cell
+JUNB	GH19J013160	Ensembl	Astrocytes
+JUNB	GH19J013160	Ensembl	Cortex neurosphere
+JUNB	GH19J013160	Ensembl	GM23338 bipolar neurons
+JUNB	GH19J013160	Ensembl	Ganglion eminence neurosphere
+JUNB	GH19J013160	Ensembl	H1 neural progenitor cells
+JUNB	GH19J013160	Ensembl	H9 neural progenitor cells
+JUNB	GH19J013160	Ensembl	H9 neuron cells
+JUNB	GH19J013160	FANTOM5	brain
+JUNB	GH19J013160	dbSUPER	Astrocytes
+JUNB	GH19J013160	dbSUPER	Brain - Anterior caudate
+JUNB	GH19J013160	dbSUPER	Brain - Hippocampus middle
+JUNB	GH19J013160	dbSUPER	Brain - Inferior temporal lobe
+RFXANK	GH19J018202	ENCODE	astrocyte
+RFXANK	GH19J018202	ENCODE	neural stem progenitor cell
+RFXANK	GH19J018202	Ensembl	Astrocytes
+RFXANK	GH19J018202	Ensembl	Cortex neurosphere
+RFXANK	GH19J018202	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J018202	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J018202	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J018202	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J018202	Ensembl	H9 neuron cells
+RFXANK	GH19J018372	ENCODE	astrocyte
+RFXANK	GH19J018372	ENCODE	neural stem progenitor cell
+RFXANK	GH19J018372	Ensembl	Cortex neurosphere
+RFXANK	GH19J018372	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J018372	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J018372	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J018372	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J018372	Ensembl	H9 neuron cells
+RFXANK	GH19J018372	FANTOM5	astrocyte
+RFXANK	GH19J018372	FANTOM5	pericyte cell
+RFXANK	GH19J018436	ENCODE	neural stem progenitor cell
+RFXANK	GH19J018436	Ensembl	Cortex neurosphere
+RFXANK	GH19J018436	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J018436	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J018436	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J018436	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J018436	Ensembl	H9 neuron cells
+RFXANK	GH19J018587	ENCODE	neural stem progenitor cell
+RFXANK	GH19J018587	Ensembl	Astrocytes
+RFXANK	GH19J018587	Ensembl	Cortex neurosphere
+RFXANK	GH19J018587	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J018587	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J018587	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J018587	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J018587	Ensembl	H9 neuron cells
+RFXANK	GH19J018966	ENCODE	astrocyte
+RFXANK	GH19J019026	---	---
+RFXANK	GH19J019031	ENCODE	astrocyte
+RFXANK	GH19J019031	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019031	Ensembl	Astrocytes
+RFXANK	GH19J019031	Ensembl	Brain germinal matrix
+RFXANK	GH19J019031	Ensembl	Cortex neurosphere
+RFXANK	GH19J019031	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J019031	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J019031	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J019031	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J019031	Ensembl	H9 neuron cells
+RFXANK	GH19J019039	---	---
+RFXANK	GH19J019042	---	---
+RFXANK	GH19J019053	---	---
+RFXANK	GH19J019091	---	---
+RFXANK	GH19J019094	---	---
+RFXANK	GH19J019107	---	---
+RFXANK	GH19J019108	Ensembl	Brain (fetal)
+RFXANK	GH19J019110	---	---
+RFXANK	GH19J019112	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019112	Ensembl	Astrocytes
+RFXANK	GH19J019112	Ensembl	Cortex neurosphere
+RFXANK	GH19J019112	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J019112	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J019112	Ensembl	H9 neuron cells
+RFXANK	GH19J019191	ENCODE	astrocyte
+RFXANK	GH19J019191	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019191	Ensembl	Brain germinal matrix
+RFXANK	GH19J019191	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J019191	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J019191	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J019255	Ensembl	H9 neuron cells
+RFXANK	GH19J019333	---	---
+RFXANK	GH19J019335	---	---
+RFXANK	GH19J019342	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019402	ENCODE	astrocyte
+RFXANK	GH19J019402	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019402	Ensembl	Astrocytes
+RFXANK	GH19J019402	Ensembl	Brain germinal matrix
+RFXANK	GH19J019402	Ensembl	Cortex neurosphere
+RFXANK	GH19J019402	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J019402	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J019402	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J019402	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J019402	Ensembl	H9 neuron cells
+RFXANK	GH19J019449	Ensembl	Astrocytes
+RFXANK	GH19J019449	Ensembl	Brain germinal matrix
+RFXANK	GH19J019449	Ensembl	Cortex neurosphere
+RFXANK	GH19J019449	Ensembl	GM23338 bipolar neurons
+RFXANK	GH19J019449	Ensembl	Ganglion eminence neurosphere
+RFXANK	GH19J019449	Ensembl	H1 neural progenitor cells
+RFXANK	GH19J019449	Ensembl	H9 neural progenitor cells
+RFXANK	GH19J019449	Ensembl	H9 neuron cells
+RFXANK	GH19J019456	ENCODE	astrocyte
+RFXANK	GH19J019456	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019484	ENCODE	astrocyte
+RFXANK	GH19J019484	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019589	ENCODE	astrocyte
+RFXANK	GH19J019589	ENCODE	neural stem progenitor cell
+RFXANK	GH19J019594	---	---
+ZNF114	GH19J048243	---	---
+ZNF114	GH19J048253	ENCODE	astrocyte
+ZNF114	GH19J048253	ENCODE	neural stem progenitor cell
+ZNF114	GH19J048264	---	---
+ZNF114	GH19J048267	ENCODE	neural stem progenitor cell
+ZNF114	GH19J048269	ENCODE	neural stem progenitor cell
+ZNF114	GH19J048274	---	---
+ZNF114	GH19J048279	Ensembl	GM23338 bipolar neurons
+ZNF114	GH19J048282	Ensembl	Brain (fetal)
+ZNF114	GH19J048283	ENCODE	astrocyte
+ZNF114	GH19J048283	Ensembl	Astrocytes
+ZNF114	GH19J048283	Ensembl	Brain (fetal)
+ZNF114	GH19J048288	---	---
+ZNF114	GH19J048290	ENCODE	neural stem progenitor cell
+ZNF114	GH19J048308	Ensembl	GM23338 bipolar neurons
+ZNF114	GH19J048308	Ensembl	H1 neural progenitor cells
+ZNF114	GH19J048308	Ensembl	H9 neural progenitor cells
+ZNF114	GH19J048314	ENCODE	neural stem progenitor cell
+ZNF114	GH19J048316	---	---
+ZNF114	GH19J048317	---	---
+ZNF114	GH19J048328	ENCODE	astrocyte
+ZNF114	GH19J048328	ENCODE	neural stem progenitor cell
+IRF3	GH19J048736	ENCODE	neural stem progenitor cell
+IRF3	GH19J048736	Ensembl	Astrocytes
+IRF3	GH19J048736	Ensembl	Cortex neurosphere
+IRF3	GH19J048736	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J048736	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J048736	Ensembl	H1 neural progenitor cells
+IRF3	GH19J048736	Ensembl	H9 neural progenitor cells
+IRF3	GH19J048736	Ensembl	H9 neuron cells
+IRF3	GH19J048780	---	---
+IRF3	GH19J048788	---	---
+IRF3	GH19J048815	---	---
+IRF3	GH19J048866	ENCODE	neural stem progenitor cell
+IRF3	GH19J048866	Ensembl	Astrocytes
+IRF3	GH19J048866	Ensembl	Cortex neurosphere
+IRF3	GH19J048866	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J048866	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J048866	Ensembl	H1 neural progenitor cells
+IRF3	GH19J048866	Ensembl	H9 neural progenitor cells
+IRF3	GH19J048866	Ensembl	H9 neuron cells
+IRF3	GH19J048871	ENCODE	astrocyte
+IRF3	GH19J048871	ENCODE	neural stem progenitor cell
+IRF3	GH19J048871	Ensembl	H9 neuron cells
+IRF3	GH19J048871	dbSUPER	Astrocytes
+IRF3	GH19J048880	---	---
+IRF3	GH19J048897	ENCODE	astrocyte
+IRF3	GH19J048897	ENCODE	neural stem progenitor cell
+IRF3	GH19J048953	ENCODE	astrocyte
+IRF3	GH19J048953	ENCODE	neural stem progenitor cell
+IRF3	GH19J048958	ENCODE	astrocyte
+IRF3	GH19J048958	ENCODE	neural stem progenitor cell
+IRF3	GH19J048958	FANTOM5	astrocyte
+IRF3	GH19J048988	ENCODE	astrocyte
+IRF3	GH19J048988	ENCODE	neural stem progenitor cell
+IRF3	GH19J048988	FANTOM5	astrocyte
+IRF3	GH19J048988	FANTOM5	pericyte cell
+IRF3	GH19J049084	ENCODE	astrocyte
+IRF3	GH19J049084	ENCODE	neural stem progenitor cell
+IRF3	GH19J049084	Ensembl	Astrocytes
+IRF3	GH19J049084	Ensembl	Cortex neurosphere
+IRF3	GH19J049084	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049113	ENCODE	astrocyte
+IRF3	GH19J049113	ENCODE	neural stem progenitor cell
+IRF3	GH19J049127	ENCODE	neural stem progenitor cell
+IRF3	GH19J049154	ENCODE	neural stem progenitor cell
+IRF3	GH19J049154	Ensembl	Astrocytes
+IRF3	GH19J049154	Ensembl	Brain germinal matrix
+IRF3	GH19J049154	Ensembl	Cortex neurosphere
+IRF3	GH19J049154	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049154	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049154	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049154	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049154	Ensembl	H9 neuron cells
+IRF3	GH19J049301	ENCODE	neural stem progenitor cell
+IRF3	GH19J049318	---	---
+IRF3	GH19J049332	ENCODE	neural stem progenitor cell
+IRF3	GH19J049332	Ensembl	Astrocytes
+IRF3	GH19J049332	Ensembl	Cortex neurosphere
+IRF3	GH19J049332	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049332	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049332	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049332	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049332	Ensembl	H9 neuron cells
+IRF3	GH19J049409	ENCODE	neural stem progenitor cell
+IRF3	GH19J049409	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049424	---	---
+IRF3	GH19J049442	ENCODE	neural stem progenitor cell
+IRF3	GH19J049450	ENCODE	astrocyte
+IRF3	GH19J049450	ENCODE	neural stem progenitor cell
+IRF3	GH19J049478	ENCODE	neural stem progenitor cell
+IRF3	GH19J049486	ENCODE	astrocyte
+IRF3	GH19J049486	ENCODE	neural stem progenitor cell
+IRF3	GH19J049494	ENCODE	astrocyte
+IRF3	GH19J049494	ENCODE	neural stem progenitor cell
+IRF3	GH19J049567	ENCODE	neural stem progenitor cell
+IRF3	GH19J049567	Ensembl	Astrocytes
+IRF3	GH19J049567	Ensembl	Cortex neurosphere
+IRF3	GH19J049567	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049567	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049567	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049567	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049567	Ensembl	H9 neuron cells
+IRF3	GH19J049573	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049579	ENCODE	astrocyte
+IRF3	GH19J049579	ENCODE	neural stem progenitor cell
+IRF3	GH19J049579	Ensembl	Astrocytes
+IRF3	GH19J049579	Ensembl	Cortex neurosphere
+IRF3	GH19J049579	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049579	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049579	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049579	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049579	Ensembl	H9 neuron cells
+IRF3	GH19J049589	ENCODE	astrocyte
+IRF3	GH19J049589	ENCODE	neural stem progenitor cell
+IRF3	GH19J049589	Ensembl	Astrocytes
+IRF3	GH19J049589	Ensembl	Cortex neurosphere
+IRF3	GH19J049589	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049589	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049589	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049589	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049589	Ensembl	H9 neuron cells
+IRF3	GH19J049589	FANTOM5	neuronal stem cell
+IRF3	GH19J049629	---	---
+IRF3	GH19J049649	---	---
+IRF3	GH19J049655	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049659	---	---
+IRF3	GH19J049662	ENCODE	astrocyte
+IRF3	GH19J049662	ENCODE	neural stem progenitor cell
+IRF3	GH19J049662	Ensembl	Astrocytes
+IRF3	GH19J049662	Ensembl	Cortex neurosphere
+IRF3	GH19J049662	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J049662	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049662	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049662	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049662	Ensembl	H9 neuron cells
+IRF3	GH19J049669	---	---
+IRF3	GH19J049671	ENCODE	neural stem progenitor cell
+IRF3	GH19J049675	ENCODE	astrocyte
+IRF3	GH19J049675	ENCODE	neural stem progenitor cell
+IRF3	GH19J049716	ENCODE	neural stem progenitor cell
+IRF3	GH19J049764	ENCODE	astrocyte
+IRF3	GH19J049764	ENCODE	neural stem progenitor cell
+IRF3	GH19J049804	ENCODE	neural stem progenitor cell
+IRF3	GH19J049849	ENCODE	astrocyte
+IRF3	GH19J049849	ENCODE	neural stem progenitor cell
+IRF3	GH19J049849	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049849	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049849	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049849	Ensembl	H9 neuron cells
+IRF3	GH19J049874	ENCODE	astrocyte
+IRF3	GH19J049874	ENCODE	neural stem progenitor cell
+IRF3	GH19J049874	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J049874	Ensembl	H1 neural progenitor cells
+IRF3	GH19J049874	Ensembl	H9 neural progenitor cells
+IRF3	GH19J049874	Ensembl	H9 neuron cells
+IRF3	GH19J049893	---	---
+IRF3	GH19J049926	ENCODE	astrocyte
+IRF3	GH19J049926	ENCODE	neural stem progenitor cell
+IRF3	GH19J049980	---	---
+IRF3	GH19J049987	ENCODE	neural stem progenitor cell
+IRF3	GH19J050022	ENCODE	astrocyte
+IRF3	GH19J050022	ENCODE	neural stem progenitor cell
+IRF3	GH19J050135	---	---
+IRF3	GH19J050329	ENCODE	neural stem progenitor cell
+IRF3	GH19J050329	FANTOM5	brain
+IRF3	GH19J050329	FANTOM5	neuron
+IRF3	GH19J050356	---	---
+IRF3	GH19J050375	ENCODE	astrocyte
+IRF3	GH19J050375	ENCODE	neural stem progenitor cell
+IRF3	GH19J050383	ENCODE	astrocyte
+IRF3	GH19J050383	ENCODE	neural stem progenitor cell
+IRF3	GH19J050383	Ensembl	Astrocytes
+IRF3	GH19J050383	Ensembl	Brain germinal matrix
+IRF3	GH19J050383	Ensembl	Cortex neurosphere
+IRF3	GH19J050383	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J050383	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J050383	Ensembl	H1 neural progenitor cells
+IRF3	GH19J050383	Ensembl	H9 neural progenitor cells
+IRF3	GH19J050383	Ensembl	H9 neuron cells
+IRF3	GH19J050383	FANTOM5	neuronal stem cell
+IRF3	GH19J050489	ENCODE	neural stem progenitor cell
+IRF3	GH19J050489	Ensembl	Astrocytes
+IRF3	GH19J050489	Ensembl	Cortex neurosphere
+IRF3	GH19J050489	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J050489	Ensembl	Ganglion eminence neurosphere
+IRF3	GH19J050489	Ensembl	H1 neural progenitor cells
+IRF3	GH19J050489	Ensembl	H9 neural progenitor cells
+IRF3	GH19J050489	Ensembl	H9 neuron cells
+IRF3	GH19J050489	dbSUPER	Brain - Anterior caudate
+IRF3	GH19J050489	dbSUPER	Brain - Cingulate gyrus
+IRF3	GH19J050489	dbSUPER	Brain - Inferior temporal lobe
+IRF3	GH19J050608	ENCODE	neural stem progenitor cell
+IRF3	GH19J050647	---	---
+IRF3	GH19J050650	Ensembl	GM23338 bipolar neurons
+IRF3	GH19J050650	Ensembl	H1 neural progenitor cells
+IRF3	GH19J050650	Ensembl	H9 neural progenitor cells
+IRF3	GH19J050653	ENCODE	neural stem progenitor cell
+IRF3	GH19J050653	Ensembl	H1 neural progenitor cells
+IRF3	GH19J050653	Ensembl	H9 neural progenitor cells
+IRF3	GH19J050657	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057190	ENCODE	astrocyte
+ZNF211	GH19J057190	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057190	Ensembl	Astrocytes
+ZNF211	GH19J057190	Ensembl	Cortex neurosphere
+ZNF211	GH19J057190	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057190	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057190	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057190	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057190	Ensembl	H9 neuron cells
+ZNF211	GH19J057476	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057476	Ensembl	Astrocytes
+ZNF211	GH19J057476	Ensembl	Brain germinal matrix
+ZNF211	GH19J057476	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057476	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057476	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057476	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057476	Ensembl	H9 neuron cells
+ZNF211	GH19J057487	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057526	ENCODE	astrocyte
+ZNF211	GH19J057526	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057578	ENCODE	astrocyte
+ZNF211	GH19J057578	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057578	Ensembl	Astrocytes
+ZNF211	GH19J057578	Ensembl	Brain germinal matrix
+ZNF211	GH19J057578	Ensembl	Cortex neurosphere
+ZNF211	GH19J057578	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057578	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057578	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057578	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057578	Ensembl	H9 neuron cells
+ZNF211	GH19J057599	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057613	ENCODE	astrocyte
+ZNF211	GH19J057613	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057613	Ensembl	Astrocytes
+ZNF211	GH19J057613	Ensembl	Brain germinal matrix
+ZNF211	GH19J057613	Ensembl	Cortex neurosphere
+ZNF211	GH19J057613	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057613	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057613	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057613	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057613	Ensembl	H9 neuron cells
+ZNF211	GH19J057630	---	---
+ZNF211	GH19J057632	ENCODE	astrocyte
+ZNF211	GH19J057632	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057632	Ensembl	Astrocytes
+ZNF211	GH19J057632	Ensembl	Brain germinal matrix
+ZNF211	GH19J057632	Ensembl	Cortex neurosphere
+ZNF211	GH19J057632	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057632	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057632	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057632	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057632	Ensembl	H9 neuron cells
+ZNF211	GH19J057650	---	---
+ZNF211	GH19J057654	---	---
+ZNF211	GH19J057663	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057663	Ensembl	Astrocytes
+ZNF211	GH19J057663	Ensembl	Brain germinal matrix
+ZNF211	GH19J057663	Ensembl	Cortex neurosphere
+ZNF211	GH19J057663	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057663	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057663	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057663	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057663	Ensembl	H9 neuron cells
+ZNF211	GH19J057667	---	---
+ZNF211	GH19J057681	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057681	Ensembl	Astrocytes
+ZNF211	GH19J057681	Ensembl	Brain germinal matrix
+ZNF211	GH19J057681	Ensembl	Cortex neurosphere
+ZNF211	GH19J057681	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J057681	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J057681	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J057681	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J057681	Ensembl	H9 neuron cells
+ZNF211	GH19J057809	ENCODE	astrocyte
+ZNF211	GH19J057809	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057818	ENCODE	astrocyte
+ZNF211	GH19J057818	ENCODE	neural stem progenitor cell
+ZNF211	GH19J057828	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058001	ENCODE	astrocyte
+ZNF211	GH19J058001	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058227	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058304	ENCODE	astrocyte
+ZNF211	GH19J058304	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058304	Ensembl	Brain germinal matrix
+ZNF211	GH19J058304	Ensembl	Cortex neurosphere
+ZNF211	GH19J058304	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J058304	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J058304	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J058304	Ensembl	H9 neuron cells
+ZNF211	GH19J058325	ENCODE	astrocyte
+ZNF211	GH19J058325	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058379	ENCODE	astrocyte
+ZNF211	GH19J058379	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058400	ENCODE	astrocyte
+ZNF211	GH19J058400	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058400	FANTOM5	astrocyte
+ZNF211	GH19J058400	FANTOM5	brain
+ZNF211	GH19J058406	ENCODE	astrocyte
+ZNF211	GH19J058406	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058450	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058474	ENCODE	astrocyte
+ZNF211	GH19J058474	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058474	Ensembl	Astrocytes
+ZNF211	GH19J058474	Ensembl	Brain germinal matrix
+ZNF211	GH19J058474	Ensembl	Cortex neurosphere
+ZNF211	GH19J058474	Ensembl	GM23338 bipolar neurons
+ZNF211	GH19J058474	Ensembl	Ganglion eminence neurosphere
+ZNF211	GH19J058474	Ensembl	H1 neural progenitor cells
+ZNF211	GH19J058474	Ensembl	H9 neural progenitor cells
+ZNF211	GH19J058474	Ensembl	H9 neuron cells
+ZNF211	GH19J058488	---	---
+ZNF211	GH19J058498	ENCODE	astrocyte
+ZNF211	GH19J058498	ENCODE	neural stem progenitor cell
+ZNF211	GH19J058571	ENCODE	astrocyte
+ZNF211	GH19J058571	ENCODE	neural stem progenitor cell
+ZNF133	GH20J017517	---	---
+ZNF133	GH20J017566	ENCODE	astrocyte
+ZNF133	GH20J017566	ENCODE	neural stem progenitor cell
+ZNF133	GH20J017566	dbSUPER	Astrocytes
+ZNF133	GH20J017656	---	---
+ZNF133	GH20J017771	---	---
+ZNF133	GH20J017841	ENCODE	astrocyte
+ZNF133	GH20J017841	Ensembl	Astrocytes
+ZNF133	GH20J017858	---	---
+ZNF133	GH20J017862	---	---
+ZNF133	GH20J017878	---	---
+ZNF133	GH20J017894	---	---
+ZNF133	GH20J017934	ENCODE	neural stem progenitor cell
+ZNF133	GH20J017934	Ensembl	Astrocytes
+ZNF133	GH20J017934	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J017934	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J017934	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J017954	ENCODE	astrocyte
+ZNF133	GH20J017954	ENCODE	neural stem progenitor cell
+ZNF133	GH20J017984	---	---
+ZNF133	GH20J018030	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018030	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018136	ENCODE	astrocyte
+ZNF133	GH20J018136	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018136	Ensembl	Astrocytes
+ZNF133	GH20J018136	Ensembl	Brain germinal matrix
+ZNF133	GH20J018136	Ensembl	Cortex neurosphere
+ZNF133	GH20J018136	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018136	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018136	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018136	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018136	Ensembl	H9 neuron cells
+ZNF133	GH20J018142	---	---
+ZNF133	GH20J018143	---	---
+ZNF133	GH20J018164	---	---
+ZNF133	GH20J018165	Ensembl	Astrocytes
+ZNF133	GH20J018176	---	---
+ZNF133	GH20J018185	---	---
+ZNF133	GH20J018196	---	---
+ZNF133	GH20J018197	---	---
+ZNF133	GH20J018223	---	---
+ZNF133	GH20J018224	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018231	Ensembl	Cortex neurosphere
+ZNF133	GH20J018249	---	---
+ZNF133	GH20J018251	---	---
+ZNF133	GH20J018256	---	---
+ZNF133	GH20J018263	---	---
+ZNF133	GH20J018267	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018267	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018267	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018269	---	---
+ZNF133	GH20J018271	---	---
+ZNF133	GH20J018276	---	---
+ZNF133	GH20J018287	ENCODE	astrocyte
+ZNF133	GH20J018287	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018287	Ensembl	Astrocytes
+ZNF133	GH20J018287	Ensembl	Cortex neurosphere
+ZNF133	GH20J018287	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018287	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018287	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018287	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018287	Ensembl	H9 neuron cells
+ZNF133	GH20J018295	---	---
+ZNF133	GH20J018298	---	---
+ZNF133	GH20J018313	Ensembl	Brain (fetal)
+ZNF133	GH20J018323	---	---
+ZNF133	GH20J018330	---	---
+ZNF133	GH20J018339	---	---
+ZNF133	GH20J018360	---	---
+ZNF133	GH20J018381	---	---
+ZNF133	GH20J018388	Ensembl	Astrocytes
+ZNF133	GH20J018393	---	---
+ZNF133	GH20J018394	---	---
+ZNF133	GH20J018404	---	---
+ZNF133	GH20J018412	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018412	Ensembl	Astrocytes
+ZNF133	GH20J018412	Ensembl	Cortex neurosphere
+ZNF133	GH20J018412	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018412	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018412	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018412	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018412	Ensembl	H9 neuron cells
+ZNF133	GH20J018416	Ensembl	Cortex neurosphere
+ZNF133	GH20J018416	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018416	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018416	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018416	Ensembl	H9 neuron cells
+ZNF133	GH20J018417	---	---
+ZNF133	GH20J018421	---	---
+ZNF133	GH20J018428	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018430	---	---
+ZNF133	GH20J018433	---	---
+ZNF133	GH20J018436	---	---
+ZNF133	GH20J018443	Ensembl	Cortex neurosphere
+ZNF133	GH20J018443	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018465	ENCODE	astrocyte
+ZNF133	GH20J018465	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018465	Ensembl	Astrocytes
+ZNF133	GH20J018465	Ensembl	Cortex neurosphere
+ZNF133	GH20J018465	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018465	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018465	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018465	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018465	Ensembl	H9 neuron cells
+ZNF133	GH20J018496	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018496	Ensembl	Astrocytes
+ZNF133	GH20J018496	Ensembl	Cortex neurosphere
+ZNF133	GH20J018496	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018496	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018496	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018496	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018496	Ensembl	H9 neuron cells
+ZNF133	GH20J018506	ENCODE	astrocyte
+ZNF133	GH20J018506	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018506	Ensembl	Astrocytes
+ZNF133	GH20J018506	Ensembl	Cortex neurosphere
+ZNF133	GH20J018506	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018506	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018506	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018506	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018506	Ensembl	H9 neuron cells
+ZNF133	GH20J018566	ENCODE	astrocyte
+ZNF133	GH20J018566	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018566	Ensembl	Astrocytes
+ZNF133	GH20J018566	Ensembl	Cortex neurosphere
+ZNF133	GH20J018566	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018566	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018566	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018566	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018566	Ensembl	H9 neuron cells
+ZNF133	GH20J018584	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018584	Ensembl	H9 neuron cells
+ZNF133	GH20J018587	ENCODE	neural stem progenitor cell
+ZNF133	GH20J018587	Ensembl	Astrocytes
+ZNF133	GH20J018587	Ensembl	Cortex neurosphere
+ZNF133	GH20J018587	Ensembl	GM23338 bipolar neurons
+ZNF133	GH20J018587	Ensembl	Ganglion eminence neurosphere
+ZNF133	GH20J018587	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018587	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018587	Ensembl	H9 neuron cells
+ZNF133	GH20J018724	Ensembl	Cortex neurosphere
+ZNF133	GH20J018724	Ensembl	H9 neural progenitor cells
+ZNF133	GH20J018724	Ensembl	H9 neuron cells
+ZNF133	GH20J018962	Ensembl	H1 neural progenitor cells
+ZNF133	GH20J018962	Ensembl	H9 neuron cells
+L3MBTL2	GH22J040496	ENCODE	astrocyte
+L3MBTL2	GH22J040496	Ensembl	Astrocytes
+L3MBTL2	GH22J040496	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J040634	ENCODE	astrocyte
+L3MBTL2	GH22J040634	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J040634	Ensembl	Brain germinal matrix
+L3MBTL2	GH22J040634	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J040650	ENCODE	astrocyte
+L3MBTL2	GH22J040650	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J040650	FANTOM5	astrocyte
+L3MBTL2	GH22J040650	FANTOM5	brain
+L3MBTL2	GH22J040650	FANTOM5	spinal cord
+L3MBTL2	GH22J040709	ENCODE	astrocyte
+L3MBTL2	GH22J040709	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J040863	---	---
+L3MBTL2	GH22J041020	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041020	FANTOM5	astrocyte
+L3MBTL2	GH22J041020	FANTOM5	brain
+L3MBTL2	GH22J041090	ENCODE	astrocyte
+L3MBTL2	GH22J041090	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041105	---	---
+L3MBTL2	GH22J041109	---	---
+L3MBTL2	GH22J041112	---	---
+L3MBTL2	GH22J041122	Ensembl	Astrocytes
+L3MBTL2	GH22J041180	---	---
+L3MBTL2	GH22J041197	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041197	Ensembl	Astrocytes
+L3MBTL2	GH22J041197	Ensembl	Brain germinal matrix
+L3MBTL2	GH22J041197	Ensembl	Cortex neurosphere
+L3MBTL2	GH22J041197	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041197	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J041197	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041197	Ensembl	H9 neural progenitor cells
+L3MBTL2	GH22J041197	Ensembl	H9 neuron cells
+L3MBTL2	GH22J041200	---	---
+L3MBTL2	GH22J041204	ENCODE	astrocyte
+L3MBTL2	GH22J041204	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041204	Ensembl	Astrocytes
+L3MBTL2	GH22J041204	Ensembl	Brain germinal matrix
+L3MBTL2	GH22J041204	Ensembl	Cortex neurosphere
+L3MBTL2	GH22J041204	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041204	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J041204	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041204	Ensembl	H9 neural progenitor cells
+L3MBTL2	GH22J041204	Ensembl	H9 neuron cells
+L3MBTL2	GH22J041216	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041216	Ensembl	Astrocytes
+L3MBTL2	GH22J041216	Ensembl	Brain germinal matrix
+L3MBTL2	GH22J041216	Ensembl	Cortex neurosphere
+L3MBTL2	GH22J041216	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041216	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J041216	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041216	Ensembl	H9 neural progenitor cells
+L3MBTL2	GH22J041216	Ensembl	H9 neuron cells
+L3MBTL2	GH22J041216	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041216	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041220	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041220	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041222	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041226	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041227	Ensembl	Brain (fetal)
+L3MBTL2	GH22J041229	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041229	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041235	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041235	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041237	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041237	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041237	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041240	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041240	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041240	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041240	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041240	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041273	dbSUPER	Brain - Hippocampus middle
+L3MBTL2	GH22J041280	---	---
+L3MBTL2	GH22J041281	---	---
+L3MBTL2	GH22J041284	ENCODE	astrocyte
+L3MBTL2	GH22J041284	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041284	Ensembl	Astrocytes
+L3MBTL2	GH22J041284	Ensembl	Brain germinal matrix
+L3MBTL2	GH22J041284	Ensembl	Cortex neurosphere
+L3MBTL2	GH22J041284	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041284	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J041284	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041284	Ensembl	H9 neural progenitor cells
+L3MBTL2	GH22J041284	Ensembl	H9 neuron cells
+L3MBTL2	GH22J041284	dbSUPER	Brain - Hippocampus middle
+L3MBTL2	GH22J041366	Ensembl	Astrocytes
+L3MBTL2	GH22J041366	Ensembl	Brain germinal matrix
+L3MBTL2	GH22J041366	Ensembl	Cortex neurosphere
+L3MBTL2	GH22J041366	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041366	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J041366	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041366	Ensembl	H9 neural progenitor cells
+L3MBTL2	GH22J041366	Ensembl	H9 neuron cells
+L3MBTL2	GH22J041366	dbSUPER	Brain - Angular gyrus
+L3MBTL2	GH22J041366	dbSUPER	Brain - Anterior caudate
+L3MBTL2	GH22J041366	dbSUPER	Brain - Hippocampus middle
+L3MBTL2	GH22J041366	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041444	ENCODE	astrocyte
+L3MBTL2	GH22J041444	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041444	FANTOM5	brain
+L3MBTL2	GH22J041444	dbSUPER	Brain - Angular gyrus
+L3MBTL2	GH22J041444	dbSUPER	Brain - Anterior caudate
+L3MBTL2	GH22J041444	dbSUPER	Brain - Hippocampus middle
+L3MBTL2	GH22J041444	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041444	dbSUPER	Brain - Mid frontal lobe
+L3MBTL2	GH22J041467	ENCODE	astrocyte
+L3MBTL2	GH22J041467	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041474	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041497	dbSUPER	Brain - Angular gyrus
+L3MBTL2	GH22J041497	dbSUPER	Brain - Anterior caudate
+L3MBTL2	GH22J041497	dbSUPER	Brain - Hippocampus middle
+L3MBTL2	GH22J041497	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041497	dbSUPER	Brain - Mid frontal lobe
+L3MBTL2	GH22J041513	Ensembl	GM23338 bipolar neurons
+L3MBTL2	GH22J041513	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J041513	dbSUPER	Brain - Angular gyrus
+L3MBTL2	GH22J041513	dbSUPER	Brain - Anterior caudate
+L3MBTL2	GH22J041513	dbSUPER	Brain - Cingulate gyrus
+L3MBTL2	GH22J041513	dbSUPER	Brain - Hippocampus middle
+L3MBTL2	GH22J041513	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041513	dbSUPER	Brain - Mid frontal lobe
+L3MBTL2	GH22J041587	ENCODE	astrocyte
+L3MBTL2	GH22J041587	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041618	ENCODE	astrocyte
+L3MBTL2	GH22J041618	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041666	ENCODE	astrocyte
+L3MBTL2	GH22J041666	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041681	ENCODE	astrocyte
+L3MBTL2	GH22J041681	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041799	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041815	---	---
+L3MBTL2	GH22J041831	ENCODE	astrocyte
+L3MBTL2	GH22J041831	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J041831	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J041831	dbSUPER	Brain - Inferior temporal lobe
+L3MBTL2	GH22J041960	Ensembl	Astrocytes
+L3MBTL2	GH22J041960	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J042069	ENCODE	astrocyte
+L3MBTL2	GH22J042069	ENCODE	neural stem progenitor cell
+L3MBTL2	GH22J042069	Ensembl	Astrocytes
+L3MBTL2	GH22J042069	Ensembl	Ganglion eminence neurosphere
+L3MBTL2	GH22J042069	Ensembl	H1 neural progenitor cells
+L3MBTL2	GH22J042069	Ensembl	H9 neural progenitor cells

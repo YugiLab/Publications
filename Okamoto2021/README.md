@@ -8,13 +8,13 @@ KEGG_scraping contains scripts to obtain KEGG ID lists and lipid enzyme lists fo
 
 1. Run "get_KEGG_ID_list.sh"
 2. Run "get_lipid_enzyme_list.sh"
-3. Obtain list of lipid matabolism pathways from KEGG REST(http://rest.kegg.jp/get/br:br08901) and save as "lipid_metabolism_pathways.txt"
+3. Obtain the list of lipid matabolism pathways from KEGG REST(http://rest.kegg.jp/get/br:br08901) and save as "lipid_metabolism_pathways.txt"
 
 ### Public_Data
 Public_Data contains scripts to extract DEGs from the downloaded transcriptome datasets. Please follow the steps below.
 
 1. Access to each Accession No. page at NCBI GEO Datasets(https://www.ncbi.nlm.nih.gov/gds) and download files of the transcriptome datasets.
-2. Run "DEG_Rscripts/data*_DEG.R" to extract DEGs. In case of data12 and data13, we used the authors-defined DEG lists that are presented in their supplemental data.
+2. In case of data4/5/9/10/11, run "DEG_Rscripts/data*_DEGseq.R" to extract DEGs. Except for these data sets, we used the authors-defined DEG lists that are presented in their supplemental data.
 3. If needed, run "volcano.R" to draw a volcano plot of the DEG.
 
 ### Lipid_Metabolism
@@ -38,11 +38,9 @@ in each subdirectory.
 ## Fig 2
 
 ### TF_estimation
-TF_estimation contains subdirectories "Public_Data1~15". Each subdirectory contains the files below:
+TF_estimation contains subdirectories "Public_Data1-7, 9, 10, 11, 12, 14". Each subdirectory contains the files below:
 
 * "TF_estimation.sh"
-* "Fig2a.sh"
-* "Fig3a.sh"
 * "dataFIXME_lipid_genes.txt" (FIXME is the number of the public data) is the input gene list of GeneALaCart Query
 * "dataFIXME_DEGs.txt" is used to identify and extract DEGs from the estimated TFBSs
 * xlsx files containing results of TF estimation via GeneALaCart Query
@@ -62,9 +60,7 @@ The script will process the list of TFs and output the list of corresponding TFB
 4. Enter genelist("dataFIXME_TFBS_DEGs.txt") in the Input field of GeneALaCart Query, with 'GeneHancer' selected as the Requested Data per Gene (Repeat the procedure from step 2.)
 5. When done, run
 
-`$ bash Fig2a.sh FIXME > results_dataFIXME.txt`
-
-`$ bash Fig3a.sh FIXME > fig3a_results.txt`
+`$ bash Fig2.sh FIXME > results_dataFIXME.txt`
 
 and obtain number of data.
 - When taking out the GeneHancer tab from the downloaded data (from Layer2 or more) and saving it, do not forget to save as "genehancer_dataFIXME_depth2.csv"
@@ -73,17 +69,19 @@ and obtain number of data.
 Rplot contains files for drawing Fig2a~c and consists of the files below:
 
 * fig2a.R
+* fig2a_percent.R
 * fig2b_layer1.R
 * fig2c_layer2.R
 
 The scripts will generate barplots using R. Please follow the steps below:
 1. Run "fig2a.R". (The data in this script comes from "dataFIXME_lipid_genes.txt")
-2. Run "fig2b_layer1.R". (The data in this script comes from "dataFIXME_promoter_TFBS_DEGs.txt","dataFIXME_enhancer_TFBS_DEGs.txt","dataFIXME_promoterenhancer_TFBS_DEGs.txt")
-3. Run "fig2c_layer2.R". (The data in this script comes from "dataFIXME_promoter_TFBS_DEGs2.txt","dataFIXME_enhancer_TFBS_DEGs2.txt","dataFIXME_promoterenhancer_TFBS_DEGs2.txt")
+2. Run "fig2a_percent.R". (The data in this script comes from "dataFIXME_lipid_genes.txt")
+3. Run "fig2b_layer1.R". (The data in this script comes from "dataFIXME_promoter_TFBS_DEGs.txt","dataFIXME_enhancer_TFBS_DEGs.txt","dataFIXME_promoterenhancer_TFBS_DEGs.txt")
+4. Run "fig2c_layer2.R". (The data in this script comes from "dataFIXME_promoter_TFBS_DEGs2.txt","dataFIXME_enhancer_TFBS_DEGs2.txt","dataFIXME_promoterenhancer_TFBS_DEGs2.txt")
 
 ## Fig 3
 ### TFTGs_and_TFclasses
-TFTGs_and_TFclasses contains subdirectories "Data1~15". Each subdirectory contains the files below:
+TFTGs_and_TFclasses contains subdirectories "Data1~7, 9, 10, 11, 12, 14". Each subdirectory contains the files below:
 
 * target_gene.sh
 * README.md
@@ -125,7 +123,7 @@ Rplot contains files for drawing Fig3a~c and consists of the files below:
 The scripts will generate barplot of the number of DEGs in each cluster and heatmap of TF-TG pairs.
 
 1. Make sure that all the files shown above are present in the working directory.
-2. Run "fig3a.R" to obtain the graph of Fig.3a.
+2. Run "fig3a_new.R" to obtain the graph of Fig.3a.
 3. Run
 
 `$ bash generate_TG_lis.sh FIXME`
@@ -136,7 +134,7 @@ in each subdirectory dataFIXME to produce dataFIXME_TGs.txt.
 
 `$ bash generate_alldata_TFTGs_count.sh`
 
-`$ python alldata_TFTG_merge.py`
+`$ python alldata_TFTG_mergy.py`
 
 `$ python alldata_as_matrix_forR.py`
 
@@ -165,7 +163,7 @@ where FIXME should be replaced to the number of the cluster of interest.
 Barplot contains the file below:
 * bar_graph_ggplot.R
 
-"bar_graph_ggplot.R" will generate barplot of the number of DEGs and SNPs associated with DEGs via GTEx v8 eQTL.  
+"bar_graph_ggplot.R" will generate barplot of the number of DEGs and SNPs associated with DRN-related DEGs via GTEx v8 eQTL.  
 
 ### Heatmap
 Heatmap contains the files below:
@@ -195,23 +193,48 @@ FigS1/KEGG_Pathway_Enrichment contains scripts to perform KEGG pathway enrichmen
 
 `$ bash enrich.sh hsa <(cat dataFIXME_KEGG_ID.txt | cut -d" " -f3 | sort | uniq) ./Data/hsa_non_disease_pathway_list.txt dataFIXME_enrich_non_disease.txt`
 
-Please change the value of the -f option of `cut` according to the position of KEGG ID column in dataFIXME_KEGG_ID.txt.
+Please change the value of -d option and -f option of `cut` according to the structure of dataFIXME_KEGG_ID.txt.
 
-3. Run "pathway_enrichment.R" in FigS1/Rplot against the 15 output files of Step2.
+3. Run "pathway_enrichment.R" in FigS1/Rplot against the output files of Step2.
 
 ## Fig S3
+### Installation of required R libraries
+Execute the codes below on R console and install the required libraries.
 
-Fig S3 contains the file below:
-* XGR.R
-* subdirectory list_of_SNPs
+`install.packages("tidyverse")`
 
+`install.packages("gt")`
+
+`install.packages("webshot")`
+
+### Preprocess
+#### Ensembl
+Execute the code below at Preprocess/Ensembl.
+
+`$ bash ens_preprocess.sh`
+
+It will take 1~2 minutes.
+
+#### GTEx
 1. Download GTEx_Analysis_v8_eQTL.tar and GTEx_Analysis_2017-06-05_v8_WholeGenomeSeq_838Indiv_Analysis_Freeze.lookup_table.txt.gz from GTEx Portal (https://gtexportal.org/).
-2. Decompress downloaded files to the same working directory as eQTL_SNP.sh.
-3. Copy dataFIXME_TFBS_depth1.txt and dataFIXME_TFBS_depth2.txt from Fig2/TF_estimation/Public_DataFIXME and paste them to the same working directory as eQTL_SNP.sh.
-4. Run
+2. Decompress downloaded files to Preprocess/GTEx.
+3. Execute the code below at Preprocess/GTEx.
 
-`$ bash eQTL_SNP.sh FIXME`
+`$ bash gtex_preprocess.sh > Brain.v8.signif_rs_gene_pairs.txt`
 
-and you will obtain dataFIXME_SNPs_only.txt that contains the list of identified SNP rs IDs.
+It will take 5~30 minutes.
 
-5. Run "XGR.R" and you can perform enrichment analysis of SNPs.  
+### Prepare TFBS files
+Copy data*_TFBS_depth1.txt and data*_TFBS_depth2.txt from the Fig2/TF_estimation/Public_Data*
+and paste them into /Data.
+
+### Execute an analysis
+Execute the code below at /Program.
+
+`$ bash 0_automator.sh NUM`
+
+Please replace NUM to the number of the target data set.
+
+### Result
+You can find several result files at /Data. "belonging_genes_for_each_efo_terms.txt" contains the list of gene symobls that are linked to each EFO term. "number_of_SNPs_and_genes_for_each_efo_terms.txt" contains the table of the number of rs IDs and gene symbols that are linked to each EFO term.
+
