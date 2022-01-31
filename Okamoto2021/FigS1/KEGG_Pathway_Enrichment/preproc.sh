@@ -8,7 +8,7 @@ theSpecies=$1
 
 DATA_DIR=./Data
 
-curl "Http://rest.kegg.jp/link/${theSpecies}/pathway" > ${DATA_DIR}/path.${theSpecies}.xrefs
+curl "http://rest.kegg.jp/link/${theSpecies}/pathway" > ${DATA_DIR}/path.${theSpecies}.xrefs
 
 curl "http://rest.kegg.jp/list/pathway/${theSpecies}" | awk -F" - " '{ print $1 }' > ${DATA_DIR}/${theSpecies}_pathway_list.txt
 
