@@ -94,7 +94,7 @@ write(TGcluster7, file="alldata_TGcluster7.txt", sep="\n")
 #Draw dotplot for each data 変更
 #Clear the decks
 rm(list = ls())
-df <- read.table("data1/data1_dotplot_matrix_pro_enh.txt",row.names=1)
+df <- read.table("FigS2_Data/data1_dotplot_matrix_pro_enh.txt",row.names=1)
 TGs <- colnames(df)
 TFs <- rownames(df)
 pureTGs <- setdiff(TGs, TFs)
