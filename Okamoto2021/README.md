@@ -218,11 +218,13 @@ It will take 1~2 minutes.
 #### GTEx
 1. Download GTEx_Analysis_v8_eQTL.tar and GTEx_Analysis_2017-06-05_v8_WholeGenomeSeq_838Indiv_Analysis_Freeze.lookup_table.txt.gz from GTEx Portal (https://gtexportal.org/).
 2. Decompress downloaded files to Preprocess/GTEx.
-3. Execute the code below at Preprocess/GTEx.
+3. Execute the codes below at Preprocess/GTEx.
 
-`$ bash gtex_preprocess.sh > Brain.v8.signif_rs_gene_pairs.txt`
+`$ bash gtex_preprocess_1.sh > Brain.v8.signif_rs_gene_pairs.txt`
 
-It will take 5~30 minutes.
+`$ bash gtex_preprocess_2.sh`
+
+It will take 10~60 minutes.
 
 ### Prepare TFBS files
 Copy data*_TFBS_depth1.txt and data*_TFBS_depth2.txt from the Fig2/TF_estimation/Public_Data*
