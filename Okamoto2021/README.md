@@ -123,7 +123,7 @@ Rplot contains files for drawing Fig3a~c and consists of the files below:
 The scripts will generate barplot of the number of DEGs in each cluster and heatmap of TF-TG pairs.
 
 1. Make sure that all the files shown above are present in the working directory.
-2. Run "fig3a_new.R" to obtain the graph of Fig.3a.
+2. Run "fig3a.R" to obtain the graph of Fig.3a.
 3. Run
 
 `$ bash generate_TG_lis.sh FIXME`
