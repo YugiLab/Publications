@@ -207,6 +207,13 @@ Execute the codes below on R console and install the required libraries.
 
 `install.packages("webshot")`
 
+`install.packages("webshot2")`
+
+### Installation of XGR
+Please install another required R library "XGR" according to the instructions of the section 4.2 of the website below.
+
+http://xgr.r-forge.r-project.org/
+
 ### Preprocess
 #### Ensembl
 Execute the code below at Preprocess/Ensembl.
