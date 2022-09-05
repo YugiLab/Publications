@@ -21,7 +21,7 @@ awk -F"\t" 'NR > 1 { print $1"\t"$0 }' ${Network_File} > ${Data_Dir}/network_hsa
 for Gene_ID in $(cut -f1 ${Data_Dir}/network_hsa.txt | sort) ; do
     curl http://rest.kegg.jp/get/${Gene_ID} |
 	awk -F" {2,}" -v anID=${Gene_ID} '/^NAME/{ n=split($2, aName , ", ") } ; /^DEFINITION/{ aDef=$2 } ; END{ for(i=1;i<=n;i++){ print anID"\t"aName[i]"\t"aDef} }'
-    sleep 0.3s
+    sleep 0.3
 done > ${Data_Dir}/hsa.name.def.xrefs
 
 ##
